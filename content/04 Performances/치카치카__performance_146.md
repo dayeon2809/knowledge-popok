@@ -1,0 +1,37 @@
+---
+entity_type: "performance"
+performance_id: 146
+title: "치카치카"
+performance_date: null
+start_date: null
+end_date: null
+festival: null
+city: null
+country: null
+extraction_method: "cooccurrence"
+verification_status: "inferred"
+confidence: 0.4
+---
+
+# 치카치카
+
+> ⚠️ **추론된 데이터**: 이 공연 기록은 기사 co-occurrence로 추정된 것으로, 사람이 검증하지 않았습니다. (extraction_method=cooccurrence, verification_status=inferred, confidence=0.4)
+
+## 작품 / 날짜 / 공연장 / 단체
+
+- 작품: [[치카치카__work_155|치카치카]]
+- 공연장: [[마포아트센터 아트홀맥__venue_167|마포아트센터 아트홀맥]]
+
+## 관련 리뷰와 콘텐츠
+
+- [리뷰] [[김지영의 ONE DAY__editorial_194|김지영의 ONE DAY]] (관계 추론됨)
+
+## extraction_method / verification_status / confidence
+
+- extraction_method: cooccurrence
+- verification_status: inferred
+- confidence: 0.4
+
+## Source Evidence
+
+- 근거 기사: [리뷰] [[김지영의 ONE DAY__editorial_194|김지영의 ONE DAY]]

@@ -1,0 +1,1399 @@
+# Review Queue — work
+
+pending 후보 465건
+
+- [ ] [[2024 세실풍류__work_685|2024 세실풍류]] <-> [[2024 세실풍류__work_689|2024 세실풍류]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[24절기(A Dance of Celestial Rhythms)__work_596|24절기(A Dance of Celestial Rhythms)]] <-> [[24절기(A Dance of Celestial Rhythms)__work_1096|24절기(A Dance of Celestial Rhythms)]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[24절기(A Dance of Celestial Rhythms)__work_596|24절기(A Dance of Celestial Rhythms)]] <-> [[24절기(A Dance of Celestial Rhythms)__work_1106|24절기(A Dance of Celestial Rhythms)]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[24절기(A Dance of Celestial Rhythms)__work_1096|24절기(A Dance of Celestial Rhythms)]] <-> [[24절기(A Dance of Celestial Rhythms)__work_1106|24절기(A Dance of Celestial Rhythms)]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Dance for PD__work_1053|Dance for PD]] <-> [[Dance for PD__work_1343|Dance for PD]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Mr Blank 2.0__work_1112|Mr Blank 2.0]] <-> [[Mr Blank 2.0__work_1113|Mr Blank 2.0]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Mr. Blank 2.0__work_599|Mr. Blank 2.0]] <-> [[Mr. Blank 2.0__work_1104|Mr. Blank 2.0]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Rice__work_358|Rice]] <-> [[Rice__work_1716|Rice]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강__work_413|강]] <-> [[강__work_649|강]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양국제무용제__work_1475|고양국제무용제]] <-> [[고양국제무용제__work_1478|고양국제무용제]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양국제무용제__work_1475|고양국제무용제]] <-> [[고양국제무용제__work_1593|고양국제무용제]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양국제무용제__work_1478|고양국제무용제]] <-> [[고양국제무용제__work_1593|고양국제무용제]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[구토__work_235|구토]] <-> [[구토__work_276|구토]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[노인과 바다__work_328|노인과 바다]] <-> [[노인과 바다__work_748|노인과 바다]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[누수__work_584|누수]] <-> [[누수__work_1062|누수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[단장__work_755|단장]] <-> [[단장__work_758|단장]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[더블빌__work_150|더블빌]] <-> [[더블빌__work_1534|더블빌]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[돈키호테__work_709|돈키호테]] <-> [[돈키호테__work_727|돈키호테]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[돈키호테__work_709|돈키호테]] <-> [[돈키호테__work_1350|돈키호테]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[돈키호테__work_727|돈키호테]] <-> [[돈키호테__work_1350|돈키호테]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[라 바야데르__work_433|라 바야데르]] <-> [[라 바야데르__work_1248|라 바야데르]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_304|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_308|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_326|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_469|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_682|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_720|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_794|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_308|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_326|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_469|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_682|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_720|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_794|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_308|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_326|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_308|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_469|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_308|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_682|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_308|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_720|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_308|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_794|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_308|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_308|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_326|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_469|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_326|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_682|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_326|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_720|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_326|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_794|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_326|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_326|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_469|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_682|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_469|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_720|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_469|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_794|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_469|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_469|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_682|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_720|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_682|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_794|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_682|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_682|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_720|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_794|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_720|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_720|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_794|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_794|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[말괄량이 길들이기__work_370|말괄량이 길들이기]] <-> [[말괄량이 길들이기__work_774|말괄량이 길들이기]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[모다페 2020__work_1702|모다페 2020]] <-> [[모다페 2020__work_1703|모다페 2020]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[모던정동__work_686|모던정동]] <-> [[모던정동__work_1279|모던정동]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[미인__work_21|미인]] <-> [[미인__work_288|미인]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[미인__work_21|미인]] <-> [[미인__work_1325|미인]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[미인__work_288|미인]] <-> [[미인__work_1325|미인]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[바비레따, 열 번째 계절__work_1555|바비레따, 열 번째 계절]] <-> [[바비레따, 열 번째 계절__work_1556|바비레따, 열 번째 계절]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[발레메이트 페스티벌__work_1629|발레메이트 페스티벌]] <-> [[발레메이트 페스티벌__work_1794|발레메이트 페스티벌]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_284|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_520|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_620|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_728|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_731|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_734|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_520|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_620|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_728|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_731|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_734|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_620|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_728|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_731|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_734|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_728|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_731|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_734|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수__work_731|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수__work_734|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_731|백조의 호수]] <-> [[백조의 호수__work_734|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_731|백조의 호수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_731|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_731|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_731|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_731|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_734|백조의 호수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_734|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_734|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_734|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_734|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_875|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_875|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_875|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_875|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_929|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_929|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_929|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_1068|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_1068|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_1383|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄의 제전__work_391|봄의 제전]] <-> [[봄의 제전__work_691|봄의 제전]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄의 제전__work_391|봄의 제전]] <-> [[봄의 제전__work_1781|봄의 제전]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄의 제전__work_691|봄의 제전]] <-> [[봄의 제전__work_1781|봄의 제전]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[블랙__work_48|블랙]] <-> [[블랙__work_1658|블랙]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[비극(非劇) - 내일을 위한 우화__work_230|비극(非劇) - 내일을 위한 우화]] <-> [[비극(非劇) - 내일을 위한 우화__work_1675|비극(非劇) - 내일을 위한 우화]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[사계__work_37|사계]] <-> [[사계__work_953|사계]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[생생 춤 페스티벌__work_1121|생생 춤 페스티벌]] <-> [[생생 춤 페스티벌__work_1244|생생 춤 페스티벌]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울세계무용축제(SIDance)__work_1517|서울세계무용축제(SIDance)]] <-> [[서울세계무용축제(SIDance)__work_1641|서울세계무용축제(SIDance)]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[섬__work_257|섬]] <-> [[섬__work_306|섬]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[섬__work_257|섬]] <-> [[섬__work_1030|섬]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[섬__work_306|섬]] <-> [[섬__work_1030|섬]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[셩율전26__work_540|셩율전26]] <-> [[셩율전26__work_1073|셩율전26]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[숨__work_578|숨]] <-> [[숨__work_1335|숨]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[신로심불로__work_1373|신로심불로]] <-> [[신로심불로__work_1685|신로심불로]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[심청__work_335|심청]] <-> [[심청__work_609|심청]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[심청__work_335|심청]] <-> [[심청__work_736|심청]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[심청__work_609|심청]] <-> [[심청__work_736|심청]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안나 카레니나__work_286|안나 카레니나]] <-> [[안나 카레니나__work_690|안나 카레니나]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안중근, 천국에서의 춤__work_724|안중근, 천국에서의 춤]] <-> [[안중근, 천국에서의 춤__work_801|안중근, 천국에서의 춤]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[암덕 - 류(流)의 기원__work_710|암덕: 류(流)의 기원]] <-> [[암덕 - 류(流)의 기원__work_1313|암덕: 류(流)의 기원]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[얼토당토__work_316|얼토당토]] <-> [[얼토당토__work_905|얼토당토]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[오네긴__work_479|오네긴]] <-> [[오네긴__work_557|오네긴]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[오네긴__work_479|오네긴]] <-> [[오네긴__work_756|오네긴]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[오네긴__work_557|오네긴]] <-> [[오네긴__work_756|오네긴]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[육완순, 그녀에게__work_768|육완순, 그녀에게]] <-> [[육완순, 그녀에게__work_1498|육완순, 그녀에게]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이윽고__work_200|이윽고]] <-> [[이윽고__work_543|이윽고]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인어공주__work_613|인어공주]] <-> [[인어공주__work_866|인어공주]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[일무__work_145|일무]] <-> [[일무__work_684|일무]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[일무지관(一舞之貫)__work_548|일무지관(一舞之貫)]] <-> [[일무지관(一舞之貫)__work_1145|일무지관(一舞之貫)]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[일이관지 조선춤방__work_712|일이관지 조선춤방]] <-> [[일이관지 조선춤방__work_713|일이관지 조선춤방]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_567|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_820|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_567|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_919|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_567|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_1523|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_567|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_1708|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_820|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_919|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_820|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_1523|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_820|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_1708|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_919|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_1523|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_919|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_1708|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_1523|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_1708|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_7|지젤]] <-> [[지젤__work_417|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_7|지젤]] <-> [[지젤__work_1424|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_7|지젤]] <-> [[지젤__work_1470|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_7|지젤]] <-> [[지젤__work_1727|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_417|지젤]] <-> [[지젤__work_1424|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_417|지젤]] <-> [[지젤__work_1470|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_417|지젤]] <-> [[지젤__work_1727|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_1424|지젤]] <-> [[지젤__work_1470|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_1424|지젤]] <-> [[지젤__work_1727|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_1470|지젤]] <-> [[지젤__work_1727|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[차마 그곳이 잊힐리야__work_1468|차마 그곳이 잊힐리야]] <-> [[차마 그곳이 잊힐리야__work_1471|차마 그곳이 잊힐리야]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[처용__work_231|처용]] <-> [[처용__work_282|처용]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최초의 풍요사회__work_1529|최초의 풍요사회]] <-> [[최초의 풍요사회__work_1738|최초의 풍요사회]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춘천공연예술제__work_1366|춘천공연예술제]] <-> [[춘천공연예술제__work_1623|춘천공연예술제]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춘천공연예술제__work_1366|춘천공연예술제]] <-> [[춘천공연예술제__work_1630|춘천공연예술제]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춘천공연예술제__work_1623|춘천공연예술제]] <-> [[춘천공연예술제__work_1630|춘천공연예술제]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[카르미나 부라나__work_305|카르미나 부라나]] <-> [[카르미나 부라나__work_1143|카르미나 부라나]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[클라라 슈만__work_108|클라라 슈만]] <-> [[클라라 슈만__work_544|클라라 슈만]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2024__work_1263|파리 오페라 발레 에투알 갈라 2024]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1265|파리 오페라 발레 에투알 갈라 2024]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파지옥 한국편(Travel of the Soul - Echoes after Time)__work_601|파지옥 한국편(Travel of the Soul: Echoes after Time)]] <-> [[파지옥 한국편(Travel of the Soul - Echoes after Time)__work_1101|파지옥 한국편(Travel of the Soul: Echoes after Time)]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_333|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_614|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_333|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1260|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_333|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1520|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_333|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1774|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_614|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1260|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_614|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1520|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_614|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1774|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_1260|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1520|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_1260|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1774|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_1520|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1774|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한여름 밤의 꿈__work_46|한여름 밤의 꿈]] <-> [[한여름 밤의 꿈__work_906|한여름 밤의 꿈]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한여름 밤의 꿈__work_46|한여름 밤의 꿈]] <-> [[한여름 밤의 꿈__work_1047|한여름 밤의 꿈]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한여름 밤의 꿈__work_906|한여름 밤의 꿈]] <-> [[한여름 밤의 꿈__work_1047|한여름 밤의 꿈]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[해적__work_208|해적]] <-> [[해적__work_549|해적]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[해적__work_208|해적]] <-> [[해적__work_1698|해적]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[해적__work_549|해적]] <-> [[해적__work_1698|해적]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[햄베스__work_193|햄베스]] <-> [[햄베스__work_1154|햄베스]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기 인형__work_1214|호두까기 인형]] <-> [[호두까기 인형__work_1317|호두까기 인형]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기 인형__work_1214|호두까기 인형]] <-> [[호두까기 인형__work_1719|호두까기 인형]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기 인형__work_1317|호두까기 인형]] <-> [[호두까기 인형__work_1719|호두까기 인형]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1081|호두까기인형]] <-> [[호두까기인형__work_1195|호두까기인형]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1081|호두까기인형]] <-> [[호두까기인형__work_1196|호두까기인형]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1081|호두까기인형]] <-> [[호두까기인형__work_1780|호두까기인형]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1195|호두까기인형]] <-> [[호두까기인형__work_1196|호두까기인형]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1195|호두까기인형]] <-> [[호두까기인형__work_1780|호두까기인형]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1196|호두까기인형]] <-> [[호두까기인형__work_1780|호두까기인형]] — similarity 1.00
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2025 Exhibition of Democracy-민주주의에 말을 걸다__work_623|2025 Exhibition of Democracy-민주주의에 말을 걸다]] <-> [[2025 Exhibition of Democracy - 민주주의에 말을 걸다__work_1138|2025 Exhibition of Democracy - 민주주의에 말을 걸다]] — similarity 0.98
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라 발레 2022 에투알 갈라__work_1496|파리오페라 발레 2022 에투알 갈라]] <-> [[파리 오페라 발레 2022 에투알 갈라__work_1527|파리 오페라 발레 2022 에투알 갈라]] — similarity 0.98
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[더블빌 - 김성용 & 윌리엄 포사이스__work_597|더블빌: 김성용 & 윌리엄 포사이스]] <-> [[더블 빌 - 김성용 & 윌리엄 포사이스__work_1098|더블 빌: 김성용 & 윌리엄 포사이스]] — similarity 0.97
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[걷다, 바라보다 그리고 서다__work_136|걷다, 바라보다 그리고 서다]] <-> [[걷다, 바라보다, 그리고 서다__work_669|걷다, 바라보다, 그리고 서다]] — similarity 0.97
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[독공독무 서울교방 6인전__work_642|독공독무 서울교방 6인전]] <-> [[독공독무 - 서울교방 6인전__work_1182|독공독무: 서울교방 6인전]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Mr. Blank 2.0__work_599|Mr. Blank 2.0]] <-> [[Mr Blank 2.0__work_1112|Mr Blank 2.0]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Mr. Blank 2.0__work_1104|Mr. Blank 2.0]] <-> [[Mr Blank 2.0__work_1112|Mr Blank 2.0]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Mr. Blank 2.0__work_599|Mr. Blank 2.0]] <-> [[Mr Blank 2.0__work_1113|Mr Blank 2.0]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Mr. Blank 2.0__work_1104|Mr. Blank 2.0]] <-> [[Mr Blank 2.0__work_1113|Mr Blank 2.0]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[빛, 침묵 그리고__work_974|빛, 침묵 그리고...]] <-> [[빛, 침묵, 그리고__work_1652|빛, 침묵, 그리고...]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세실풍류 - 법고창신, 근현대춤 100년의 여정__work_1294|세실풍류:법고창신, 근현대춤 100년의 여정]] <-> [[세실풍류 - 법고창신, 근현대춤 100년의 여정__work_1297|세실풍류 : 법고창신, 근현대춤 100년의 여정]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[평화통일의염원 대학춤축제__work_1793|평화통일의염원 대학춤축제]] <-> [[평화통일염원 대학춤축제__work_1802|평화통일염원 대학춤축제]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인잇 - 보이지 않는것__work_28|인잇: 보이지 않는것]] <-> [[인잇 - 보이지 않는 것__work_637|인잇: 보이지 않는 것]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[KNB Movement Series 8__work_1376|KNB Movement Series 8]] <-> [[KNB Movement Series 7__work_1508|KNB Movement Series 7]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[KNB Movement Series 9__work_1275|KNB Movement Series 9]] <-> [[KNB Movement Series 7__work_1508|KNB Movement Series 7]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[KNB Movement Series 9__work_1275|KNB Movement Series 9]] <-> [[KNB Movement Series 8__work_1376|KNB Movement Series 8]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2025__work_1131|파리 오페라 발레 에투알 갈라 2025]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1263|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2025__work_1131|파리 오페라 발레 에투알 갈라 2025]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1265|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Water Castle – 토끼탈출기__work_777|Water Castle – 토끼탈출기]] <-> [[Water Castle - 토끼탈출기__work_1206|Water Castle - 토끼탈출기]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2024__work_673|파리오페라발레 에투알 갈라 2024]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1263|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2024__work_673|파리오페라발레 에투알 갈라 2024]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1265|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2025__work_616|파리오페라발레 에투알 갈라 2025]] <-> [[파리 오페라 발레 에투알 갈라 2025__work_1131|파리 오페라 발레 에투알 갈라 2025]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2025__work_616|파리오페라발레 에투알 갈라 2025]] <-> [[파리오페라발레 에투알 갈라 2024__work_673|파리오페라발레 에투알 갈라 2024]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파지옥_한국편(Travel of the Soul_Echoes after Time)__work_8|파지옥_한국편(Travel of the Soul_Echoes after Time)]] <-> [[파지옥 한국편(Travel of the Soul - Echoes after Time)__work_601|파지옥 한국편(Travel of the Soul: Echoes after Time)]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파지옥_한국편(Travel of the Soul_Echoes after Time)__work_8|파지옥_한국편(Travel of the Soul_Echoes after Time)]] <-> [[파지옥 한국편(Travel of the Soul - Echoes after Time)__work_1101|파지옥 한국편(Travel of the Soul: Echoes after Time)]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[소생, Regen__work_204|소생, Regen]] <-> [[소생 Regen__work_1562|소생 Regen]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[제15회 국제 2인무 페스티벌__work_1157|제15회 국제 2인무 페스티벌]] <-> [[제14회 국제 2인무 페스티벌__work_1212|제14회 국제 2인무 페스티벌]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한여름 밤의 꿈__work_46|한여름 밤의 꿈]] <-> [[한여름밤의 꿈__work_668|한여름밤의 꿈]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한여름밤의 꿈__work_668|한여름밤의 꿈]] <-> [[한여름 밤의 꿈__work_906|한여름 밤의 꿈]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한여름밤의 꿈__work_668|한여름밤의 꿈]] <-> [[한여름 밤의 꿈__work_1047|한여름 밤의 꿈]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[KNB Movement Series 7__work_1508|KNB Movement Series 7]] <-> [[KNB Movement Series 10__work_1830|KNB Movement Series 10]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[KNB Movement Series 8__work_1376|KNB Movement Series 8]] <-> [[KNB Movement Series 10__work_1830|KNB Movement Series 10]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[KNB Movement Series 9__work_1275|KNB Movement Series 9]] <-> [[KNB Movement Series 10__work_1830|KNB Movement Series 10]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[물고기 문어 불가사리 뱀 코끼리 늑대가 흐르는 몸의 노래__work_42|물고기 문어 불가사리 뱀 코끼리 늑대가 흐르는 몸의 노래]] <-> [[물고기, 문어, 불가사리, 뱀, 코끼리, 늑대가 흐르는 몸의 노래__work_1238|물고기, 문어, 불가사리, 뱀, 코끼리, 늑대가 흐르는 몸의 노래]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2023 무용여행舞游한국__work_1425|2023 무용여행舞游한국]] <-> [[2022 무용여행舞游한국__work_1500|2022 무용여행舞游한국]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1081|호두까기인형]] <-> [[호두까기 인형__work_1214|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1195|호두까기인형]] <-> [[호두까기 인형__work_1214|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1196|호두까기인형]] <-> [[호두까기 인형__work_1214|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기 인형__work_1214|호두까기 인형]] <-> [[호두까기인형__work_1780|호두까기인형]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1081|호두까기인형]] <-> [[호두까기 인형__work_1317|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1195|호두까기인형]] <-> [[호두까기 인형__work_1317|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1196|호두까기인형]] <-> [[호두까기 인형__work_1317|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기 인형__work_1317|호두까기 인형]] <-> [[호두까기인형__work_1780|호두까기인형]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1081|호두까기인형]] <-> [[호두까기 인형__work_1719|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1195|호두까기인형]] <-> [[호두까기 인형__work_1719|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1196|호두까기인형]] <-> [[호두까기 인형__work_1719|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기 인형__work_1719|호두까기 인형]] <-> [[호두까기인형__work_1780|호두까기인형]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2021 한국민족춤제전__work_178|2021 한국민족춤제전]] <-> [[2024 한국민족춤제전__work_1235|2024 한국민족춤제전]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[소나기-잠깐 내린 비__work_786|소나기-잠깐 내린 비]] <-> [[소나기 - 잠깐 내린 비__work_823|소나기 - 잠깐 내린 비]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[우리 춤의 길을 묻다Ⅱ__work_925|우리 춤의 길을 묻다Ⅱ]] <-> [[우리 춤의 길을 묻다Ⅰ__work_926|우리 춤의 길을 묻다Ⅰ]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[MODAFE 2026__work_1046|MODAFE 2026]] <-> [[MODAFE 2023__work_1349|MODAFE 2023]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[겨울 나그네__work_251|겨울 나그네]] <-> [[겨울나그네__work_789|겨울나그네]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄서하우스__work_858|댄서하우스]] <-> [[댄서 하우스__work_885|댄서 하우스]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Self-Portrait in Public Corner__work_76|Self-Portrait in Public Corner]] <-> [[Self Portrait with Public Corner__work_1319|Self Portrait with Public Corner]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2024 발레스타즈__work_1271|2024 발레스타즈]] <-> [[2023 발레스타즈__work_1374|2023 발레스타즈]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2025__work_616|파리오페라발레 에투알 갈라 2025]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1263|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2025__work_616|파리오페라발레 에투알 갈라 2025]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1265|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2024__work_673|파리오페라발레 에투알 갈라 2024]] <-> [[파리 오페라 발레 에투알 갈라 2025__work_1131|파리 오페라 발레 에투알 갈라 2025]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[시간의 춤, 정(情)을 나누다__work_675|시간의 춤, 정(情)을 나누다]] <-> [[시간의 춤, 情을 나누다__work_1276|시간의 춤, 情을 나누다]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[원형하는 몸 - round 2__work_788|원형하는 몸: round 2]] <-> [[원형하는 몸 - round1__work_1467|원형하는 몸: round1]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[HIP 合__work_138|HIP 合]] <-> [[HIP合__work_771|HIP合]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[영남축제__work_12|영남축제]] <-> [[영남춤축제__work_766|영남춤축제]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[일무일악(一舞一樂)__work_1013|일무일악(一舞一樂)]] <-> [[일무일악一舞一樂__work_1258|일무일악一舞一樂]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[일이관지–조선춤방__work_705|일이관지–조선춤방]] <-> [[일이관지 조선춤방__work_712|일이관지 조선춤방]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[일이관지–조선춤방__work_705|일이관지–조선춤방]] <-> [[일이관지 조선춤방__work_713|일이관지 조선춤방]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춤추는 도시-인천__work_460|춤추는 도시-인천]] <-> [[춤추는 도시 인천__work_1284|춤추는 도시 인천]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2024무용여행舞游한국__work_1261|2024무용여행舞游한국]] <-> [[2022 무용여행舞游한국__work_1500|2022 무용여행舞游한국]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2024무용여행舞游한국__work_1261|2024무용여행舞游한국]] <-> [[2023 무용여행舞游한국__work_1425|2023 무용여행舞游한국]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[코리아 이모션__work_741|코리아 이모션]] <-> [[코리아 이모션 情__work_1306|코리아 이모션 情]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[B.C. – Before Christ__work_375|B.C. – Before Christ]] <-> [[B.C.(Before Christ)__work_962|B.C.(Before Christ)]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[차세대 열전 2016!__work_314|차세대 열전 2016!]] <-> [[차세대열전 2017!__work_878|차세대열전 2017!]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[당신은 지금 바비레따에 살고 있군요 Ver.2__work_1243|당신은 지금 바비레따에 살고 있군요 Ver.2]] <-> [[당신은 지금 바비레따에 살고 있군요__work_1758|당신은 지금 바비레따에 살고 있군요]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[얍! 얍! 얍!__work_56|얍! 얍! 얍!]] <-> [[얍!얍!얍!__work_1014|얍!얍!얍!]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[접-삶이 춤이로다__work_1826|접-삶이 춤이로다]] <-> [[접(蝶)-삶이 춤이로다__work_1836|접(蝶)-삶이 춤이로다]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[코리아 이모션 정(情)__work_699|코리아 이모션 정(情)]] <-> [[코리아 이모션 情__work_1306|코리아 이모션 情]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[행 +-__work_44|행 +-]] <-> [[행+-__work_663|행+-]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[행+-__work_663|행+-]] <-> [[행+- -__work_1254|행+->]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Water Castle - 토끼탈출기__work_1206|Water Castle - 토끼탈출기]] <-> [[Water Castle (워터캐슬) - 토끼탈출기__work_1332|Water Castle (워터캐슬) - 토끼탈출기]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최태지와 함께하는 발레 스타워즈 Ⅱ 김주원__work_1385|최태지와 함께하는 발레 스타워즈 Ⅱ 김주원]] <-> [[최태지와 함께하는 발레 스타워즈__work_1404|최태지와 함께하는 발레 스타워즈]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2022 춤&판 고무신춤축제__work_1481|2022 춤&판 고무신춤축제]] <-> [[2020 춤&판 고무·신·춤·축제__work_1662|2020 춤&판 고무·신·춤·축제]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_333|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타__work_672|한국을 빛내는 해외무용스타]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_614|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타__work_672|한국을 빛내는 해외무용스타]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타__work_672|한국을 빛내는 해외무용스타]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1260|한국을 빛내는 해외무용스타 초청공연]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타__work_672|한국을 빛내는 해외무용스타]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1520|한국을 빛내는 해외무용스타 초청공연]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타__work_672|한국을 빛내는 해외무용스타]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1774|한국을 빛내는 해외무용스타 초청공연]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Dance No.4 Dream__work_530|Dance No.4 Dream]] <-> [[Dance of Dreams__work_1690|Dance of Dreams]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 잠수__work_661|백조의 잠수]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 잠수__work_661|백조의 잠수]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 잠수__work_661|백조의 잠수]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 잠수__work_661|백조의 잠수]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_728|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_731|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_734|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울교방-권번춤나들이__work_1415|서울교방-권번춤나들이]] <-> [[서울교방, 권번춤 나들이__work_1426|서울교방, 권번춤 나들이]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[버자이너의 죽음- 신화짓기__work_121|버자이너의 죽음- 신화짓기]] <-> [[버자이나의 죽음 - 신화 짓기__work_123|버자이나의 죽음: 신화 짓기]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2022 수원발레축제__work_1492|2022 수원발레축제]] <-> [[2019 수원발레축제__work_1759|2019 수원발레축제]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에뚜알 갈라__work_1125|파리 오페라 발레 에뚜알 갈라]] <-> [[파리 오페라 발레 2022 에투알 갈라__work_1527|파리 오페라 발레 2022 에투알 갈라]] — similarity 0.81
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에뚜알 갈라__work_1125|파리 오페라 발레 에뚜알 갈라]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1263|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.81
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에뚜알 갈라__work_1125|파리 오페라 발레 에뚜알 갈라]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1265|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.81
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에뚜알 갈라__work_1125|파리 오페라 발레 에뚜알 갈라]] <-> [[파리 오페라 발레 에투알 갈라 2025__work_1131|파리 오페라 발레 에투알 갈라 2025]] — similarity 0.81
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Water Castle – 토끼탈출기__work_777|Water Castle – 토끼탈출기]] <-> [[Water Castle (워터캐슬) - 토끼탈출기__work_1332|Water Castle (워터캐슬) - 토끼탈출기]] — similarity 0.81
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2024 제14회 춤&판 고무신춤축제__work_1223|2024 제14회 춤&판 고무신춤축제]] <-> [[2022 춤&판 고무신춤축제__work_1481|2022 춤&판 고무신춤축제]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[공화-허공에 핀 꽃__work_571|공화-허공에 핀 꽃]] <-> [[공화 空化 - 허공에 핀 꽃__work_574|공화 空化 - 허공에 핀 꽃]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[노동__work_1305|노동]] <-> [[노동무__work_1482|노동무]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[눈먼자들__work_798|눈먼자들]] <-> [[눈먼 여자들__work_1088|눈먼 여자들]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[명가월륜 2__work_591|명가월륜 2]] <-> [[명가월륜__work_1501|명가월륜]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[블랙__work_48|블랙]] <-> [[블랙독__work_1282|블랙독]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[블랙독__work_1282|블랙독]] <-> [[블랙__work_1658|블랙]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[빨래방__work_767|빨래방]] <-> [[빨래__work_1644|빨래]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[사랑__work_1228|사랑]] <-> [[사랑가__work_1379|사랑가]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[신전통 V__work_185|신전통 V]] <-> [[신전통 Ⅷ__work_617|신전통 Ⅷ]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[심청__work_335|심청]] <-> [[심청가__work_565|심청가]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[심청가__work_565|심청가]] <-> [[심청__work_609|심청]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[심청가__work_565|심청가]] <-> [[심청__work_736|심청]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[워크샵퍼포먼스__work_1694|워크샵퍼포먼스]] <-> [[워크숍 퍼포먼스__work_1801|워크숍 퍼포먼스]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한맥의 춤__work_1224|한맥의 춤]] <-> [[한국의 춤__work_1737|한국의 춤]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[회귀(回歸)__work_297|회귀(回歸)]] <-> [[회(回)__work_707|회(回)]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[소고(小鼓)놀음 4 허튼__work_1316|소고(小鼓)놀음 4 허튼]] <-> [[소고(小鼓)놀음 2__work_1598|소고(小鼓)놀음 2]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[코레오 커넥션 - 서울__work_1092|코레오 커넥션: 서울]] <-> [[코레오 커넥션__work_1215|코레오 커넥션]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에뚜알 갈라__work_1125|파리 오페라 발레 에뚜알 갈라]] <-> [[파리오페라 발레 2022 에투알 갈라__work_1496|파리오페라 발레 2022 에투알 갈라]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[날개, 학__work_171|날개, 학]] <-> [[날개, 학(鶴)__work_1576|날개, 학(鶴)]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄의 제전 G__work_337|봄의 제전 G.]] <-> [[봄의 제전__work_391|봄의 제전]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄의 제전 G__work_337|봄의 제전 G.]] <-> [[봄의 제전__work_691|봄의 제전]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄의 제전 G__work_337|봄의 제전 G.]] <-> [[봄의 제전__work_1781|봄의 제전]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[플라스틱 버드 VOL.2__work_1016|플라스틱 버드 VOL.2]] <-> [[플라스틱 버드 vol.2__work_1323|플라스틱 버드 vol.2]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Ecology 춤, 연대의 몸짓__work_1292|Ecology 춤, 연대의 몸짓]] <-> [[Ecology 춤, 상생의 관점__work_1412|Ecology 춤, 상생의 관점]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[독공독무 서울교방 6인전__work_642|독공독무 서울교방 6인전]] <-> [[독공(獨功)독무(獨舞) 서울교방 6인전__work_644|독공(獨功)독무(獨舞) 서울교방 6인전]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[몸 4개의 강 一夜九渡河 (일야구도하)__work_1823|몸 4개의 강 一夜九渡河 (일야구도하)]] <-> [[몸 4개의 강 일야구도하__work_1824|몸 4개의 강 일야구도하]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2024__work_1263|파리 오페라 발레 에투알 갈라 2024]] <-> [[파리 오페라 발레 2022 에투알 갈라__work_1527|파리 오페라 발레 2022 에투알 갈라]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2024__work_1265|파리 오페라 발레 에투알 갈라 2024]] <-> [[파리 오페라 발레 2022 에투알 갈라__work_1527|파리 오페라 발레 2022 에투알 갈라]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2025__work_1131|파리 오페라 발레 에투알 갈라 2025]] <-> [[파리 오페라 발레 2022 에투알 갈라__work_1527|파리 오페라 발레 2022 에투알 갈라]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[내 딸내미들 II__work_799|내 딸내미들 II]] <-> [[내 딸내미들Ⅱ__work_1607|내 딸내미들Ⅱ]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[모다페 2020__work_1702|모다페 2020]] <-> [[모다페 2019__work_1784|모다페 2019]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[모다페 2020__work_1703|모다페 2020]] <-> [[모다페 2019__work_1784|모다페 2019]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[행 +-__work_44|행 +-]] <-> [[행+- -__work_1254|행+->]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[독공(獨功)독무(獨舞) 서울교방 6인전__work_644|독공(獨功)독무(獨舞) 서울교방 6인전]] <-> [[독공독무 - 서울교방 6인전__work_1182|독공독무: 서울교방 6인전]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2024__work_673|파리오페라발레 에투알 갈라 2024]] <-> [[파리 오페라 발레 에뚜알 갈라__work_1125|파리 오페라 발레 에뚜알 갈라]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2025__work_616|파리오페라발레 에투알 갈라 2025]] <-> [[파리 오페라 발레 에뚜알 갈라__work_1125|파리 오페라 발레 에뚜알 갈라]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2022 무용여행舞游한국__work_1500|2022 무용여행舞游한국]] <-> [[2021 무용여행 舞游韩国__work_1624|2021 무용여행 舞游韩国]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2023 무용여행舞游한국__work_1425|2023 무용여행舞游한국]] <-> [[2021 무용여행 舞游韩国__work_1624|2021 무용여행 舞游韩国]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[제10회 무용단 정기공연__work_268|제10회 무용단 정기공연]] <-> [[제21회 밀양검무 정기공연__work_1210|제21회 밀양검무 정기공연]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2024 제14회 춤&판 고무신춤축제__work_1223|2024 제14회 춤&판 고무신춤축제]] <-> [[2020 춤&판 고무·신·춤·축제__work_1662|2020 춤&판 고무·신·춤·축제]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[The Line of Obsession__work_66|The Line of Obsession]] <-> [[The Line of Scene__work_1672|The Line of Scene]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[코리아 이모션 정(情)__work_699|코리아 이모션 정(情)]] <-> [[코리아 이모션__work_741|코리아 이모션]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2024__work_1263|파리 오페라 발레 에투알 갈라 2024]] <-> [[파리오페라 발레 2022 에투알 갈라__work_1496|파리오페라 발레 2022 에투알 갈라]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2024__work_1265|파리 오페라 발레 에투알 갈라 2024]] <-> [[파리오페라 발레 2022 에투알 갈라__work_1496|파리오페라 발레 2022 에투알 갈라]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2025__work_1131|파리 오페라 발레 에투알 갈라 2025]] <-> [[파리오페라 발레 2022 에투알 갈라__work_1496|파리오페라 발레 2022 에투알 갈라]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2024__work_673|파리오페라발레 에투알 갈라 2024]] <-> [[파리오페라 발레 2022 에투알 갈라__work_1496|파리오페라 발레 2022 에투알 갈라]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2025__work_616|파리오페라발레 에투알 갈라 2025]] <-> [[파리오페라 발레 2022 에투알 갈라__work_1496|파리오페라 발레 2022 에투알 갈라]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[콘크리트 인간__work_301|콘크리트 인간]] <-> [[콘크리트 정글__work_1594|콘크리트 정글]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국의 춤과 소리__work_454|한국의 춤과 소리]] <-> [[한국의 춤__work_1737|한국의 춤]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2026 축제__work_570|2026 축제]] <-> [[2024 영남춤축제__work_671|2024 영남춤축제]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Asylum__work_1786|Asylum]] <-> [[Asylum(피난처)__work_1791|Asylum(피난처)]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수(LAC)__work_1065|백조의 호수(LAC)]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수(LAC)__work_1065|백조의 호수(LAC)]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수(LAC)__work_1065|백조의 호수(LAC)]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수(LAC)__work_1065|백조의 호수(LAC)]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수(LAC)__work_1065|백조의 호수(LAC)]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_731|백조의 호수]] <-> [[백조의 호수(LAC)__work_1065|백조의 호수(LAC)]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_734|백조의 호수]] <-> [[백조의 호수(LAC)__work_1065|백조의 호수(LAC)]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_875|백조의 호수]] <-> [[백조의 호수(LAC)__work_1065|백조의 호수(LAC)]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_929|백조의 호수]] <-> [[백조의 호수(LAC)__work_1065|백조의 호수(LAC)]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수(LAC)__work_1065|백조의 호수(LAC)]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수(LAC)__work_1065|백조의 호수(LAC)]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수(LAC)__work_1065|백조의 호수(LAC)]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[소고(小鼓)놀음 2__work_1598|소고(小鼓)놀음 2]] <-> [[소고小鼓 놀음__work_1683|소고小鼓 놀음]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춤이 말하다 2016__work_910|춤이 말하다 2016]] <-> [[춤이 말하다__work_990|춤이 말하다]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[라이프 오브 파이__work_580|라이프 오브 파이]] <-> [[라이프 오브 발레리노__work_1359|라이프 오브 발레리노]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2024__work_673|파리오페라발레 에투알 갈라 2024]] <-> [[파리 오페라 발레 2022 에투알 갈라__work_1527|파리 오페라 발레 2022 에투알 갈라]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2025__work_616|파리오페라발레 에투알 갈라 2025]] <-> [[파리 오페라 발레 2022 에투알 갈라__work_1527|파리 오페라 발레 2022 에투알 갈라]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[플라스틱 버드__work_818|플라스틱 버드]] <-> [[플라스틱 버드 VOL.2__work_1016|플라스틱 버드 VOL.2]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[플라스틱 버드__work_818|플라스틱 버드]] <-> [[플라스틱 버드 vol.2__work_1323|플라스틱 버드 vol.2]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2024무용여행舞游한국__work_1261|2024무용여행舞游한국]] <-> [[2021 무용여행 舞游韩国__work_1624|2021 무용여행 舞游韩国]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2022 서울국제즉흥춤축제 개막공연__work_1320|2022 서울국제즉흥춤축제 개막공연]] <-> [[2022 서울국제공연예술제__work_1469|2022 서울국제공연예술제]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2026 축제__work_570|2026 축제]] <-> [[2022 수원발레축제__work_1492|2022 수원발레축제]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2026 축제__work_570|2026 축제]] <-> [[2025 축제 祝·祭__work_643|2025 축제 祝·祭]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2026 공양무__work_537|2026 공양무]] <-> [[2026 축제__work_570|2026 축제]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[- 단 -__work_997|<단>]] <-> [[- 돌 -__work_1194|<돌>]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[- 천 -__work_960|<천>]] <-> [[- 단 -__work_997|<단>]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[- 천 -__work_960|<천>]] <-> [[- 돌 -__work_1194|<돌>]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[감각의 권리__work_376|감각의 권리]] <-> [[감각의 분모__work_1100|감각의 분모]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강__work_413|강]] <-> [[강호__work_1513|강호]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강__work_649|강]] <-> [[강호__work_1513|강호]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[기억의 지속__work_862|기억의 지속]] <-> [[기억 속으로__work_1231|기억 속으로]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[기억의 지속__work_862|기억의 지속]] <-> [[기억의 파편__work_1676|기억의 파편]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[기억의 파편 v.1.1__work_1190|기억의 파편 v.1.1]] <-> [[기억의 파편__work_1676|기억의 파편]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[무애(無碍)__work_860|무애(無碍)]] <-> [[무위(無爲)__work_865|무위(無爲)]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[미메시스__work_594|미메시스]] <-> [[미메시스 드로잉__work_1105|미메시스 드로잉]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[블랙__work_48|블랙]] <-> [[블랙박스__work_523|블랙박스]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[블랙박스__work_523|블랙박스]] <-> [[블랙__work_1658|블랙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[블리스&재키__work_1063|블리스&재키]] <-> [[블리스__work_1067|블리스]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[사랑의 전설__work_678|사랑의 전설]] <-> [[사랑의 마법__work_1227|사랑의 마법]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[연(緣)__work_1069|연(緣)]] <-> [[연지무(緣之舞)__work_1584|연지무(緣之舞)]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[오__work_172|오]] <-> [[오라__work_1370|오라]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[조선춤방 II__work_55|조선춤방 II]] <-> [[조율 II__work_505|조율 II]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[집 속의 집 - 문 밖의 문__work_536|집 속의 집: 문 밖의 문]] <-> [[집 속의 집 - 안팎__work_677|집 속의 집: 안팎]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[집 속의 집 - 안팎__work_677|집 속의 집: 안팎]] <-> [[집속의 집__work_1603|집속의 집]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[천개의 바람__work_410|천개의 바람]] <-> [[천개의 기억__work_996|천개의 기억]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춤추는 남자__work_830|춤추는 남자]] <-> [[춤추는 논객__work_998|춤추는 논객]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춤추는 남자__work_830|춤추는 남자]] <-> [[춤추는 파파__work_1006|춤추는 파파]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춤추는 논객__work_998|춤추는 논객]] <-> [[춤추는 파파__work_1006|춤추는 파파]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[카르멘 조곡__work_708|카르멘 조곡]] <-> [[카르멘__work_832|카르멘]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Dance No.4 Dream__work_530|Dance No.4 Dream]] <-> [[Dance for PD__work_1053|Dance for PD]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Dance No.4 Dream__work_530|Dance No.4 Dream]] <-> [[Dance for PD__work_1343|Dance for PD]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이것은 유희가 아니다__work_210|이것은 유희가 아니다]] <-> [[이것은 꿈이 아니다 - 산행__work_470|이것은 꿈이 아니다: 산행]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2024 영남춤축제__work_671|2024 영남춤축제]] <-> [[2024 한국민족춤제전__work_1235|2024 한국민족춤제전]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[겨울 나그네__work_251|겨울 나그네]] <-> [[겨울 나그네 - 시간에게,__work_1446|겨울 나그네: 시간에게,]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[WHILE II__work_1015|WHILE II]] <-> [[WHITE__work_1427|WHITE]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[상상 이상__work_126|상상 이상]] <-> [[상상(想相)이상__work_1430|상상(想相)이상]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[생생 춤 페스티벌__work_1121|생생 춤 페스티벌]] <-> [[생생 춤__work_1681|생생 춤]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[생생 춤 페스티벌__work_1244|생생 춤 페스티벌]] <-> [[생생 춤__work_1681|생생 춤]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[추는사람__work_754|추는사람]] <-> [[추는 사람, 남산__work_1457|추는 사람, 남산]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춤추는 남자__work_830|춤추는 남자]] <-> [[춤추는 강의실__work_1464|춤추는 강의실]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춤추는 논객__work_998|춤추는 논객]] <-> [[춤추는 강의실__work_1464|춤추는 강의실]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춤추는 파파__work_1006|춤추는 파파]] <-> [[춤추는 강의실__work_1464|춤추는 강의실]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국 춤 풍류전__work_1516|한국 춤 풍류전]] <-> [[한국의 춤__work_1737|한국의 춤]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[제10회 무용단 정기공연__work_268|제10회 무용단 정기공연]] <-> [[제16회 정기연주회__work_1722|제16회 정기연주회]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[- 네 가지 요소 -__work_436|<네 가지 요소>]] <-> [[- 나를 잊지 마세요 -__work_971|<나를 잊지 마세요>]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[그리고, 다시 봄__work_435|그리고, 다시 봄]] <-> [[그리고, 천년의 평화__work_493|그리고, 천년의 평화]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[길, 걷다__work_311|길, 걷다]] <-> [[길을 잃다__work_714|길을 잃다]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[매스 - 게임!__work_247|매스?게임!]] <-> [[매스 - 게임!Vol.2.5__work_1613|매스? 게임!Vol.2.5]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[무엇이 관계를 정의하는가 -__work_332|무엇이 관계를 정의하는가?]] <-> [[무엇이 우리를 움직이게 하는가__work_1660|무엇이 우리를 움직이게 하는가]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄의 제전__work_391|봄의 제전]] <-> [[봄날의 춤__work_1299|봄날의 춤]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄의 제전__work_691|봄의 제전]] <-> [[봄날의 춤__work_1299|봄날의 춤]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄날의 춤__work_1299|봄날의 춤]] <-> [[봄의 제전__work_1781|봄의 제전]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[소고(小鼓)놀음 4 허튼__work_1316|소고(小鼓)놀음 4 허튼]] <-> [[소고小鼓 놀음__work_1683|소고小鼓 놀음]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[원형하는 몸__work_160|원형하는 몸]] <-> [[원형하는 몸 - round1__work_1467|원형하는 몸: round1]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[일무지관(一舞之貫)__work_548|일무지관(一舞之貫)]] <-> [[일무일악(一舞一樂)__work_1013|일무일악(一舞一樂)]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[일무일악(一舞一樂)__work_1013|일무일악(一舞一樂)]] <-> [[일무지관(一舞之貫)__work_1145|일무지관(一舞之貫)]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[천(千)__work_965|천(千)]] <-> [[천명(天命)__work_1134|천명(天命)]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춤이 말하다__work_990|춤이 말하다]] <-> [[춤 수다__work_1822|춤 수다]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춤의 귀환__work_434|춤의 귀환]] <-> [[춤의 발상__work_1775|춤의 발상]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춤이 말하다_문소리✕리아킴__work_542|춤이 말하다_문소리✕리아킴]] <-> [[춤이 말하다__work_990|춤이 말하다]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호모 파베르__work_1031|호모 파베르]] <-> [[호모 파베르 - 디 오리진__work_1126|호모 파베르 - 디 오리진]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject

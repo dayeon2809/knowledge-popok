@@ -1,0 +1,36 @@
+---
+entity_type: "venue"
+venue_id: 1649
+title: "대학로 마로니에 공원 야외 공연장"
+aliases:
+  - "대학로 마로니에 공원 야외 공연장"
+verification_status: "auto"
+created_at: "2026-07-17 15:29:27"
+updated_at: "2026-07-17 15:29:27"
+---
+
+# 대학로 마로니에 공원 야외 공연장
+
+## 이름 표기 / Aliases
+
+- 대학로 마로니에 공원 야외 공연장
+
+## 공연 목록 (검증됨)
+
+(없음)
+
+## 관련 작품
+
+(없음)
+
+## Source Evidence (상위 20)
+
+(없음)
+
+## 추론된 관계 — 검토 필요
+
+- [공연 추정] [[LAVANI__performance_878|LAVANI]] (confidence 0.4)
+
+## 병합 후보
+
+- [[대학로 성균소극장과 마로니에공원 야외극장__venue_2214|대학로 성균소극장과 마로니에공원 야외극장]] (유사도 0.70, status=pending) — `05 Venues/대학로 마로니에 공원 야외 공연장__venue_1649.md` 검토 대기

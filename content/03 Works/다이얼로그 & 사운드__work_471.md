@@ -1,0 +1,53 @@
+---
+entity_type: "work"
+work_id: 471
+title: "다이얼로그 & 사운드"
+aliases:
+  - "다이얼로그 & 사운드"
+premiere_year: null
+verification_status: "auto"
+created_at: "2026-07-17 15:29:27"
+updated_at: "2026-07-17 15:29:27"
+---
+
+# 다이얼로그 & 사운드
+
+## 이름 표기 / Aliases
+
+- 다이얼로그 & 사운드
+
+## 안무가 및 전체 Credits
+
+- [[정지윤__artist_327|정지윤]] — choreographer
+
+## 관련 단체
+
+(없음)
+
+## 공연 (검증됨)
+
+(없음)
+
+## 실제 리뷰 (content_type=review)
+
+- [리뷰] [[정지윤 댄스 씨어터 〈다이얼로그 & 사운드〉__editorial_627|정지윤 댄스 씨어터 〈다이얼로그 & 사운드〉]]
+
+## 기타 관련 콘텐츠
+
+(없음)
+
+## 작품 계보 후보 (다른 버전/공연일 가능성, 병합 아님)
+
+(없음)
+
+## Source Evidence (상위 20)
+
+(없음)
+
+## 추론된 관계 — 검토 필요
+
+- [공연 추정] [[다이얼로그 & 사운드__performance_449|다이얼로그 & 사운드]] (extraction_method=cooccurrence, confidence 0.4)
+
+## 병합 후보 (동일/유사 제목, 실제 중복일 가능성)
+
+(없음)

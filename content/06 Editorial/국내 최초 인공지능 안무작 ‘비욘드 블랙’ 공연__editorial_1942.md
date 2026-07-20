@@ -1,0 +1,39 @@
+---
+entity_type: "editorial"
+editorial_id: 1942
+title: "국내 최초 인공지능 안무작 ‘비욘드 블랙’ 공연"
+content_type: "preview"
+source: "thepreview"
+published_at: "2020-06-24 21:46"
+author_or_reviewer: "이종찬 기자"
+sentiment: null
+confidence: 1.0
+---
+
+# 국내 최초 인공지능 안무작 ‘비욘드 블랙’ 공연
+
+## 메타데이터
+
+- 출처: thepreview
+- 발행일: 2020-06-24 21:46
+- 작성자/평론가: 이종찬 기자
+- content_type: 프리뷰
+- 원문 URL: http://www.thepreview.co.kr/news/articleView.html?idxno=3474
+
+## 요약
+
+국립현대무용단의 신작 <비욘드 블랙>은 인공지능이 안무한 움직임이 등장하며, 온라인으로 초연된다.
+
+## Sentiment
+
+(없음)
+
+## 연결된 아티스트 / 작품 / 단체 / 공연
+
+- [작품] [[비욘드 블랙__work_1029|비욘드 블랙]]
+- [아티스트] [[신창호__artist_191|신창호]]
+- [단체] [[국립현대무용단__company_7|국립현대무용단]]
+
+## Source Evidence
+
+(없음)

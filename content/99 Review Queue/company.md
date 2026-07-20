@@ -1,0 +1,1120 @@
+# Review Queue — company
+
+pending 후보 372건
+
+- [ ] [[오!마이라이프 무브먼트 씨어터__company_184|오!마이라이프 무브먼트 씨어터]] <-> [[오마이라이프 무브먼트 씨어터__company_793|오마이라이프 무브먼트 씨어터]] — similarity 0.97
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[보라보라 레지던시 센터__company_1805|보라보라 레지던시 센터]] <-> [[보라 보라 레지던시 센터__company_2081|보라 보라 레지던시 센터]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[제주국제무용제조직위원회__company_1347|제주국제무용제조직위원회]] <-> [[제주국제무용제 조직위원회__company_1461|제주국제무용제 조직위원회]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최원선 본(本)댄스컴퍼니__company_1218|최원선 본(本)댄스컴퍼니]] <-> [[최원선본(本)댄스컴퍼니__company_1917|최원선본(本)댄스컴퍼니]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[앰비규어스 댄스 컴퍼니__company_866|앰비규어스 댄스 컴퍼니]] <-> [[앰비규어스 댄스컴퍼니__company_1863|앰비규어스 댄스컴퍼니]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국 춤 프로젝트 가마__company_538|한국 춤 프로젝트 가마]] <-> [[한국춤 프로젝트 가마__company_661|한국춤 프로젝트 가마]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원무용단__company_19|국립부산국악원무용단]] <-> [[국립부산국악원 무용단__company_51|국립부산국악원 무용단]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[멜랑콜리 댄스컴퍼니__company_1720|멜랑콜리 댄스컴퍼니]] <-> [[멜랑콜리 댄스 컴퍼니__company_2123|멜랑콜리 댄스 컴퍼니]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[발레에스티피 협동조합__company_1118|발레에스티피 협동조합]] <-> [[발레에스티피협동조합__company_1534|발레에스티피협동조합]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[스코틀랜드 국립발레단__company_826|스코틀랜드 국립발레단]] <-> [[스코틀랜드국립발레단__company_827|스코틀랜드국립발레단]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코대학로예술극장__company_988|아르코대학로예술극장]] <-> [[아르코·대학로예술극장__company_1507|아르코·대학로예술극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[앰비규어스댄스컴퍼니__company_45|앰비규어스댄스컴퍼니]] <-> [[앰비규어스 댄스컴퍼니__company_1863|앰비규어스 댄스컴퍼니]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[YJK 댄스프로젝트__company_217|YJK 댄스프로젝트]] <-> [[YJK댄스프로젝트__company_770|YJK댄스프로젝트]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[멜랑콜리댄스컴퍼니__company_26|멜랑콜리댄스컴퍼니]] <-> [[멜랑콜리 댄스컴퍼니__company_1720|멜랑콜리 댄스컴퍼니]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레__company_1116|파리 오페라 발레]] <-> [[파리 오페라 발레단__company_1127|파리 오페라 발레단]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레단__company_1127|파리 오페라 발레단]] <-> [[파리오페라 발레단__company_1628|파리오페라 발레단]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[경희 댄스 시어터__company_582|경희 댄스 시어터]] <-> [[경희 댄스시어터__company_730|경희 댄스시어터]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 무용단__company_78|국립국악원 무용단]] <-> [[국립국악원무용단__company_328|국립국악원무용단]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김용걸댄스씨어터__company_918|김용걸댄스씨어터]] <-> [[김용걸 댄스씨어터__company_1880|김용걸 댄스씨어터]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스시어터샤하르__company_468|댄스시어터샤하르]] <-> [[댄스시어터 샤하르__company_495|댄스시어터 샤하르]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[몬테카를로발레단__company_673|몬테카를로발레단]] <-> [[몬테카를로 발레단__company_1422|몬테카를로 발레단]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아지드현대무용단__company_335|아지드현대무용단]] <-> [[아지드 현대무용단__company_361|아지드 현대무용단]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아크람칸 컴퍼니__company_706|아크람칸 컴퍼니]] <-> [[아크람 칸 컴퍼니__company_946|아크람 칸 컴퍼니]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아트프로젝트보라__company_66|아트프로젝트보라]] <-> [[아트프로젝트 보라__company_267|아트프로젝트 보라]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[알. 에이 컴퍼니__company_1324|알. 에이 컴퍼니]] <-> [[알.에이 컴퍼니__company_2157|알.에이 컴퍼니]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[언플러그드바디즈__company_85|언플러그드바디즈]] <-> [[언플러그드 바디즈__company_197|언플러그드 바디즈]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정은혜민족무용단__company_154|정은혜민족무용단]] <-> [[정은혜 민족무용단__company_1582|정은혜 민족무용단]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[키부츠 현대무용단__company_378|키부츠 현대무용단]] <-> [[키부츠현대무용단__company_494|키부츠현대무용단]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레__company_1116|파리 오페라 발레]] <-> [[파리 오페라발레__company_1855|파리 오페라발레]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레단__company_569|파리오페라발레단]] <-> [[파리오페라 발레단__company_1628|파리오페라 발레단]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[경희댄스시어터__company_129|경희댄스시어터]] <-> [[경희 댄스시어터__company_730|경희 댄스시어터]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[공연기획 MCT__company_1112|공연기획 MCT]] <-> [[공연기획MCT__company_1358|공연기획MCT]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희무트댄스__company_371|김영희무트댄스]] <-> [[김영희 무트댄스__company_919|김영희 무트댄스]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댑댄스 프로젝트__company_208|댑댄스 프로젝트]] <-> [[댑댄스프로젝트__company_1459|댑댄스프로젝트]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[류장현과친구들__company_607|류장현과친구들]] <-> [[류장현과 친구들__company_2115|류장현과 친구들]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[시나브로가슴에__company_79|시나브로가슴에]] <-> [[시나브로 가슴에__company_161|시나브로 가슴에]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[알.에이컴퍼니__company_71|알.에이컴퍼니]] <-> [[알.에이 컴퍼니__company_2157|알.에이 컴퍼니]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[온앤오프무용단__company_13|온앤오프무용단]] <-> [[온앤오프 무용단__company_1414|온앤오프 무용단]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유니버설발레단__company_255|유니버설발레단]] <-> [[유니버설 발레단__company_579|유니버설 발레단]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[현대무용단 사포__company_429|현대무용단 사포]] <-> [[현대무용단사포__company_1059|현대무용단사포]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[현대무용단자유__company_32|현대무용단자유]] <-> [[현대무용단 자유__company_159|현대무용단 자유]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[다크서클즈 컨템포러리 댄스__company_283|다크서클즈 컨템포러리 댄스]] <-> [[다크서클즈 컴템포러리 댄스__company_877|다크서클즈 컴템포러리 댄스]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[오마이라이프무브먼트씨어터__company_200|오마이라이프무브먼트씨어터]] <-> [[오마이라이프 무브먼트 씨어터__company_793|오마이라이프 무브먼트 씨어터]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍콩시립현대무용단(CCDC)__company_547|홍콩시립현대무용단(CCDC)]] <-> [[홍콩현대무용단(CCDC)__company_1087|홍콩현대무용단(CCDC)]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LDP무용단__company_387|LDP무용단]] <-> [[LDP 무용단__company_910|LDP 무용단]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[경기도무용단__company_157|경기도무용단]] <-> [[경기도립무용단__company_794|경기도립무용단]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[다크서클즈 컨템포러리 댄스__company_283|다크서클즈 컨템포러리 댄스]] <-> [[다크서클즈컨템포러리댄스__company_373|다크서클즈컨템포러리댄스]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스씨어터 틱__company_206|댄스씨어터 틱]] <-> [[댄스씨어터틱__company_1871|댄스씨어터틱]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로사스무용단__company_326|로사스무용단]] <-> [[로사스 무용단__company_764|로사스 무용단]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[볼쇼이 발레단__company_437|볼쇼이 발레단]] <-> [[볼쇼이발레단__company_521|볼쇼이발레단]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울시무용단__company_31|서울시무용단]] <-> [[서울시립무용단__company_642|서울시립무용단]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안애순 무용단__company_412|안애순 무용단]] <-> [[안애순무용단__company_546|안애순무용단]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안은미컴퍼니__company_592|안은미컴퍼니]] <-> [[안은미 컴퍼니__company_1203|안은미 컴퍼니]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유장일발레단__company_181|유장일발레단]] <-> [[유장일 발레단__company_1634|유장일 발레단]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장유경무용단__company_44|장유경무용단]] <-> [[장유경 무용단__company_929|장유경 무용단]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장은정무용단__company_807|장은정무용단]] <-> [[장은정 무용단__company_2134|장은정 무용단]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[쿨베리 발레단__company_426|쿨베리 발레단]] <-> [[쿨베리발레단__company_2093|쿨베리발레단]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[쿰댄스컴퍼니__company_1710|쿰댄스컴퍼니]] <-> [[쿰댄스 컴퍼니__company_1802|쿰댄스 컴퍼니]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국전통춤협회__company_301|한국전통춤협회]] <-> [[한국전통춤회__company_1750|한국전통춤회]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정형일발레크리에이티브__company_57|정형일발레크리에이티브]] <-> [[정형일 발레 크리에이티브__company_1914|정형일 발레 크리에이티브]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고블린파티__company_55|고블린파티]] <-> [[고블린 파티__company_334|고블린 파티]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[늘휘무용단__company_97|늘휘무용단]] <-> [[늘휘 무용단__company_692|늘휘 무용단]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[모던테이블__company_176|모던테이블]] <-> [[모던 테이블__company_459|모던 테이블]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[모든컴퍼니__company_101|모든컴퍼니]] <-> [[모든 컴퍼니__company_1019|모든 컴퍼니]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[산카이주쿠__company_486|산카이주쿠]] <-> [[산카이 주쿠__company_1106|산카이 주쿠]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울시발레단__company_23|서울시발레단]] <-> [[서울발레단__company_847|서울발레단]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세컨드네이처 컴퍼니__company_379|세컨드네이처 컴퍼니]] <-> [[세컨드네이처 댄스컴퍼니__company_751|세컨드네이처 댄스컴퍼니]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[앰비규어스댄스컴퍼니__company_45|앰비규어스댄스컴퍼니]] <-> [[앰비규어스 댄스 컴퍼니__company_866|앰비규어스 댄스 컴퍼니]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[주빈컴퍼니__company_70|주빈컴퍼니]] <-> [[주빈 컴퍼니__company_1637|주빈 컴퍼니]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국제무용협회(CID-UNESCO) 한국본부 군산지부__company_1767|국제무용협회(CID-UNESCO) 한국본부 군산지부]] <-> [[국제무용협회(CID-UNESCO) 한국본부__company_1847|국제무용협회(CID-UNESCO) 한국본부]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Random Art Project__company_27|Random Art Project]] <-> [[Random Art Project 작은방__company_118|Random Art Project 작은방]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 무용단__company_51|국립부산국악원 무용단]] <-> [[국립국악원 무용단__company_78|국립국악원 무용단]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[멜랑콜리댄스컴퍼니__company_26|멜랑콜리댄스컴퍼니]] <-> [[멜랑콜리 댄스 컴퍼니__company_2123|멜랑콜리 댄스 컴퍼니]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[앰비규어스 컴퍼니__company_862|앰비규어스 컴퍼니]] <-> [[앰비규어스 댄스컴퍼니__company_1863|앰비규어스 댄스컴퍼니]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[클럽 가이 앤 로니__company_117|클럽 가이 앤 로니]] <-> [[클럽 가이 & 로니__company_1910|클럽 가이 & 로니]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[오!마이라이프 무브먼트 씨어터__company_184|오!마이라이프 무브먼트 씨어터]] <-> [[오마이라이프무브먼트씨어터__company_200|오마이라이프무브먼트씨어터]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[M발레단__company_124|M발레단]] <-> [[M 발레단__company_792|M 발레단]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[TOP GROUP__company_75|TOP GROUP]] <-> [[TOB GROUP__company_1314|TOB GROUP]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원무용단__company_19|국립부산국악원무용단]] <-> [[국립국악원무용단__company_328|국립국악원무용단]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극단__company_513|국립극단]] <-> [[국립창극단__company_517|국립창극단]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스프로젝트 뽑기__company_1|댄스프로젝트 뽑기]] <-> [[댄스프로젝트 뽑끼__company_532|댄스프로젝트 뽑끼]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백연발레프로젝트와이__company_28|백연발레프로젝트와이]] <-> [[백연발레프로젝트__company_1052|백연발레프로젝트]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서발레단__company_240|서발레단]] <-> [[서울발레단__company_847|서울발레단]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유빈댄스__company_163|유빈댄스]] <-> [[유빈 댄스__company_865|유빈 댄스]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레__company_1116|파리 오페라 발레]] <-> [[파리오페라 발레단__company_1628|파리오페라 발레단]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레단__company_1127|파리 오페라 발레단]] <-> [[파리 오페라발레__company_1855|파리 오페라발레]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레단__company_569|파리오페라발레단]] <-> [[파리 오페라 발레단__company_1127|파리 오페라 발레단]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[현대무용단 자유__company_159|현대무용단 자유]] <-> [[현대무용단 ‘자유’__company_317|현대무용단 ‘자유’]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국제무용협회(CID-UNESCO)__company_1667|국제무용협회(CID-UNESCO)]] <-> [[국제무용협회(CID-UNESCO) 한국본부__company_1847|국제무용협회(CID-UNESCO) 한국본부]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[99아트컴퍼니__company_22|99아트컴퍼니]] <-> [[99 아트 컴퍼니__company_512|99 아트 컴퍼니]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[경희댄스시어터__company_129|경희댄스시어터]] <-> [[경희 댄스 시어터__company_582|경희 댄스 시어터]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[알.에이컴퍼니__company_71|알.에이컴퍼니]] <-> [[알. 에이 컴퍼니__company_1324|알. 에이 컴퍼니]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레단__company_569|파리오페라발레단]] <-> [[파리 오페라발레__company_1855|파리 오페라발레]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화재보호재단__company_408|한국문화재보호재단]] <-> [[한국문화재재단__company_1681|한국문화재재단]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍콩현대무용단__company_1085|홍콩현대무용단]] <-> [[홍콩시립현대무용단__company_1098|홍콩시립현대무용단]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국춤 프로젝트 가마__company_661|한국춤 프로젝트 가마]] <-> [[한국춤프로젝트 ‘가마’__company_743|한국춤프로젝트 ‘가마’]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[CID-UNESCO 한국본부__company_1156|CID-UNESCO 한국본부]] <-> [[CID-UNESCO 한국본부 군산지부__company_1433|CID-UNESCO 한국본부 군산지부]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전시립무용단__company_109|대전시립무용단]] <-> [[대구시립무용단__company_170|대구시립무용단]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스씨어터 틱__company_206|댄스씨어터 틱]] <-> [[댄스씨어터 창__company_224|댄스씨어터 창]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[앰비규어스 컴퍼니__company_862|앰비규어스 컴퍼니]] <-> [[앰비규어스 댄스 컴퍼니__company_866|앰비규어스 댄스 컴퍼니]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[주목댄스씨어터__company_36|주목댄스씨어터]] <-> [[주목댄스시어터__company_1623|주목댄스시어터]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[키부츠현대무용단__company_494|키부츠현대무용단]] <-> [[키부츠무용단__company_1636|키부츠무용단]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국무용협회__company_767|한국무용협회]] <-> [[한국현대무용협회__company_1013|한국현대무용협회]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국전통춤연구회__company_1431|한국전통춤연구회]] <-> [[한국전통춤회__company_1750|한국전통춤회]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[다크서클즈컨템포러리댄스__company_373|다크서클즈컨템포러리댄스]] <-> [[다크서클즈 컴템포러리 댄스__company_877|다크서클즈 컴템포러리 댄스]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원무용단__company_19|국립부산국악원무용단]] <-> [[국립국악원 무용단__company_78|국립국악원 무용단]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 무용단__company_51|국립부산국악원 무용단]] <-> [[국립국악원무용단__company_328|국립국악원무용단]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김용걸 댄스 시어터__company_304|김용걸 댄스 시어터]] <-> [[김용걸 댄스씨어터__company_1880|김용걸 댄스씨어터]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[앰비규어스댄스컴퍼니__company_45|앰비규어스댄스컴퍼니]] <-> [[앰비규어스 컴퍼니__company_862|앰비규어스 컴퍼니]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원__company_11|국립부산국악원]] <-> [[국립국악원__company_47|국립국악원]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립현대무용단__company_7|국립현대무용단]] <-> [[국립무용단__company_17|국립무용단]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김나이 무브먼트 콜렉티브__company_786|김나이 무브먼트 콜렉티브]] <-> [[김나이무브먼트컬렉티브__company_986|김나이무브먼트컬렉티브]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김치앤칩스__company_144|김치앤칩스]] <-> [[김치 앤 칩스__company_2092|김치 앤 칩스]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구무용협회__company_105|대구무용협회]] <-> [[대한무용협회__company_1678|대한무용협회]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대한무용학회__company_1605|대한무용학회]] <-> [[대한무용협회__company_1678|대한무용협회]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울발레단__company_847|서울발레단]] <-> [[서울유스발레단__company_1709|서울유스발레단]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[윤수미무용단__company_175|윤수미무용단]] <-> [[윤미라무용단__company_1248|윤미라무용단]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국 춤 프로젝트 가마__company_538|한국 춤 프로젝트 가마]] <-> [[한국춤프로젝트 ‘가마’__company_743|한국춤프로젝트 ‘가마’]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국민족춤협회__company_160|한국민족춤협회]] <-> [[한국춤협회__company_341|한국춤협회]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국전통춤협회__company_301|한국전통춤협회]] <-> [[한국춤협회__company_341|한국춤협회]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국현대춤협회__company_330|한국현대춤협회]] <-> [[한국춤협회__company_341|한국춤협회]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍콩무용단__company_543|홍콩무용단]] <-> [[홍콩현대무용단__company_1085|홍콩현대무용단]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원__company_11|국립부산국악원]] <-> [[국립부산국악원무용단__company_19|국립부산국악원무용단]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구컨템포러리__company_95|대구컨템포러리]] <-> [[대구컨템포러리무용단__company_155|대구컨템포러리무용단]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레단__company_569|파리오페라발레단]] <-> [[파리 오페라 발레__company_1116|파리 오페라 발레]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라 발레단__company_1628|파리오페라 발레단]] <-> [[파리 오페라발레__company_1855|파리 오페라발레]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[(사)한국현대무용진흥회__company_482|(사)한국현대무용진흥회]] <-> [[한국현대무용협회__company_1013|한국현대무용협회]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[현대무용단자유__company_32|현대무용단자유]] <-> [[현대무용단 ‘자유’__company_317|현대무용단 ‘자유’]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[언플러그드 바디즈__company_197|언플러그드 바디즈]] <-> [[언플러그드 바디즈 컴퍼니__company_1056|언플러그드 바디즈 컴퍼니]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아메리칸 발레 시어터__company_1140|아메리칸 발레 시어터]] <-> [[아메리칸 발레 시어터(ABT)__company_1938|아메리칸 발레 시어터(ABT)]] — similarity 0.81
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[CID-UNESCO 한국본부__company_1156|CID-UNESCO 한국본부]] <-> [[CID-UNESCO__company_1365|CID-UNESCO]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터__company_88|LG아트센터]] <-> [[LG아트센터 서울__company_1584|LG아트센터 서울]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립정동극장__company_20|국립정동극장]] <-> [[국립극장__company_1508|국립극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스씨어터 창__company_224|댄스씨어터 창]] <-> [[댄스씨어터 4P__company_423|댄스씨어터 4P]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스씨어터 틱__company_206|댄스씨어터 틱]] <-> [[댄스씨어터 4P__company_423|댄스씨어터 4P]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스프로젝트 뽑기__company_1|댄스프로젝트 뽑기]] <-> [[댄스프로젝트__company_808|댄스프로젝트]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스프로젝트 뽑끼__company_532|댄스프로젝트 뽑끼]] <-> [[댄스프로젝트__company_808|댄스프로젝트]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로열발레단__company_787|로열발레단]] <-> [[로마발레단__company_2105|로마발레단]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[비상무용단__company_9|비상무용단]] <-> [[비손무용단__company_138|비손무용단]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울시발레단__company_23|서울시발레단]] <-> [[서발레단__company_240|서발레단]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[키부츠 현대무용단__company_378|키부츠 현대무용단]] <-> [[키부츠무용단__company_1636|키부츠무용단]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국공연예술센터__company_415|한국공연예술센터]] <-> [[한국춤예술센터__company_448|한국춤예술센터]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국무용협회__company_767|한국무용협회]] <-> [[한국장애인무용협회__company_1262|한국장애인무용협회]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국예술창작아카데미__company_271|한국예술창작아카데미]] <-> [[한국문화예술아카데미__company_2122|한국문화예술아카데미]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국전통춤협회__company_301|한국전통춤협회]] <-> [[사단법인 한국전통예술협회__company_1653|사단법인 한국전통예술협회]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국전통춤협회__company_301|한국전통춤협회]] <-> [[한국전통춤연구회__company_1431|한국전통춤연구회]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국현대춤협회__company_330|한국현대춤협회]] <-> [[한국현대무용협회__company_1013|한국현대무용협회]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[현대무용단 사포__company_429|현대무용단 사포]] <-> [[현대무용단 탐__company_590|현대무용단 탐]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[현대무용단 자유__company_159|현대무용단 자유]] <-> [[현대무용단 탐__company_590|현대무용단 탐]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍경화현대무용단__company_771|홍경화현대무용단]] <-> [[홍콩현대무용단__company_1085|홍콩현대무용단]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[스타니슬랍스키 네미로비치-단첸코 극장 발레단__company_551|스타니슬랍스키 네미로비치-단첸코 극장 발레단]] <-> [[스타니슬랍스키&네미로비치-단첸코 기념음악극장__company_683|스타니슬랍스키&네미로비치-단첸코 기념음악극장]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김나이무브먼트컬렉티브__company_986|김나이무브먼트컬렉티브]] <-> [[김나이무브먼트컬렉티브(NKMC)__company_1719|김나이무브먼트컬렉티브(NKMC)]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원__company_11|국립부산국악원]] <-> [[국립부산국악원 무용단__company_51|국립부산국악원 무용단]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김용걸 댄스 시어터__company_304|김용걸 댄스 시어터]] <-> [[김용걸댄스씨어터__company_918|김용걸댄스씨어터]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[제주특별자치도립무용단__company_99|제주특별자치도립무용단]] <-> [[제주도립무용단__company_232|제주도립무용단]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화재재단 예술단__company_1638|한국문화재재단 예술단]] <-> [[한국문화재재단__company_1681|한국문화재재단]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원__company_47|국립국악원]] <-> [[국립국악원무용단__company_328|국립국악원무용단]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립무용단__company_17|국립무용단]] <-> [[국립국악원무용단__company_328|국립국악원무용단]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국제공연예술프로젝트__company_567|국제공연예술프로젝트]] <-> [[국제공연예술프로젝트(IPAP)__company_1263|국제공연예술프로젝트(IPAP)]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[뉴어드벤처스__company_573|뉴어드벤처스]] <-> [[뉴 어드벤쳐스__company_979|뉴 어드벤쳐스]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스씨어터 창__company_224|댄스씨어터 창]] <-> [[댄스씨어터틱__company_1871|댄스씨어터틱]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[리틀엔젤스예술단__company_1049|리틀엔젤스예술단]] <-> [[리틀엔젤스__company_1208|리틀엔젤스]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울시발레단__company_23|서울시발레단]] <-> [[서울유스발레단__company_1709|서울유스발레단]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파사무용단__company_344|파사무용단]] <-> [[파독간호사무용단__company_1043|파독간호사무용단]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[프로젝트 광어__company_609|프로젝트 광어]] <-> [[프로젝트 창__company_1258|프로젝트 창]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[프로젝트 이인__company_149|프로젝트 이인]] <-> [[프로젝트 창__company_1258|프로젝트 창]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국무용연구회__company_457|한국무용연구회]] <-> [[한국무용협회__company_767|한국무용협회]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국춤협회__company_341|한국춤협회]] <-> [[한국춤비평가협회__company_483|한국춤비평가협회]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LNYdance__company_134|LNYdance]] <-> [[LNYdancegroup__company_1130|LNYdancegroup]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대한민국발레축제__company_998|대한민국발레축제]] <-> [[대한민국발레축제조직위원회__company_1865|대한민국발레축제조직위원회]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[보라 보라 센터__company_1906|보라 보라 센터]] <-> [[보라 보라 레지던시 센터__company_2081|보라 보라 레지던시 센터]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[언플러그드바디즈__company_85|언플러그드바디즈]] <-> [[언플러그드 바디즈 컴퍼니__company_1056|언플러그드 바디즈 컴퍼니]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극단__company_513|국립극단]] <-> [[국립극장__company_1508|국립극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립정동극장__company_20|국립정동극장]] <-> [[국립정동극장 예술단__company_643|국립정동극장 예술단]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김백봉부채춤보존회__company_707|김백봉부채춤보존회]] <-> [[김백봉춤보전회__company_1320|김백봉춤보전회]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[볼쇼이극장__company_656|볼쇼이극장]] <-> [[볼쇼이__company_724|볼쇼이]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세컨드네이처 무용단__company_810|세컨드네이처 무용단]] <-> [[세컨드네이처__company_834|세컨드네이처]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세컨드네이처 컴퍼니__company_379|세컨드네이처 컴퍼니]] <-> [[세컨드네이처__company_834|세컨드네이처]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[스코틀랜드 국립현대무용단__company_296|스코틀랜드 국립현대무용단]] <-> [[스코틀랜드 국립발레단__company_826|스코틀랜드 국립발레단]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아트프로젝트보라__company_66|아트프로젝트보라]] <-> [[아함아트프로젝트__company_595|아함아트프로젝트]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[울티마 베스__company_2015|울티마 베스]] <-> [[울티마 베스 무용단__company_2017|울티마 베스 무용단]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[허경미 무용단 무무__company_563|허경미 무용단 무무]] <-> [[허경미무용단__company_1288|허경미무용단]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[현대무용단 자유__company_159|현대무용단 자유]] <-> [[현대무용단 사포__company_429|현대무용단 사포]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍콩시립현대무용단(CCDC)__company_547|홍콩시립현대무용단(CCDC)]] <-> [[홍콩시립현대무용단__company_1098|홍콩시립현대무용단]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Ballet National de Marseille__company_1374|Ballet National de Marseille]] <-> [[Ballet Nacional de Cuba__company_1998|Ballet Nacional de Cuba]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스컴퍼니 브레이브맨__company_143|댄스컴퍼니 브레이브맨]] <-> [[댄스컴퍼니 무이__company_845|댄스컴퍼니 무이]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울국제문화예술협회__company_1179|서울국제문화예술협회]] <-> [[서울국제문화교류회__company_1666|서울국제문화교류회]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화예술교육학회__company_1010|한국문화예술교육학회]] <-> [[한국문화예술위원회__company_1075|한국문화예술위원회]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국장애인문화예술원__company_493|한국장애인문화예술원]] <-> [[한국문화예술위원회__company_1075|한국문화예술위원회]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[네덜란드 댄스 시어터__company_1980|네덜란드 댄스 시어터]] <-> [[네덜란드 단스 테아터__company_2156|네덜란드 단스 테아터]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[두산아트센터__company_238|두산아트센터]] <-> [[두산아트랩__company_657|두산아트랩]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서발레단__company_240|서발레단]] <-> [[서울유스발레단__company_1709|서울유스발레단]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정길무용단__company_3|정길무용단]] <-> [[정신혜무용단__company_352|정신혜무용단]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국춤협회__company_341|한국춤협회]] <-> [[한국무용협회__company_767|한국무용협회]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국춤협회__company_341|한국춤협회]] <-> [[한국발레협회__company_942|한국발레협회]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국춤협회__company_341|한국춤협회]] <-> [[한국전통춤회__company_1750|한국전통춤회]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[탄츠테아터 부퍼탈__company_268|탄츠테아터 부퍼탈]] <-> [[탄츠테아터 부퍼탈 피나 바우쉬__company_1077|탄츠테아터 부퍼탈 피나 바우쉬]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원__company_47|국립국악원]] <-> [[국립국악원 무용단__company_78|국립국악원 무용단]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립무용단__company_17|국립무용단]] <-> [[국립국악원 무용단__company_78|국립국악원 무용단]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김은희전통무용단__company_153|김은희전통무용단]] <-> [[김복희무용단__company_1701|김복희무용단]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김옥련 발레단__company_713|김옥련 발레단]] <-> [[김선희 발레단__company_815|김선희 발레단]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구시립무용단__company_170|대구시립무용단]] <-> [[대구시립국악단__company_188|대구시립국악단]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스씨어터 4P__company_423|댄스씨어터 4P]] <-> [[댄스씨어터틱__company_1871|댄스씨어터틱]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[라 베로날__company_247|라 베로날]] <-> [[라 베로날 컴퍼니__company_559|라 베로날 컴퍼니]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[열혈청년예술단__company_195|열혈청년예술단]] <-> [[열혈예술청년단__company_1217|열혈예술청년단]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장유경 무용단__company_929|장유경 무용단]] <-> [[장은정 무용단__company_2134|장은정 무용단]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정은혜민족무용단__company_154|정은혜민족무용단]] <-> [[정신혜무용단__company_352|정신혜무용단]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[키드 피봇__company_1017|키드 피봇]] <-> [[키드 피봇 무용단__company_2113|키드 피봇 무용단]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[프로젝트 이인__company_149|프로젝트 이인]] <-> [[프로젝트 광어__company_609|프로젝트 광어]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국무용협회__company_767|한국무용협회]] <-> [[한국무용교육학회__company_2059|한국무용교육학회]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국민족춤협회__company_160|한국민족춤협회]] <-> [[한국전통춤협회__company_301|한국전통춤협회]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국민족춤협회__company_160|한국민족춤협회]] <-> [[한국현대춤협회__company_330|한국현대춤협회]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[사단법인 한국전통예술협회__company_1653|사단법인 한국전통예술협회]] <-> [[한국전통춤회__company_1750|한국전통춤회]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국전통춤협회__company_301|한국전통춤협회]] <-> [[한국현대춤협회__company_330|한국현대춤협회]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[현대무용단 탐__company_590|현대무용단 탐]] <-> [[현대무용단사포__company_1059|현대무용단사포]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[현대무용단자유__company_32|현대무용단자유]] <-> [[현대무용단 탐__company_590|현대무용단 탐]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[현대무용단자유__company_32|현대무용단자유]] <-> [[현대무용단사포__company_1059|현대무용단사포]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍콩무용단__company_543|홍콩무용단]] <-> [[홍콩시립현대무용단__company_1098|홍콩시립현대무용단]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[휴먼스탕스__company_33|휴먼스탕스]] <-> [[휴먼스탕스 무용단__company_1224|휴먼스탕스 무용단]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[경기도립무용단__company_794|경기도립무용단]] <-> [[경상북도 도립무용단__company_1755|경상북도 도립무용단]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스시어터 샤하르__company_495|댄스시어터 샤하르]] <-> [[댄스시어터 까두__company_943|댄스시어터 까두]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[본(本)댄스컴퍼니__company_1475|본(本)댄스컴퍼니]] <-> [[본본 댄스컴퍼니__company_1944|본본 댄스컴퍼니]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아트프로젝트 보라__company_267|아트프로젝트 보라]] <-> [[아함아트프로젝트__company_595|아함아트프로젝트]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국현대무용협회__company_1013|한국현대무용협회]] <-> [[한국국립현대무용단__company_1100|한국국립현대무용단]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국현대무용협회__company_1013|한국현대무용협회]] <-> [[한국장애인무용협회__company_1262|한국장애인무용협회]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국전통문화연구원__company_359|한국전통문화연구원]] <-> [[한국전통춤연구회__company_1431|한국전통춤연구회]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[현대무용단 ‘자유’__company_317|현대무용단 ‘자유’]] <-> [[현대무용단 탐__company_590|현대무용단 탐]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍경화현대무용단__company_771|홍경화현대무용단]] <-> [[홍콩시립현대무용단__company_1098|홍콩시립현대무용단]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산국제무용제__company_1693|부산국제무용제]] <-> [[부산국제무용제 조직위원회__company_1898|부산국제무용제 조직위원회]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세컨드네이처 컴퍼니__company_379|세컨드네이처 컴퍼니]] <-> [[세컨드네이처 무용단__company_810|세컨드네이처 무용단]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[퍼포밍아트더몸(MOMM)__company_1015|퍼포밍아트더몸(MOMM)]] <-> [[퍼포밍아트더몸__company_1619|퍼포밍아트더몸]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화재보호재단__company_408|한국문화재보호재단]] <-> [[한국문화재재단 예술단__company_1638|한국문화재재단 예술단]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍콩현대무용단__company_1085|홍콩현대무용단]] <-> [[홍콩현대무용단(CCDC)__company_1087|홍콩현대무용단(CCDC)]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[스코틀랜드 국립현대무용단__company_296|스코틀랜드 국립현대무용단]] <-> [[스코틀랜드국립발레단__company_827|스코틀랜드국립발레단]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예테보리 오페라 댄스컴퍼니__company_684|예테보리 오페라 댄스컴퍼니]] <-> [[예테보리 오페라 무용단__company_1014|예테보리 오페라 무용단]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Ballet Creative__company_1749|Ballet Creative]] <-> [[Ballet BC__company_1971|Ballet BC]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[EDx2__company_306|EDx2]] <-> [[EDx2 무용단__company_902|EDx2 무용단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LDP__company_313|LDP]] <-> [[LDP무용단__company_387|LDP무용단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[NDT__company_812|NDT]] <-> [[NDA__company_1762|NDA]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원무용단__company_19|국립부산국악원무용단]] <-> [[국립국악원__company_47|국립국악원]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원__company_11|국립부산국악원]] <-> [[국립국악원무용단__company_328|국립국악원무용단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립현대무용단__company_7|국립현대무용단]] <-> [[국립국악원무용단__company_328|국립국악원무용단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립무용단__company_17|국립무용단]] <-> [[국립극단__company_513|국립극단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립발레단__company_8|국립발레단]] <-> [[국립극단__company_513|국립극단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립창극단__company_517|국립창극단]] <-> [[국립극장__company_1508|국립극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립무용단__company_17|국립무용단]] <-> [[국립부산국악원무용단__company_19|국립부산국악원무용단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[그룹 춤 in__company_1814|그룹 춤 in]] <-> [[그룹 춤인__company_2036|그룹 춤인]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김나이 무브먼트 콜렉티브__company_786|김나이 무브먼트 콜렉티브]] <-> [[김나이무브먼트컬렉티브(NKMC)__company_1719|김나이무브먼트컬렉티브(NKMC)]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구무용협회__company_105|대구무용협회]] <-> [[대한무용학회__company_1605|대한무용학회]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스씨어터 창__company_224|댄스씨어터 창]] <-> [[댄스시어터 까두__company_943|댄스시어터 까두]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스씨어터 틱__company_206|댄스씨어터 틱]] <-> [[댄스시어터 까두__company_943|댄스시어터 까두]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[몽펠리에 안무단__company_906|몽펠리에 안무단]] <-> [[몽펠리에 당스__company_1866|몽펠리에 당스]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[볼쇼이발레단__company_521|볼쇼이발레단]] <-> [[볼쇼이__company_724|볼쇼이]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관__company_668|부산문화회관]] <-> [[부산문화재단__company_750|부산문화재단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울돈화문국악당__company_25|서울돈화문국악당]] <-> [[서울남산국악당__company_544|서울남산국악당]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울세계무용축제__company_186|서울세계무용축제]] <-> [[서울무용영화제__company_1266|서울무용영화제]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울발레시어터__company_91|서울발레시어터]] <-> [[서울발레단__company_847|서울발레단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울시발레단__company_23|서울시발레단]] <-> [[서울시무용단__company_31|서울시무용단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세컨 네이쳐__company_455|세컨 네이쳐]] <-> [[세컨드네이처__company_834|세컨드네이처]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세컨드네이처 댄스컴퍼니__company_751|세컨드네이처 댄스컴퍼니]] <-> [[세컨드네이처__company_834|세컨드네이처]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안은미무용단__company_263|안은미무용단]] <-> [[안애순무용단__company_546|안애순무용단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안정훈무용단__company_364|안정훈무용단]] <-> [[안애순무용단__company_546|안애순무용단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안애순컴퍼니__company_479|안애순컴퍼니]] <-> [[안은미컴퍼니__company_592|안은미컴퍼니]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안은미무용단__company_263|안은미무용단]] <-> [[안정훈무용단__company_364|안정훈무용단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유니버설 발레단__company_579|유니버설 발레단]] <-> [[유장일 발레단__company_1634|유장일 발레단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유빈댄스__company_163|유빈댄스]] <-> [[유미크댄스__company_1617|유미크댄스]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유빈댄스__company_163|유빈댄스]] <-> [[유빈댄스프로젝트__company_805|유빈댄스프로젝트]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장유경무용단__company_44|장유경무용단]] <-> [[장은정무용단__company_807|장은정무용단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정신혜무용단__company_352|정신혜무용단]] <-> [[정은혜 민족무용단__company_1582|정은혜 민족무용단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[쿨베리__company_1834|쿨베리]] <-> [[쿨베리발레단__company_2093|쿨베리발레단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[판댄스컴퍼니__company_714|판댄스컴퍼니]] <-> [[판댄스__company_778|판댄스]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[하야로비 무용단__company_564|하야로비 무용단]] <-> [[하야로비__company_822|하야로비]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[(사)한국현대무용진흥회__company_482|(사)한국현대무용진흥회]] <-> [[한국국립현대무용단__company_1100|한국국립현대무용단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국무용연구회__company_457|한국무용연구회]] <-> [[한국무용교육학회__company_2059|한국무용교육학회]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화예술교육학회__company_1010|한국문화예술교육학회]] <-> [[한국무용교육학회__company_2059|한국무용교육학회]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국무용연구회__company_457|한국무용연구회]] <-> [[한국전통춤연구회__company_1431|한국전통춤연구회]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국무용연구회__company_457|한국무용연구회]] <-> [[한국현대무용협회__company_1013|한국현대무용협회]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국무용협회__company_767|한국무용협회]] <-> [[한국발레협회__company_942|한국발레협회]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[(사)한국현대무용진흥회__company_482|(사)한국현대무용진흥회]] <-> [[한국무용협회__company_767|한국무용협회]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국민족춤협회__company_160|한국민족춤협회]] <-> [[한국춤비평가협회__company_483|한국춤비평가협회]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국전통춤협회__company_301|한국전통춤협회]] <-> [[한국춤비평가협회__company_483|한국춤비평가협회]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국현대춤협회__company_330|한국현대춤협회]] <-> [[한국춤비평가협회__company_483|한국춤비평가협회]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[현대무용단 ‘자유’__company_317|현대무용단 ‘자유’]] <-> [[현대무용단 사포__company_429|현대무용단 사포]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[현대무용단자유__company_32|현대무용단자유]] <-> [[현대무용단 사포__company_429|현대무용단 사포]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[현대무용단 자유__company_159|현대무용단 자유]] <-> [[현대무용단사포__company_1059|현대무용단사포]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[YJK Dance Project__company_177|YJK Dance Project]] <-> [[YJK Dance Company__company_1341|YJK Dance Company]] — similarity 0.65
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스프로젝트 뽑기__company_1|댄스프로젝트 뽑기]] <-> [[댄스프로젝트 탄 탄타 단__company_180|댄스프로젝트 탄 탄타 단]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스프로젝트 탄 탄타 단__company_180|댄스프로젝트 탄 탄타 단]] <-> [[댄스프로젝트 뽑끼__company_532|댄스프로젝트 뽑끼]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세컨드네이처 댄스컴퍼니__company_751|세컨드네이처 댄스컴퍼니]] <-> [[세컨드네이처 무용단__company_810|세컨드네이처 무용단]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[키부츠 현대무용단__company_378|키부츠 현대무용단]] <-> [[키부츠 컨템포러리 무용단__company_1121|키부츠 컨템포러리 무용단]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[피나 바우쉬 무용단__company_950|피나 바우쉬 무용단]] <-> [[피나 바우쉬 탄츠테아터__company_1764|피나 바우쉬 탄츠테아터]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍콩현대무용단(CCDC)__company_1087|홍콩현대무용단(CCDC)]] <-> [[홍콩시립현대무용단__company_1098|홍콩시립현대무용단]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍콩시립현대무용단(CCDC)__company_547|홍콩시립현대무용단(CCDC)]] <-> [[홍콩현대무용단__company_1085|홍콩현대무용단]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스프로젝트 탄 탄타 단__company_180|댄스프로젝트 탄 탄타 단]] <-> [[댄스프로젝트__company_808|댄스프로젝트]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[발레STP협동조합__company_507|발레STP협동조합]] <-> [[발레에스티피협동조합__company_1534|발레에스티피협동조합]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[키부츠 컨템포러리 무용단__company_1121|키부츠 컨템포러리 무용단]] <-> [[키부츠무용단__company_1636|키부츠무용단]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화예술위원회__company_1075|한국문화예술위원회]] <-> [[한국문화예술아카데미__company_2122|한국문화예술아카데미]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화재재단 예술단__company_1638|한국문화재재단 예술단]] <-> [[한국의집 예술단__company_1923|한국의집 예술단]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[경기도무용단__company_157|경기도무용단]] <-> [[경상북도 도립무용단__company_1755|경상북도 도립무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원__company_47|국립국악원]] <-> [[국립부산국악원 무용단__company_51|국립부산국악원 무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원__company_11|국립부산국악원]] <-> [[국립국악원 무용단__company_78|국립국악원 무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립현대무용단__company_7|국립현대무용단]] <-> [[국립국악원 무용단__company_78|국립국악원 무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립무용단__company_17|국립무용단]] <-> [[국립부산국악원 무용단__company_51|국립부산국악원 무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김백봉부채춤보존회__company_707|김백봉부채춤보존회]] <-> [[김숙자춤보존회__company_1510|김숙자춤보존회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스시어터샤하르__company_468|댄스시어터샤하르]] <-> [[댄스시어터 까두__company_943|댄스시어터 까두]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스씨어터 4P__company_423|댄스씨어터 4P]] <-> [[댄스시어터 까두__company_943|댄스시어터 까두]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스씨어터 창__company_224|댄스씨어터 창]] <-> [[댄스시어터 샤하르__company_495|댄스시어터 샤하르]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄스씨어터 틱__company_206|댄스씨어터 틱]] <-> [[댄스시어터 샤하르__company_495|댄스시어터 샤하르]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[본본 댄스컴퍼니__company_1944|본본 댄스컴퍼니]] <-> [[본 아트 컴퍼니__company_1988|본 아트 컴퍼니]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산국제무용제__company_1693|부산국제무용제]] <-> [[부산국제즉흥춤축제__company_2153|부산국제즉흥춤축제]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이애주한국전통춤회__company_681|이애주한국전통춤회]] <-> [[이애주춤보존회__company_1147|이애주춤보존회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이태상프로젝트__company_477|이태상프로젝트]] <-> [[이정연댄스프로젝트__company_2124|이정연댄스프로젝트]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장인숙 희원무용단__company_69|장인숙 희원무용단]] <-> [[장유경 무용단__company_929|장유경 무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장인숙 희원무용단__company_69|장인숙 희원무용단]] <-> [[장은정 무용단__company_2134|장은정 무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[탄츠테아터 부퍼탈__company_268|탄츠테아터 부퍼탈]] <-> [[탄츠테아터원스__company_1626|탄츠테아터원스]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국현대무용협회__company_1013|한국현대무용협회]] <-> [[한국무용교육학회__company_2059|한국무용교육학회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국무용연구회__company_457|한국무용연구회]] <-> [[한국장애인무용협회__company_1262|한국장애인무용협회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국무용연구회__company_457|한국무용연구회]] <-> [[(사)한국현대무용진흥회__company_482|(사)한국현대무용진흥회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국전통춤연구회__company_1431|한국전통춤연구회]] <-> [[사단법인 한국전통예술협회__company_1653|사단법인 한국전통예술협회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국현대춤협회__company_330|한국현대춤협회]] <-> [[(사)한국현대무용진흥회__company_482|(사)한국현대무용진흥회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미 무용단__company_933|김선미 무용단]] <-> [[김복희무용단__company_1701|김복희무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구무용협회__company_105|대구무용협회]] <-> [[대구시립무용단__company_170|대구시립무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[모든컴퍼니__company_101|모든컴퍼니]] <-> [[모헤르댄스컴퍼니__company_474|모헤르댄스컴퍼니]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[빈 심포니 오케스트라__company_1000|빈 심포니 오케스트라]] <-> [[빈-베를린 체임버 오케스트라__company_1215|빈-베를린 체임버 오케스트라]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울시무용단__company_31|서울시무용단]] <-> [[서울무용영화제__company_1266|서울무용영화제]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울시발레단__company_23|서울시발레단]] <-> [[서울발레시어터__company_91|서울발레시어터]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울시발레단__company_23|서울시발레단]] <-> [[서울시립무용단__company_642|서울시립무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울시무용단__company_31|서울시무용단]] <-> [[서울시오페라단__company_1331|서울시오페라단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울시발레단__company_23|서울시발레단]] <-> [[서울시오페라단__company_1331|서울시오페라단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안은미무용단__company_263|안은미무용단]] <-> [[안애순 무용단__company_412|안애순 무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안정훈무용단__company_364|안정훈무용단]] <-> [[안애순 무용단__company_412|안애순 무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안애순컴퍼니__company_479|안애순컴퍼니]] <-> [[안은미 컴퍼니__company_1203|안은미 컴퍼니]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유장일발레단__company_181|유장일발레단]] <-> [[유니버설발레단__company_255|유니버설발레단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유빈댄스프로젝트__company_805|유빈댄스프로젝트]] <-> [[유빈 댄스__company_865|유빈 댄스]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[윤덕경 무용단__company_925|윤덕경 무용단]] <-> [[윤미라무용단__company_1248|윤미라무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[윤수미무용단__company_175|윤수미무용단]] <-> [[윤덕경 무용단__company_925|윤덕경 무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장은정무용단__company_807|장은정무용단]] <-> [[장유경 무용단__company_929|장유경 무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장유경무용단__company_44|장유경무용단]] <-> [[장은정 무용단__company_2134|장은정 무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[전미숙 무용단__company_820|전미숙 무용단]] <-> [[전은자무용단__company_1321|전은자무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[전북도립무용단__company_611|전북도립무용단]] <-> [[전은자무용단__company_1321|전은자무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정길무용단__company_3|정길무용단]] <-> [[정은혜민족무용단__company_154|정은혜민족무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국민족춤협회__company_160|한국민족춤협회]] <-> [[한국무용협회__company_767|한국무용협회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국전통춤협회__company_301|한국전통춤협회]] <-> [[한국무용협회__company_767|한국무용협회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국현대춤협회__company_330|한국현대춤협회]] <-> [[한국무용협회__company_767|한국무용협회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국민족춤협회__company_160|한국민족춤협회]] <-> [[한국발레협회__company_942|한국발레협회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국민족춤협회__company_160|한국민족춤협회]] <-> [[한국전통춤회__company_1750|한국전통춤회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국전통춤협회__company_301|한국전통춤협회]] <-> [[한국발레협회__company_942|한국발레협회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국현대춤협회__company_330|한국현대춤협회]] <-> [[한국발레협회__company_942|한국발레협회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국춤협회__company_341|한국춤협회]] <-> [[사단법인 한국전통예술협회__company_1653|사단법인 한국전통예술협회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국춤협회__company_341|한국춤협회]] <-> [[한국전통춤연구회__company_1431|한국전통춤연구회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국현대춤협회__company_330|한국현대춤협회]] <-> [[한국전통춤회__company_1750|한국전통춤회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국춤협회__company_341|한국춤협회]] <-> [[한국현대무용협회__company_1013|한국현대무용협회]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍콩무용단__company_543|홍콩무용단]] <-> [[홍경화현대무용단__company_771|홍경화현대무용단]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LDP__company_313|LDP]] <-> [[LDP 무용단__company_910|LDP 무용단]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극단__company_513|국립극단]] <-> [[국립오페라단__company_1006|국립오페라단]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립정동극장__company_20|국립정동극장]] <-> [[국립극단__company_513|국립극단]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립발레단__company_8|국립발레단]] <-> [[국립무용단__company_17|국립무용단]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립무용단__company_17|국립무용단]] <-> [[국립창극단__company_517|국립창극단]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립발레단__company_8|국립발레단]] <-> [[국립창극단__company_517|국립창극단]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[발레STP협동조합__company_507|발레STP협동조합]] <-> [[발레에스티피 협동조합__company_1118|발레에스티피 협동조합]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[보라보라 레지던시 센터__company_1805|보라보라 레지던시 센터]] <-> [[보라 보라 센터__company_1906|보라 보라 센터]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[볼쇼이 발레단__company_437|볼쇼이 발레단]] <-> [[볼쇼이__company_724|볼쇼이]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울문화예술교육센터__company_1103|서울문화예술교육센터]] <-> [[서울국제문화예술협회__company_1179|서울국제문화예술협회]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울예술단__company_762|서울예술단]] <-> [[서울발레단__company_847|서울발레단]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유빈 댄스__company_865|유빈 댄스]] <-> [[유미크댄스__company_1617|유미크댄스]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[쿨베리 발레단__company_426|쿨베리 발레단]] <-> [[쿨베리__company_1834|쿨베리]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[판댄스 시어터__company_728|판댄스 시어터]] <-> [[판댄스__company_778|판댄스]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화예술교육학회__company_1010|한국문화예술교육학회]] <-> [[한국문화예술아카데미__company_2122|한국문화예술아카데미]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국장애인문화예술원__company_493|한국장애인문화예술원]] <-> [[한국문화예술교육학회__company_1010|한국문화예술교육학회]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국장애인문화예술원__company_493|한국장애인문화예술원]] <-> [[한국문화예술아카데미__company_2122|한국문화예술아카데미]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화예술위원회__company_1075|한국문화예술위원회]] <-> [[한국문화재재단 예술단__company_1638|한국문화재재단 예술단]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍콩발레단__company_12|홍콩발레단]] <-> [[홍콩무용단__company_543|홍콩무용단]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject

@@ -1,0 +1,1102 @@
+# Review Queue — work_lineage
+
+pending 후보 366건
+
+- [ ] [[지젤__work_7|지젤]] <-> [[지젤__work_417|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "페라극장에서 <지젤>을 공연했다. 1841년 파리에서 초연된 <지젤>은 상트페테르부르크 마린스키발레단을 통해", "lineage_keyword_source_article_id": 549}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_7|지젤]] <-> [[지젤__work_1424|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 〈지젤〉을 선보인다.\n1841년 파리 오페라극장에서 초연된 발레 <지젤>은 프랑스 시인 테오필 고티에 (T", "lineage_keyword_source_article_id": 872}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_7|지젤]] <-> [[지젤__work_1470|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 〈지젤〉을 선보인다.\n1841년 파리 오페라극장에서 초연된 발레 <지젤>은 프랑스 시인 테오필 고티에 (T", "lineage_keyword_source_article_id": 872}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_7|지젤]] <-> [[지젤__work_1727|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 〈지젤〉을 선보인다.\n1841년 파리 오페라극장에서 초연된 발레 <지젤>은 프랑스 시인 테오필 고티에 (T", "lineage_keyword_source_article_id": 872}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_417|지젤]] <-> [[지젤__work_1424|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "페라극장에서 <지젤>을 공연했다. 1841년 파리에서 초연된 <지젤>은 상트페테르부르크 마린스키발레단을 통해", "lineage_keyword_source_article_id": 549}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_417|지젤]] <-> [[지젤__work_1470|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "페라극장에서 <지젤>을 공연했다. 1841년 파리에서 초연된 <지젤>은 상트페테르부르크 마린스키발레단을 통해", "lineage_keyword_source_article_id": 549}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_417|지젤]] <-> [[지젤__work_1727|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "페라극장에서 <지젤>을 공연했다. 1841년 파리에서 초연된 <지젤>은 상트페테르부르크 마린스키발레단을 통해", "lineage_keyword_source_article_id": 549}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_1424|지젤]] <-> [[지젤__work_1470|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": " 폴랴코프(Eugene Polyakov)가 1991년 재안무한 버전이다.\n<지젤>은 당시 유럽에 널리 퍼져 ", "lineage_keyword_source_article_id": 1424}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_1424|지젤]] <-> [[지젤__work_1727|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": " 폴랴코프(Eugene Polyakov)가 1991년 재안무한 버전이다.\n<지젤>은 당시 유럽에 널리 퍼져 ", "lineage_keyword_source_article_id": 1424}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[지젤__work_1470|지젤]] <-> [[지젤__work_1727|지젤]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[미인__work_21|미인]] <-> [[미인__work_288|미인]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "주목받은 장영규가 맡아 전통 악기의 사운드를 해체하고 재구성, 색다른 음악적 경험을 선사한다.\n여성 무용수들", "lineage_keyword_source_article_id": 1010}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[미인__work_21|미인]] <-> [[미인__work_1325|미인]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "주목받은 장영규가 맡아 전통 악기의 사운드를 해체하고 재구성, 색다른 음악적 경험을 선사한다.\n여성 무용수들", "lineage_keyword_source_article_id": 1010}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[미인__work_288|미인]] <-> [[미인__work_1325|미인]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[사계__work_37|사계]] <-> [[사계__work_953|사계]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "인과 서브로 양단하기보다 거시(巨視)와 미시(微視)로 재구성한 공동 안무의 형태는 차후 신구 세대의 협업에 ", "lineage_keyword_source_article_id": 2097}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한여름 밤의 꿈__work_46|한여름 밤의 꿈]] <-> [[한여름 밤의 꿈__work_906|한여름 밤의 꿈]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "발레의 다양한 스펙트럼을 선보였던 서울시발레단은 세계 초연작인 창단 공연 <한여름 밤의 꿈>을 시작으로 이 ", "lineage_keyword_source_article_id": 1145}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한여름 밤의 꿈__work_46|한여름 밤의 꿈]] <-> [[한여름 밤의 꿈__work_1047|한여름 밤의 꿈]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "발레의 다양한 스펙트럼을 선보였던 서울시발레단은 세계 초연작인 창단 공연 <한여름 밤의 꿈>을 시작으로 이 ", "lineage_keyword_source_article_id": 1145}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한여름 밤의 꿈__work_906|한여름 밤의 꿈]] <-> [[한여름 밤의 꿈__work_1047|한여름 밤의 꿈]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "있는 것이 특징이며, 2015년 로열 스웨덴 발레에서 초연됐다. 개인주의가 팽배한 현대사회를 풍자했던 <해머", "lineage_keyword_source_article_id": 797}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[블랙__work_48|블랙]] <-> [[블랙__work_1658|블랙]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_284|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_520|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "디한 작품 정도에 머물 것이다. 1895년 러시아에서 초연된 이래의 <백조의 호수>들이 없었다면 매튜 본의 ", "lineage_keyword_source_article_id": 691}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_620|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "리메이크", "lineage_keyword_snippet": "감을 얻었다. 드라마로, 영화로, 현재까지도 끊임없이 리메이크되며 창작자들의 뜨거운 관심을 받고 있는 이 왕", "lineage_keyword_source_article_id": 2017}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_728|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " <백조의 호수>는 1877년 모스크바 볼쇼이극장에서 초연되었다. 초연작은 인기를 얻지 못했지만 그 이후로 ", "lineage_keyword_source_article_id": 2294}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_731|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "더욱 그렇다.\n그러나 프렐조카주는 다작에 비해 고전의 각색에는 관심이 덜한 편이다. 그의 안무작 가운데 원작", "lineage_keyword_source_article_id": 2300}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_734|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "레 형식을 보여주는 3막 무도회장면도 나름의 방식으로 재구성을 하였다. 그리가로비치 버전이 각국의 신부 후보", "lineage_keyword_source_article_id": 2306}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "는 그런 의미에서 가장 상징적인 작품이다. 1877년 초연 당시에는 큰 반향을 일으키지 못했지만, 작곡가 차", "lineage_keyword_source_article_id": 931}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "살아있는 거장 유리 그리고로비치의 안무로, 2001년 초연 이후 올해로 10번째 국립발레단 무대에 오르는 대", "lineage_keyword_source_article_id": 1219}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "존재였으나 마요의 작품에서 로트바르트가 밤의 여왕으로 각색되어 흑조와 모녀 관계를 이루고 원작에는 생략되었던", "lineage_keyword_source_article_id": 2793}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_520|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "디한 작품 정도에 머물 것이다. 1895년 러시아에서 초연된 이래의 <백조의 호수>들이 없었다면 매튜 본의 ", "lineage_keyword_source_article_id": 691}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_620|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "리메이크", "lineage_keyword_snippet": "감을 얻었다. 드라마로, 영화로, 현재까지도 끊임없이 리메이크되며 창작자들의 뜨거운 관심을 받고 있는 이 왕", "lineage_keyword_source_article_id": 2017}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_728|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " <백조의 호수>는 1877년 모스크바 볼쇼이극장에서 초연되었다. 초연작은 인기를 얻지 못했지만 그 이후로 ", "lineage_keyword_source_article_id": 2294}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_731|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "더욱 그렇다.\n그러나 프렐조카주는 다작에 비해 고전의 각색에는 관심이 덜한 편이다. 그의 안무작 가운데 원작", "lineage_keyword_source_article_id": 2300}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_734|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "레 형식을 보여주는 3막 무도회장면도 나름의 방식으로 재구성을 하였다. 그리가로비치 버전이 각국의 신부 후보", "lineage_keyword_source_article_id": 2306}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "는 그런 의미에서 가장 상징적인 작품이다. 1877년 초연 당시에는 큰 반향을 일으키지 못했지만, 작곡가 차", "lineage_keyword_source_article_id": 931}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "살아있는 거장 유리 그리고로비치의 안무로, 2001년 초연 이후 올해로 10번째 국립발레단 무대에 오르는 대", "lineage_keyword_source_article_id": 1219}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "존재였으나 마요의 작품에서 로트바르트가 밤의 여왕으로 각색되어 흑조와 모녀 관계를 이루고 원작에는 생략되었던", "lineage_keyword_source_article_id": 2793}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_620|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "리메이크", "lineage_keyword_snippet": "감을 얻었다. 드라마로, 영화로, 현재까지도 끊임없이 리메이크되며 창작자들의 뜨거운 관심을 받고 있는 이 왕", "lineage_keyword_source_article_id": 2017}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_728|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "디한 작품 정도에 머물 것이다. 1895년 러시아에서 초연된 이래의 <백조의 호수>들이 없었다면 매튜 본의 ", "lineage_keyword_source_article_id": 691}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_731|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "디한 작품 정도에 머물 것이다. 1895년 러시아에서 초연된 이래의 <백조의 호수>들이 없었다면 매튜 본의 ", "lineage_keyword_source_article_id": 691}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_734|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "레 형식을 보여주는 3막 무도회장면도 나름의 방식으로 재구성을 하였다. 그리가로비치 버전이 각국의 신부 후보", "lineage_keyword_source_article_id": 2306}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "디한 작품 정도에 머물 것이다. 1895년 러시아에서 초연된 이래의 <백조의 호수>들이 없었다면 매튜 본의 ", "lineage_keyword_source_article_id": 691}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "는 그런 의미에서 가장 상징적인 작품이다. 1877년 초연 당시에는 큰 반향을 일으키지 못했지만, 작곡가 차", "lineage_keyword_source_article_id": 931}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "디한 작품 정도에 머물 것이다. 1895년 러시아에서 초연된 이래의 <백조의 호수>들이 없었다면 매튜 본의 ", "lineage_keyword_source_article_id": 691}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "디한 작품 정도에 머물 것이다. 1895년 러시아에서 초연된 이래의 <백조의 호수>들이 없었다면 매튜 본의 ", "lineage_keyword_source_article_id": 691}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "존재였으나 마요의 작품에서 로트바르트가 밤의 여왕으로 각색되어 흑조와 모녀 관계를 이루고 원작에는 생략되었던", "lineage_keyword_source_article_id": 2793}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_728|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "리메이크", "lineage_keyword_snippet": "감을 얻었다. 드라마로, 영화로, 현재까지도 끊임없이 리메이크되며 창작자들의 뜨거운 관심을 받고 있는 이 왕", "lineage_keyword_source_article_id": 2017}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_731|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "리메이크", "lineage_keyword_snippet": "감을 얻었다. 드라마로, 영화로, 현재까지도 끊임없이 리메이크되며 창작자들의 뜨거운 관심을 받고 있는 이 왕", "lineage_keyword_source_article_id": 2017}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_734|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "리메이크", "lineage_keyword_snippet": "감을 얻었다. 드라마로, 영화로, 현재까지도 끊임없이 리메이크되며 창작자들의 뜨거운 관심을 받고 있는 이 왕", "lineage_keyword_source_article_id": 2017}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "리메이크", "lineage_keyword_snippet": "감을 얻었다. 드라마로, 영화로, 현재까지도 끊임없이 리메이크되며 창작자들의 뜨거운 관심을 받고 있는 이 왕", "lineage_keyword_source_article_id": 2017}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "리메이크", "lineage_keyword_snippet": "감을 얻었다. 드라마로, 영화로, 현재까지도 끊임없이 리메이크되며 창작자들의 뜨거운 관심을 받고 있는 이 왕", "lineage_keyword_source_article_id": 2017}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "리메이크", "lineage_keyword_snippet": "감을 얻었다. 드라마로, 영화로, 현재까지도 끊임없이 리메이크되며 창작자들의 뜨거운 관심을 받고 있는 이 왕", "lineage_keyword_source_article_id": 2017}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "리메이크", "lineage_keyword_snippet": "감을 얻었다. 드라마로, 영화로, 현재까지도 끊임없이 리메이크되며 창작자들의 뜨거운 관심을 받고 있는 이 왕", "lineage_keyword_source_article_id": 2017}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "리메이크", "lineage_keyword_snippet": "감을 얻었다. 드라마로, 영화로, 현재까지도 끊임없이 리메이크되며 창작자들의 뜨거운 관심을 받고 있는 이 왕", "lineage_keyword_source_article_id": 2017}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수__work_731|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "더욱 그렇다.\n그러나 프렐조카주는 다작에 비해 고전의 각색에는 관심이 덜한 편이다. 그의 안무작 가운데 원작", "lineage_keyword_source_article_id": 2300}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수__work_734|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "레 형식을 보여주는 3막 무도회장면도 나름의 방식으로 재구성을 하였다. 그리가로비치 버전이 각국의 신부 후보", "lineage_keyword_source_article_id": 2306}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " <백조의 호수>는 1877년 모스크바 볼쇼이극장에서 초연되었다. 초연작은 인기를 얻지 못했지만 그 이후로 ", "lineage_keyword_source_article_id": 2294}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "는 그런 의미에서 가장 상징적인 작품이다. 1877년 초연 당시에는 큰 반향을 일으키지 못했지만, 작곡가 차", "lineage_keyword_source_article_id": 931}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "살아있는 거장 유리 그리고로비치의 안무로, 2001년 초연 이후 올해로 10번째 국립발레단 무대에 오르는 대", "lineage_keyword_source_article_id": 1219}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " <백조의 호수>는 1877년 모스크바 볼쇼이극장에서 초연되었다. 초연작은 인기를 얻지 못했지만 그 이후로 ", "lineage_keyword_source_article_id": 2294}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_728|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "존재였으나 마요의 작품에서 로트바르트가 밤의 여왕으로 각색되어 흑조와 모녀 관계를 이루고 원작에는 생략되었던", "lineage_keyword_source_article_id": 2793}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_731|백조의 호수]] <-> [[백조의 호수__work_734|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "레 형식을 보여주는 3막 무도회장면도 나름의 방식으로 재구성을 하였다. 그리가로비치 버전이 각국의 신부 후보", "lineage_keyword_source_article_id": 2306}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_731|백조의 호수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "더욱 그렇다.\n그러나 프렐조카주는 다작에 비해 고전의 각색에는 관심이 덜한 편이다. 그의 안무작 가운데 원작", "lineage_keyword_source_article_id": 2300}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_731|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "는 그런 의미에서 가장 상징적인 작품이다. 1877년 초연 당시에는 큰 반향을 일으키지 못했지만, 작곡가 차", "lineage_keyword_source_article_id": 931}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_731|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "살아있는 거장 유리 그리고로비치의 안무로, 2001년 초연 이후 올해로 10번째 국립발레단 무대에 오르는 대", "lineage_keyword_source_article_id": 1219}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_731|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "더욱 그렇다.\n그러나 프렐조카주는 다작에 비해 고전의 각색에는 관심이 덜한 편이다. 그의 안무작 가운데 원작", "lineage_keyword_source_article_id": 2300}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_731|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "존재였으나 마요의 작품에서 로트바르트가 밤의 여왕으로 각색되어 흑조와 모녀 관계를 이루고 원작에는 생략되었던", "lineage_keyword_source_article_id": 2793}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_734|백조의 호수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "레 형식을 보여주는 3막 무도회장면도 나름의 방식으로 재구성을 하였다. 그리가로비치 버전이 각국의 신부 후보", "lineage_keyword_source_article_id": 2306}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_734|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "레 형식을 보여주는 3막 무도회장면도 나름의 방식으로 재구성을 하였다. 그리가로비치 버전이 각국의 신부 후보", "lineage_keyword_source_article_id": 2306}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_734|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "레 형식을 보여주는 3막 무도회장면도 나름의 방식으로 재구성을 하였다. 그리가로비치 버전이 각국의 신부 후보", "lineage_keyword_source_article_id": 2306}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_734|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "레 형식을 보여주는 3막 무도회장면도 나름의 방식으로 재구성을 하였다. 그리가로비치 버전이 각국의 신부 후보", "lineage_keyword_source_article_id": 2306}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_734|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "존재였으나 마요의 작품에서 로트바르트가 밤의 여왕으로 각색되어 흑조와 모녀 관계를 이루고 원작에는 생략되었던", "lineage_keyword_source_article_id": 2793}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_875|백조의 호수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "는 그런 의미에서 가장 상징적인 작품이다. 1877년 초연 당시에는 큰 반향을 일으키지 못했지만, 작곡가 차", "lineage_keyword_source_article_id": 931}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_875|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "i Grigorovich) 버전으로, 2001년 국내 초연 이후 매회 관객들의 뜨거운 호응을 얻어왔다. 그리", "lineage_keyword_source_article_id": 829}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_875|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_875|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "존재였으나 마요의 작품에서 로트바르트가 밤의 여왕으로 각색되어 흑조와 모녀 관계를 이루고 원작에는 생략되었던", "lineage_keyword_source_article_id": 2793}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_929|백조의 호수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "는 그런 의미에서 가장 상징적인 작품이다. 1877년 초연 당시에는 큰 반향을 일으키지 못했지만, 작곡가 차", "lineage_keyword_source_article_id": 931}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_929|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "는 그런 의미에서 가장 상징적인 작품이다. 1877년 초연 당시에는 큰 반향을 일으키지 못했지만, 작곡가 차", "lineage_keyword_source_article_id": 931}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_929|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "는 그런 의미에서 가장 상징적인 작품이다. 1877년 초연 당시에는 큰 반향을 일으키지 못했지만, 작곡가 차", "lineage_keyword_source_article_id": 931}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_1068|백조의 호수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "살아있는 거장 유리 그리고로비치의 안무로, 2001년 초연 이후 올해로 10번째 국립발레단 무대에 오르는 대", "lineage_keyword_source_article_id": 1219}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_1068|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "존재였으나 마요의 작품에서 로트바르트가 밤의 여왕으로 각색되어 흑조와 모녀 관계를 이루고 원작에는 생략되었던", "lineage_keyword_source_article_id": 2793}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_1383|백조의 호수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "존재였으나 마요의 작품에서 로트바르트가 밤의 여왕으로 각색되어 흑조와 모녀 관계를 이루고 원작에는 생략되었던", "lineage_keyword_source_article_id": 2793}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[클라라 슈만__work_108|클라라 슈만]] <-> [[클라라 슈만__work_544|클라라 슈만]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": true, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[일무__work_145|일무]] <-> [[일무__work_684|일무]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": true, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": " 진행될수록 음악은 전통에서 현대로, 시간을 관통하며 재구성됐다. 좀 더 단순하고 흡입력 있는 새로운 사운드", "lineage_keyword_source_article_id": 1379}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[더블빌__work_150|더블빌]] <-> [[더블빌__work_1534|더블빌]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "(목)부터 24일(일)까지 <더블빌>을 달오름극장에서 초연한다. ‘더블빌’은 두 작품을 한 무대에서 차례로 ", "lineage_keyword_source_article_id": 1603}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[햄베스__work_193|햄베스]] <-> [[햄베스__work_1154|햄베스]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "를 더욱 심화시키는 계기가 될 것”이라고 말했으며, 박재연 선임 프로듀서는 “한국 현대무용의 대담한 창의성과", "lineage_keyword_source_article_id": 975}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이윽고__work_200|이윽고]] <-> [[이윽고__work_543|이윽고]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[해적__work_208|해적]] <-> [[해적__work_549|해적]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "르트발레단 제작감독인 크리스토프 노보그로츠키를 초청해 재안무 했습니다. 올해 공연할 〈해적〉도 프리모르스키-", "lineage_keyword_source_article_id": 709}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[해적__work_208|해적]] <-> [[해적__work_1698|해적]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "름에 맞게 재탄생한 캐릭터 등 국립발레단만의 버전으로 각색했다.\n국립발레단 '해적' 공연사진(사진제공=국립발", "lineage_keyword_source_article_id": 1601}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[해적__work_549|해적]] <-> [[해적__work_1698|해적]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "르트발레단 제작감독인 크리스토프 노보그로츠키를 초청해 재안무 했습니다. 올해 공연할 〈해적〉도 프리모르스키-", "lineage_keyword_source_article_id": 709}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[비극(非劇) - 내일을 위한 우화__work_230|비극(非劇) - 내일을 위한 우화]] <-> [[비극(非劇) - 내일을 위한 우화__work_1675|비극(非劇) - 내일을 위한 우화]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "화로서의 비극(非劇)적 만남이다.\nQ : 작년 10월 초연 이후 1년 만에 다시 공연하게 됐다. 사람들의 슬", "lineage_keyword_source_article_id": 1884}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[처용__work_231|처용]] <-> [[처용__work_282|처용]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "임성남이 1981년에 초연, 1983년과 1985년에 재연했으나 수많은 다른 작품들처럼 사장되었다.\n국립발레", "lineage_keyword_source_article_id": 358}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[구토__work_235|구토]] <-> [[구토__work_276|구토]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "2.국민대학교예술관대극장)는 2017년 12월 2일에 초연되었고, 한국춤비평가협회의 2017년도 작품상을 받", "lineage_keyword_source_article_id": 298}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[섬__work_257|섬]] <-> [[섬__work_306|섬]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[섬__work_257|섬]] <-> [[섬__work_1030|섬]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": " 몸으로 기억하는 재료들을 수집\n,\n나열\n,\n편집\n,\n재구성하는 모습은 조작적 재현이 아니라 과거와 현재\n,", "lineage_keyword_source_article_id": 2771}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[섬__work_306|섬]] <-> [[섬__work_1030|섬]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": " 몸으로 기억하는 재료들을 수집\n,\n나열\n,\n편집\n,\n재구성하는 모습은 조작적 재현이 아니라 과거와 현재\n,", "lineage_keyword_source_article_id": 2771}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_304|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_308|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "오와 줄리엣 Romeo und Julia>으로, 독일 초연 이후 많은 유럽 발레단에서 시즌 레퍼토리 프로그램", "lineage_keyword_source_article_id": 1609}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_326|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "오리지널", "lineage_keyword_snippet": "와 15인조 앙상블이 편곡 작업에 참여했으며 51개의 오리지널 스코어 중 30곡을 골라 순서를 재배치하고 5", "lineage_keyword_source_article_id": 1202}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_469|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "의 연기로 갈채를 받았으며, 2011년 정명훈 지휘로 재연된 바 있어 매우 익숙한 레퍼토리라는 느낌을 주기에", "lineage_keyword_source_article_id": 625}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_682|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "고 있지만 이번 공연은 조금 특별했다. 볼쇼이극장에서 초연했던 당시의 무대를 고증하여 되살린 공연이었기 때문", "lineage_keyword_source_article_id": 2161}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_720|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "니스 코피에테르와 크리스 롤랑을 객원 주역으로 초청해 재연을 올렸다. 이후 2011년부터 2013년까지 3년", "lineage_keyword_source_article_id": 2234}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_794|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "오리지널", "lineage_keyword_snippet": "란히 놓기에는 다소 이르지만, 움직임 면에서는 단체의 오리지널리티가 있는 차별화된 결과물을 내놓는 데 성공하", "lineage_keyword_source_article_id": 2435}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "레단을 창단할 당시, 공주는 독창적인 창작물들을 세계 초연하고 재능 있는 안무가들을 초청하는 길을 열고자 했", "lineage_keyword_source_article_id": 1281}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_281|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_308|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "오와 줄리엣 Romeo und Julia>으로, 독일 초연 이후 많은 유럽 발레단에서 시즌 레퍼토리 프로그램", "lineage_keyword_source_article_id": 1609}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_326|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "오리지널", "lineage_keyword_snippet": "와 15인조 앙상블이 편곡 작업에 참여했으며 51개의 오리지널 스코어 중 30곡을 골라 순서를 재배치하고 5", "lineage_keyword_source_article_id": 1202}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_469|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "의 연기로 갈채를 받았으며, 2011년 정명훈 지휘로 재연된 바 있어 매우 익숙한 레퍼토리라는 느낌을 주기에", "lineage_keyword_source_article_id": 625}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_682|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "고 있지만 이번 공연은 조금 특별했다. 볼쇼이극장에서 초연했던 당시의 무대를 고증하여 되살린 공연이었기 때문", "lineage_keyword_source_article_id": 2161}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_720|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "니스 코피에테르와 크리스 롤랑을 객원 주역으로 초청해 재연을 올렸다. 이후 2011년부터 2013년까지 3년", "lineage_keyword_source_article_id": 2234}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_794|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "오리지널", "lineage_keyword_snippet": "란히 놓기에는 다소 이르지만, 움직임 면에서는 단체의 오리지널리티가 있는 차별화된 결과물을 내놓는 데 성공하", "lineage_keyword_source_article_id": 2435}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "레단을 창단할 당시, 공주는 독창적인 창작물들을 세계 초연하고 재능 있는 안무가들을 초청하는 길을 열고자 했", "lineage_keyword_source_article_id": 1281}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_304|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_308|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_326|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "에서 초연되고 2014년 아우크스부르크발레단 초청으로 재안무 공연되었는데, 이번엔 아우크스부르크 버전으로 무", "lineage_keyword_source_article_id": 390}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_308|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_469|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "오와 줄리엣 Romeo und Julia>으로, 독일 초연 이후 많은 유럽 발레단에서 시즌 레퍼토리 프로그램", "lineage_keyword_source_article_id": 1609}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_308|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_682|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "고 있지만 이번 공연은 조금 특별했다. 볼쇼이극장에서 초연했던 당시의 무대를 고증하여 되살린 공연이었기 때문", "lineage_keyword_source_article_id": 2161}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_308|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_720|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "오와 줄리엣 Romeo und Julia>으로, 독일 초연 이후 많은 유럽 발레단에서 시즌 레퍼토리 프로그램", "lineage_keyword_source_article_id": 1609}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_308|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_794|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "오와 줄리엣 Romeo und Julia>으로, 독일 초연 이후 많은 유럽 발레단에서 시즌 레퍼토리 프로그램", "lineage_keyword_source_article_id": 1609}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_308|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "레단을 창단할 당시, 공주는 독창적인 창작물들을 세계 초연하고 재능 있는 안무가들을 초청하는 길을 열고자 했", "lineage_keyword_source_article_id": 1281}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_308|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "오와 줄리엣 Romeo und Julia>으로, 독일 초연 이후 많은 유럽 발레단에서 시즌 레퍼토리 프로그램", "lineage_keyword_source_article_id": 1609}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_326|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_469|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "오리지널", "lineage_keyword_snippet": "와 15인조 앙상블이 편곡 작업에 참여했으며 51개의 오리지널 스코어 중 30곡을 골라 순서를 재배치하고 5", "lineage_keyword_source_article_id": 1202}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_326|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_682|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "오리지널", "lineage_keyword_snippet": "와 15인조 앙상블이 편곡 작업에 참여했으며 51개의 오리지널 스코어 중 30곡을 골라 순서를 재배치하고 5", "lineage_keyword_source_article_id": 1202}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_326|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_720|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "니스 코피에테르와 크리스 롤랑을 객원 주역으로 초청해 재연을 올렸다. 이후 2011년부터 2013년까지 3년", "lineage_keyword_source_article_id": 2234}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_326|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_794|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "오리지널", "lineage_keyword_snippet": "란히 놓기에는 다소 이르지만, 움직임 면에서는 단체의 오리지널리티가 있는 차별화된 결과물을 내놓는 데 성공하", "lineage_keyword_source_article_id": 2435}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_326|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "레단을 창단할 당시, 공주는 독창적인 창작물들을 세계 초연하고 재능 있는 안무가들을 초청하는 길을 열고자 했", "lineage_keyword_source_article_id": 1281}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_326|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "오리지널", "lineage_keyword_snippet": "와 15인조 앙상블이 편곡 작업에 참여했으며 51개의 오리지널 스코어 중 30곡을 골라 순서를 재배치하고 5", "lineage_keyword_source_article_id": 1202}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_469|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_682|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "고 있지만 이번 공연은 조금 특별했다. 볼쇼이극장에서 초연했던 당시의 무대를 고증하여 되살린 공연이었기 때문", "lineage_keyword_source_article_id": 2161}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_469|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_720|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "의 연기로 갈채를 받았으며, 2011년 정명훈 지휘로 재연된 바 있어 매우 익숙한 레퍼토리라는 느낌을 주기에", "lineage_keyword_source_article_id": 625}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_469|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_794|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "의 연기로 갈채를 받았으며, 2011년 정명훈 지휘로 재연된 바 있어 매우 익숙한 레퍼토리라는 느낌을 주기에", "lineage_keyword_source_article_id": 625}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_469|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "의 연기로 갈채를 받았으며, 2011년 정명훈 지휘로 재연된 바 있어 매우 익숙한 레퍼토리라는 느낌을 주기에", "lineage_keyword_source_article_id": 625}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_469|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "의 연기로 갈채를 받았으며, 2011년 정명훈 지휘로 재연된 바 있어 매우 익숙한 레퍼토리라는 느낌을 주기에", "lineage_keyword_source_article_id": 625}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_682|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_720|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "고 있지만 이번 공연은 조금 특별했다. 볼쇼이극장에서 초연했던 당시의 무대를 고증하여 되살린 공연이었기 때문", "lineage_keyword_source_article_id": 2161}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_682|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_794|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "고 있지만 이번 공연은 조금 특별했다. 볼쇼이극장에서 초연했던 당시의 무대를 고증하여 되살린 공연이었기 때문", "lineage_keyword_source_article_id": 2161}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_682|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "고 있지만 이번 공연은 조금 특별했다. 볼쇼이극장에서 초연했던 당시의 무대를 고증하여 되살린 공연이었기 때문", "lineage_keyword_source_article_id": 2161}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_682|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "고 있지만 이번 공연은 조금 특별했다. 볼쇼이극장에서 초연했던 당시의 무대를 고증하여 되살린 공연이었기 때문", "lineage_keyword_source_article_id": 2161}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_720|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_794|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "니스 코피에테르와 크리스 롤랑을 객원 주역으로 초청해 재연을 올렸다. 이후 2011년부터 2013년까지 3년", "lineage_keyword_source_article_id": 2234}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_720|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "레단을 창단할 당시, 공주는 독창적인 창작물들을 세계 초연하고 재능 있는 안무가들을 초청하는 길을 열고자 했", "lineage_keyword_source_article_id": 1281}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_720|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "니스 코피에테르와 크리스 롤랑을 객원 주역으로 초청해 재연을 올렸다. 이후 2011년부터 2013년까지 3년", "lineage_keyword_source_article_id": 2234}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_794|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "레단을 창단할 당시, 공주는 독창적인 창작물들을 세계 초연하고 재능 있는 안무가들을 초청하는 길을 열고자 했", "lineage_keyword_source_article_id": 1281}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_794|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "오리지널", "lineage_keyword_snippet": "란히 놓기에는 다소 이르지만, 움직임 면에서는 단체의 오리지널리티가 있는 차별화된 결과물을 내놓는 데 성공하", "lineage_keyword_source_article_id": 2435}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[로미오와 줄리엣__work_1337|로미오와 줄리엣]] <-> [[로미오와 줄리엣__work_1634|로미오와 줄리엣]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "레단을 창단할 당시, 공주는 독창적인 창작물들을 세계 초연하고 재능 있는 안무가들을 초청하는 길을 열고자 했", "lineage_keyword_source_article_id": 1281}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안나 카레니나__work_286|안나 카레니나]] <-> [[안나 카레니나__work_690|안나 카레니나]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "국립발레단 제171회 정기공연 작품으로 2014년에 초연된 크리스티안 슈푹 안무의 〈안나 카레니나〉(11월", "lineage_keyword_source_article_id": 362}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[카르미나 부라나__work_305|카르미나 부라나]] <-> [[카르미나 부라나__work_1143|카르미나 부라나]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "로뎍션을 완성했다는 점은 평가되어야 한다. 이 작품의 초연은 2015년 대전예술의전당이 주도하는 스프링 페스", "lineage_keyword_source_article_id": 387}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[얼토당토__work_316|얼토당토]] <-> [[얼토당토__work_905|얼토당토]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "한국 전통예술을 신체를 기반으로 ‘움직이는 전통’으로 재구성 해본다는 취지에서 출발했다. 이를 발전시켜 놀이", "lineage_keyword_source_article_id": 2587}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[노인과 바다__work_328|노인과 바다]] <-> [[노인과 바다__work_748|노인과 바다]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "층위를 부여한다.\n이자람은 2019년 <노인과 바다> 초연을 앞두고 한 인터뷰에서 노인과 청새치의 싸움과 같", "lineage_keyword_source_article_id": 2350}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_333|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_614|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "잘 맞아 우아하고 경쾌한 조지 발란신의 명작을 무난히 재연했다. 이 커플은 2부에서 다시 뉴욕시티발레단의 대", "lineage_keyword_source_article_id": 421}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_333|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1260|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 발레 레퍼토리를 포함하여 새롭게 안무한 작품 8편의 초연무대를 꾸민다. 이는 지난 20여 년 간 세계 무용", "lineage_keyword_source_article_id": 1795}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_333|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1520|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "잘 맞아 우아하고 경쾌한 조지 발란신의 명작을 무난히 재연했다. 이 커플은 2부에서 다시 뉴욕시티발레단의 대", "lineage_keyword_source_article_id": 421}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_333|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1774|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "잘 맞아 우아하고 경쾌한 조지 발란신의 명작을 무난히 재연했다. 이 커플은 2부에서 다시 뉴욕시티발레단의 대", "lineage_keyword_source_article_id": 421}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_614|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1260|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 발레 레퍼토리를 포함하여 새롭게 안무한 작품 8편의 초연무대를 꾸민다. 이는 지난 20여 년 간 세계 무용", "lineage_keyword_source_article_id": 1795}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_614|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1520|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 화려한 춤의 성찬\n4개의 월드 프리미어 포함, 국내 초연작만 7개\n[더프리뷰=서울] 박상윤 기자 = 외국의", "lineage_keyword_source_article_id": 1574}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_614|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1774|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_1260|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1520|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 발레 레퍼토리를 포함하여 새롭게 안무한 작품 8편의 초연무대를 꾸민다. 이는 지난 20여 년 간 세계 무용", "lineage_keyword_source_article_id": 1795}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_1260|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1774|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 발레 레퍼토리를 포함하여 새롭게 안무한 작품 8편의 초연무대를 꾸민다. 이는 지난 20여 년 간 세계 무용", "lineage_keyword_source_article_id": 1795}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_1520|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1774|한국을 빛내는 해외무용스타 초청공연]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 화려한 춤의 성찬\n4개의 월드 프리미어 포함, 국내 초연작만 7개\n[더프리뷰=서울] 박상윤 기자 = 외국의", "lineage_keyword_source_article_id": 1574}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[심청__work_335|심청]] <-> [[심청__work_609|심청]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "번안", "lineage_keyword_snippet": "방식으로 〈심청가〉를 재현하는 것은 시대성에 뒤떨어진 번안 작업으로 흐르기 쉽다. 옛 판소리를 활용하지 않고", "lineage_keyword_source_article_id": 424}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[심청__work_335|심청]] <-> [[심청__work_736|심청]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "독 유병헌)의 창작발레 <심청>은 1986년 국립극장 초연 이후 파리, 모스크바, 뉴욕, 워싱턴 등 15개국", "lineage_keyword_source_article_id": 1382}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[심청__work_609|심청]] <-> [[심청__work_736|심청]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "독 유병헌)의 창작발레 <심청>은 1986년 국립극장 초연 이후 파리, 모스크바, 뉴욕, 워싱턴 등 15개국", "lineage_keyword_source_article_id": 1382}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Rice__work_358|Rice]] <-> [[Rice__work_1716|Rice]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[말괄량이 길들이기__work_370|말괄량이 길들이기]] <-> [[말괄량이 길들이기__work_774|말괄량이 길들이기]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "량이 길들이기>이다. 볼쇼이발레단의 의뢰로 2014년 초연을 하였는데, 그 해는 셰익스피어 탄생 450주년으", "lineage_keyword_source_article_id": 2402}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄의 제전__work_391|봄의 제전]] <-> [[봄의 제전__work_691|봄의 제전]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "하지 않고, 기본적인 발레언어들을 안성수만의 스타일로 재구성해 움직임을 만들었다는 점, 안성수에게 매번 영감", "lineage_keyword_source_article_id": 1203}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄의 제전__work_391|봄의 제전]] <-> [[봄의 제전__work_1781|봄의 제전]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "는 시간 동안 이 작품은 300여명의 안무가들에 의해 재안무 되었으며 현재에도 안무되기로 예정된 작품도 많다", "lineage_keyword_source_article_id": 509}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄의 제전__work_691|봄의 제전]] <-> [[봄의 제전__work_1781|봄의 제전]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "하지 않고, 기본적인 발레언어들을 안성수만의 스타일로 재구성해 움직임을 만들었다는 점, 안성수에게 매번 영감", "lineage_keyword_source_article_id": 1203}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강__work_413|강]] <-> [[강__work_649|강]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[라 바야데르__work_433|라 바야데르]] <-> [[라 바야데르__work_1248|라 바야데르]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "<라 바야데르>를 올리게 되었습니다. 1999년 국내 초연에 이어 2001년 미국 3대 오페라극장에서 성공적", "lineage_keyword_source_article_id": 1129}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[오네긴__work_479|오네긴]] <-> [[오네긴__work_557|오네긴]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "산 후 2년 만에 출연한 드라마 발레 <오네긴>에서는 초연 때부터 맡아온 주인공 타티아나 역을 원숙하게 소화", "lineage_keyword_source_article_id": 1350}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[오네긴__work_479|오네긴]] <-> [[오네긴__work_756|오네긴]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "랑코의 천재적인 푸쉬킨 발레를 통해 슈투트가르트에서의 초연을 장식할 수 있었다. 적은 배역경험을 고려할 때,", "lineage_keyword_source_article_id": 637}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[오네긴__work_557|오네긴]] <-> [[오네긴__work_756|오네긴]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "산 후 2년 만에 출연한 드라마 발레 <오네긴>에서는 초연 때부터 맡아온 주인공 타티아나 역을 원숙하게 소화", "lineage_keyword_source_article_id": 1350}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[셩율전26__work_540|셩율전26]] <-> [[셩율전26__work_1073|셩율전26]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "을 맞춰온 세 예술가가 다시 뭉친 이번 무대는 단순한 재연을 넘어 9년이라는 시간 속에서 축적된 각자의 경험", "lineage_keyword_source_article_id": 840}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[일무지관(一舞之貫)__work_548|일무지관(一舞之貫)]] <-> [[일무지관(一舞之貫)__work_1145|일무지관(一舞之貫)]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "오리지널", "lineage_keyword_snippet": "풀이춤〉도 췄어요. 그 분이 “〈승무〉 〈살풀이춤〉만 오리지널로 한 번 보고 싶다”고 하시더라고요. 그런데 ", "lineage_keyword_source_article_id": 707}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_567|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_820|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "작품을 무대에 올려 왔으며, 이후 여러 차례 재구성과 재안무, 개정을 거쳤다. 30년간 예술감독을 맡았던 유", "lineage_keyword_source_article_id": 1745}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_567|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_919|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "작품을 무대에 올려 왔으며, 이후 여러 차례 재구성과 재안무, 개정을 거쳤다. 30년간 예술감독을 맡았던 유", "lineage_keyword_source_article_id": 1745}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_567|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_1523|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "작품을 무대에 올려 왔으며, 이후 여러 차례 재구성과 재안무, 개정을 거쳤다. 30년간 예술감독을 맡았던 유", "lineage_keyword_source_article_id": 1745}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_567|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_1708|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "작품을 무대에 올려 왔으며, 이후 여러 차례 재구성과 재안무, 개정을 거쳤다. 30년간 예술감독을 맡았던 유", "lineage_keyword_source_article_id": 1745}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_820|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_919|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": " 무용가 장운규(광주시립발레단 부예술감독)와 전효정이 재안무한 작품은 3막을 2막으로 구성하며 공연시간은 줄", "lineage_keyword_source_article_id": 2469}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_820|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_1523|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "은 원작을 손상시키지 않는 범위에서 작품을 밀도 있게 각색했다는 점이다. 원작 공연시간이 3시간 정도인데 비", "lineage_keyword_source_article_id": 1581}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_820|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_1708|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": " 무용가 장운규(광주시립발레단 부예술감독)와 전효정이 재안무한 작품은 3막을 2막으로 구성하며 공연시간은 줄", "lineage_keyword_source_article_id": 2469}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_919|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_1523|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "은 원작을 손상시키지 않는 범위에서 작품을 밀도 있게 각색했다는 점이다. 원작 공연시간이 3시간 정도인데 비", "lineage_keyword_source_article_id": 1581}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_919|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_1708|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[잠자는 숲속의 미녀__work_1523|잠자는 숲속의 미녀]] <-> [[잠자는 숲속의 미녀__work_1708|잠자는 숲속의 미녀]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "은 원작을 손상시키지 않는 범위에서 작품을 밀도 있게 각색했다는 점이다. 원작 공연시간이 3시간 정도인데 비", "lineage_keyword_source_article_id": 1581}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[숨__work_578|숨]] <-> [[숨__work_1335|숨]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "작업이다(프로그램 참조).\n“신성한 춤”은 1913년 초연된 스트라빈스키의 <봄의 제전>의 제2부의 마지막 ", "lineage_keyword_source_article_id": 1930}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[누수__work_584|누수]] <-> [[누수__work_1062|누수]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[24절기(A Dance of Celestial Rhythms)__work_596|24절기(A Dance of Celestial Rhythms)]] <-> [[24절기(A Dance of Celestial Rhythms)__work_1096|24절기(A Dance of Celestial Rhythms)]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "이끌리는 것이 아니라, 자신이 스스로 감각을 해석하고 재구성하는 과정이 필요합니다. 이 점에서 저는 무용공연", "lineage_keyword_source_article_id": 876}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[24절기(A Dance of Celestial Rhythms)__work_596|24절기(A Dance of Celestial Rhythms)]] <-> [[24절기(A Dance of Celestial Rhythms)__work_1106|24절기(A Dance of Celestial Rhythms)]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[24절기(A Dance of Celestial Rhythms)__work_1096|24절기(A Dance of Celestial Rhythms)]] <-> [[24절기(A Dance of Celestial Rhythms)__work_1106|24절기(A Dance of Celestial Rhythms)]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "이끌리는 것이 아니라, 자신이 스스로 감각을 해석하고 재구성하는 과정이 필요합니다. 이 점에서 저는 무용공연", "lineage_keyword_source_article_id": 876}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Mr. Blank 2.0__work_599|Mr. Blank 2.0]] <-> [[Mr. Blank 2.0__work_1104|Mr. Blank 2.0]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 예술감독 상 지자(Sang Jijia)는 2018년 초연한 〈Mr. Blank 2.0〉를 확장한 버전으로 ", "lineage_keyword_source_article_id": 1967}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파지옥 한국편(Travel of the Soul - Echoes after Time)__work_601|파지옥 한국편(Travel of the Soul: Echoes after Time)]] <-> [[파지옥 한국편(Travel of the Soul - Echoes after Time)__work_1101|파지옥 한국편(Travel of the Soul: Echoes after Time)]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인어공주__work_613|인어공주]] <-> [[인어공주__work_866|인어공주]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "다운 이야기는 “꿈과 희망을 심어주는” 디즈니에 의해 각색되어 사랑이 이루어지는 행복한 인어공주로 탈바꿈되었", "lineage_keyword_source_article_id": 2003}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2024 세실풍류__work_685|2024 세실풍류]] <-> [[2024 세실풍류__work_689|2024 세실풍류]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[모던정동__work_686|모던정동]] <-> [[모던정동__work_1279|모던정동]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": " 재현하는 데에서 멈추지 않고 각각의 춤을 현대적으로 재구성해 제목에 걸맞은 ‘모던’한 매력을 새롭게 부여했", "lineage_keyword_source_article_id": 2170}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[돈키호테__work_709|돈키호테]] <-> [[돈키호테__work_727|돈키호테]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "퍼토리화되었다고 볼 수 있는 것은 2013년 문병남의 재안무 버전을 공연하면서부터다. 그마저도 2016년 이", "lineage_keyword_source_article_id": 2292}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[돈키호테__work_709|돈키호테]] <-> [[돈키호테__work_1350|돈키호테]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "etipa)의 안무로 1869년 러시아 볼쇼이극장에서 초연, 대성공을 거두었다. 원작 소설과 달리, 통통 튀", "lineage_keyword_source_article_id": 1286}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[돈키호테__work_727|돈키호테]] <-> [[돈키호테__work_1350|돈키호테]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "번 공연은 국립발레단 솔로이스트이자 안무가인 송정빈의 재안무 버전이다. 송정빈은 'KNB Movement S", "lineage_keyword_source_article_id": 1400}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[암덕 - 류(流)의 기원__work_710|암덕: 류(流)의 기원]] <-> [[암덕 - 류(流)의 기원__work_1313|암덕: 류(流)의 기원]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "적’이라는 무대 감각의 영역과 ‘재해석’이라는 해체와 재구성의 과정에서 그 대상이 되는 원형의 변신은 불가피", "lineage_keyword_source_article_id": 2217}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[일이관지 조선춤방__work_712|일이관지 조선춤방]] <-> [[일이관지 조선춤방__work_713|일이관지 조선춤방]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "수 있는 춤이 될 수 있다. 단지 어떤 사람의 모습의 재연이나 어떤 동물의 흉내 차원에 머무르는 것이 아니라", "lineage_keyword_source_article_id": 2220}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안중근, 천국에서의 춤__work_724|안중근, 천국에서의 춤]] <-> [[안중근, 천국에서의 춤__work_801|안중근, 천국에서의 춤]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": ".8.13-15)이 공연되었다. 이 작품은 2015년 초연된 이래 꾸준하게 공연되고 있으며 이번 공연은 광복", "lineage_keyword_source_article_id": 2444}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[단장__work_755|단장]] <-> [[단장__work_758|단장]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "것이 매우 자연스럽게 느껴졌다. 두 사람은 더 이상 ‘재연(再演)의 춤꾼’, ‘민속놀이의 춤꾼’이 아니었다.", "lineage_keyword_source_article_id": 2364}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[육완순, 그녀에게__work_768|육완순, 그녀에게]] <-> [[육완순, 그녀에게__work_1498|육완순, 그녀에게]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "SCF) 등을 통해 성장한 무용가들이 주축이다. 유작 재연, 영상 상영, 유품과 사진 전시 등 여러 프로그램", "lineage_keyword_source_article_id": 1560}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Dance for PD__work_1053|Dance for PD]] <-> [[Dance for PD__work_1343|Dance for PD]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1081|호두까기인형]] <-> [[호두까기인형__work_1195|호두까기인형]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": ".A. 호프만의 원작 동화 <호두까기인형과 생쥐왕>을 각색해 제작된 발레 <호두까기인형>은 1892년 초연 ", "lineage_keyword_source_article_id": 1057}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1081|호두까기인형]] <-> [[호두까기인형__work_1196|호두까기인형]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "인 서울발레시어터(SBT)가 마리위스 프티파의 원작을 재안무한 독창적인 작품으로 따뜻한 감동과 추억이 가득한", "lineage_keyword_source_article_id": 1056}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1081|호두까기인형]] <-> [[호두까기인형__work_1780|호두까기인형]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": ".A. 호프만의 원작 동화 <호두까기인형과 생쥐왕>을 각색해 제작된 발레 <호두까기인형>은 1892년 초연 ", "lineage_keyword_source_article_id": 1057}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1195|호두까기인형]] <-> [[호두까기인형__work_1196|호두까기인형]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "인 서울발레시어터(SBT)가 마리위스 프티파의 원작을 재안무한 독창적인 작품으로 따뜻한 감동과 추억이 가득한", "lineage_keyword_source_article_id": 1056}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1195|호두까기인형]] <-> [[호두까기인형__work_1780|호두까기인형]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "1998년 8월 15일 예술의전당 오페라극장에서 국내 초연한 후, 22년간 총 14번 내한하여 세종문화회관,", "lineage_keyword_source_article_id": 2259}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1196|호두까기인형]] <-> [[호두까기인형__work_1780|호두까기인형]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "인 서울발레시어터(SBT)가 마리위스 프티파의 원작을 재안무한 독창적인 작품으로 따뜻한 감동과 추억이 가득한", "lineage_keyword_source_article_id": 1056}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Mr Blank 2.0__work_1112|Mr Blank 2.0]] <-> [[Mr Blank 2.0__work_1113|Mr Blank 2.0]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 공연장에서 기술 리허설을 해야 했습니다. 이 버전의 초연 날은 사실상 처음으로 쉴 새 없이 연습한 날이 되", "lineage_keyword_source_article_id": 900}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[생생 춤 페스티벌__work_1121|생생 춤 페스티벌]] <-> [[생생 춤 페스티벌__work_1244|생생 춤 페스티벌]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기 인형__work_1214|호두까기 인형]] <-> [[호두까기 인형__work_1317|호두까기 인형]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "fmann)의 원작 동화 <호두까기 인형과 생쥐왕>을 각색한 전막 발레로, 19세기 러시아 발레의 중심지였던", "lineage_keyword_source_article_id": 1250}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기 인형__work_1214|호두까기 인형]] <-> [[호두까기 인형__work_1719|호두까기 인형]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 1892년 러시아 상트페테르부르크 마린스키 극장에서 초연된 이후 127년간 크리스마스를 장식하며 세계적으로", "lineage_keyword_source_article_id": 2059}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기 인형__work_1317|호두까기 인형]] <-> [[호두까기 인형__work_1719|호두까기 인형]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "fmann)의 원작 동화 <호두까기 인형과 생쥐왕>을 각색한 전막 발레로, 19세기 러시아 발레의 중심지였던", "lineage_keyword_source_article_id": 1250}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2024__work_1263|파리 오페라 발레 에투알 갈라 2024]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1265|파리 오페라 발레 에투알 갈라 2024]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춘천공연예술제__work_1366|춘천공연예술제]] <-> [[춘천공연예술제__work_1623|춘천공연예술제]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": ">을 지난 2013년 국제현대무용제(MODAFE)에서 초연한 후 같은 해 8월 춘천아트페스티벌에서 다시 선을", "lineage_keyword_source_article_id": 1780}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춘천공연예술제__work_1366|춘천공연예술제]] <-> [[춘천공연예술제__work_1630|춘천공연예술제]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "월 18일(수)과 19일(목)에는 올해 6월 서울에서 초연됐던 극단 그린피그의 연극 <목선>이 양일간 공연된", "lineage_keyword_source_article_id": 1798}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춘천공연예술제__work_1623|춘천공연예술제]] <-> [[춘천공연예술제__work_1630|춘천공연예술제]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": ">을 지난 2013년 국제현대무용제(MODAFE)에서 초연한 후 같은 해 8월 춘천아트페스티벌에서 다시 선을", "lineage_keyword_source_article_id": 1780}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[신로심불로__work_1373|신로심불로]] <-> [[신로심불로__work_1685|신로심불로]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "68)의 후원으로 1949년 미국 뉴욕자연사박물관에서 초연했으며 1956년 일본 공연 실황 영상 자료가 발견", "lineage_keyword_source_article_id": 1894}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[차마 그곳이 잊힐리야__work_1468|차마 그곳이 잊힐리야]] <-> [[차마 그곳이 잊힐리야__work_1471|차마 그곳이 잊힐리야]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양국제무용제__work_1475|고양국제무용제]] <-> [[고양국제무용제__work_1478|고양국제무용제]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양국제무용제__work_1475|고양국제무용제]] <-> [[고양국제무용제__work_1593|고양국제무용제]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양국제무용제__work_1478|고양국제무용제]] <-> [[고양국제무용제__work_1593|고양국제무용제]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울세계무용축제(SIDance)__work_1517|서울세계무용축제(SIDance)]] <-> [[서울세계무용축제(SIDance)__work_1641|서울세계무용축제(SIDance)]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최초의 풍요사회__work_1529|최초의 풍요사회]] <-> [[최초의 풍요사회__work_1738|최초의 풍요사회]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[바비레따, 열 번째 계절__work_1555|바비레따, 열 번째 계절]] <-> [[바비레따, 열 번째 계절__work_1556|바비레따, 열 번째 계절]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[발레메이트 페스티벌__work_1629|발레메이트 페스티벌]] <-> [[발레메이트 페스티벌__work_1794|발레메이트 페스티벌]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[모다페 2020__work_1702|모다페 2020]] <-> [[모다페 2020__work_1703|모다페 2020]] — similarity 1.00
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "exact", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "Car>, <Be>까지 총 여섯 작품을 옴니버스식으로 재구성한 것이다.\n대구시립무용단 'Be' (c)대구시립", "lineage_keyword_source_article_id": 1976}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라 발레 2022 에투알 갈라__work_1496|파리오페라 발레 2022 에투알 갈라]] <-> [[파리 오페라 발레 2022 에투알 갈라__work_1527|파리 오페라 발레 2022 에투알 갈라]] — similarity 0.98
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2025 Exhibition of Democracy-민주주의에 말을 걸다__work_623|2025 Exhibition of Democracy-민주주의에 말을 걸다]] <-> [[2025 Exhibition of Democracy - 민주주의에 말을 걸다__work_1138|2025 Exhibition of Democracy - 민주주의에 말을 걸다]] — similarity 0.98
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[더블빌 - 김성용 & 윌리엄 포사이스__work_597|더블빌: 김성용 & 윌리엄 포사이스]] <-> [[더블 빌 - 김성용 & 윌리엄 포사이스__work_1098|더블 빌: 김성용 & 윌리엄 포사이스]] — similarity 0.97
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "평한 것〉의 공연 영상에서 추출된 움직임이 데이터화와 재구성을 거쳐 20개의 오브제로 재탄생한 결과물을 볼 ", "lineage_keyword_source_article_id": 1963}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[걷다, 바라보다 그리고 서다__work_136|걷다, 바라보다 그리고 서다]] <-> [[걷다, 바라보다, 그리고 서다__work_669|걷다, 바라보다, 그리고 서다]] — similarity 0.97
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "adaptation", "lineage_keyword_snippet": " volume did not take auditory adaptation into consideration.", "lineage_keyword_source_article_id": 2135}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[독공독무 서울교방 6인전__work_642|독공독무 서울교방 6인전]] <-> [[독공독무 - 서울교방 6인전__work_1182|독공독무: 서울교방 6인전]] — similarity 0.96
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세실풍류 - 법고창신, 근현대춤 100년의 여정__work_1294|세실풍류:법고창신, 근현대춤 100년의 여정]] <-> [[세실풍류 - 법고창신, 근현대춤 100년의 여정__work_1297|세실풍류 : 법고창신, 근현대춤 100년의 여정]] — similarity 0.96
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Mr. Blank 2.0__work_599|Mr. Blank 2.0]] <-> [[Mr Blank 2.0__work_1112|Mr Blank 2.0]] — similarity 0.96
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 공연장에서 기술 리허설을 해야 했습니다. 이 버전의 초연 날은 사실상 처음으로 쉴 새 없이 연습한 날이 되", "lineage_keyword_source_article_id": 900}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Mr. Blank 2.0__work_599|Mr. Blank 2.0]] <-> [[Mr Blank 2.0__work_1113|Mr Blank 2.0]] — similarity 0.96
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "임을 절감한 상지자는 2018년 <Mr Blank>를 초연하였다.\n초연작의 문제의식은 팬데믹이라는 희대의 굴", "lineage_keyword_source_article_id": 901}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Mr. Blank 2.0__work_1104|Mr. Blank 2.0]] <-> [[Mr Blank 2.0__work_1112|Mr Blank 2.0]] — similarity 0.96
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 공연장에서 기술 리허설을 해야 했습니다. 이 버전의 초연 날은 사실상 처음으로 쉴 새 없이 연습한 날이 되", "lineage_keyword_source_article_id": 900}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Mr. Blank 2.0__work_1104|Mr. Blank 2.0]] <-> [[Mr Blank 2.0__work_1113|Mr Blank 2.0]] — similarity 0.96
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "임을 절감한 상지자는 2018년 <Mr Blank>를 초연하였다.\n초연작의 문제의식은 팬데믹이라는 희대의 굴", "lineage_keyword_source_article_id": 901}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[평화통일의염원 대학춤축제__work_1793|평화통일의염원 대학춤축제]] <-> [[평화통일염원 대학춤축제__work_1802|평화통일염원 대학춤축제]] — similarity 0.96
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": " 남북의 이산가족과 희생당한 넋을 위로하는 살풀이춤을 재구성한 <기원무>가 맡았다. 평화통일염원의 바람을 담", "lineage_keyword_source_article_id": 2290}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[빛, 침묵 그리고__work_974|빛, 침묵 그리고...]] <-> [[빛, 침묵, 그리고__work_1652|빛, 침묵, 그리고...]] — similarity 0.96
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 추모공연으로, 지난 2014년 K-발레월드 축제에서 초연됐던 작품을 다소 손질한 것이다. 잔인하고 비열했던", "lineage_keyword_source_article_id": 1840}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인잇 - 보이지 않는것__work_28|인잇: 보이지 않는것]] <-> [[인잇 - 보이지 않는 것__work_637|인잇: 보이지 않는 것]] — similarity 0.96
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 거대한 원형 장치가 매달려 있다. 나는 이 구조물이 초연 때도 그랬고 덩치에 비해 존재감 없이 우두커니 달", "lineage_keyword_source_article_id": 36}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2025__work_1131|파리 오페라 발레 에투알 갈라 2025]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1263|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.95
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2025__work_1131|파리 오페라 발레 에투알 갈라 2025]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1265|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.95
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[KNB Movement Series 9__work_1275|KNB Movement Series 9]] <-> [[KNB Movement Series 8__work_1376|KNB Movement Series 8]] — similarity 0.95
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "있다.\n<KNB Movement Series 9> 각양각색 6개 작품\n김준경 <intersection>\n- ", "lineage_keyword_source_article_id": 1169}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[KNB Movement Series 9__work_1275|KNB Movement Series 9]] <-> [[KNB Movement Series 7__work_1508|KNB Movement Series 7]] — similarity 0.95
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "있다.\n<KNB Movement Series 9> 각양각색 6개 작품\n김준경 <intersection>\n- ", "lineage_keyword_source_article_id": 1169}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[KNB Movement Series 8__work_1376|KNB Movement Series 8]] <-> [[KNB Movement Series 7__work_1508|KNB Movement Series 7]] — similarity 0.95
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2025__work_616|파리오페라발레 에투알 갈라 2025]] <-> [[파리 오페라 발레 에투알 갈라 2025__work_1131|파리 오페라 발레 에투알 갈라 2025]] — similarity 0.95
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "수 있게 했고, 발레단의 에투알 출신 마뉘엘 르그리가 재안무한 〈실비아〉와 롤랑 프티의 〈프루스트〉로 ‘프랑", "lineage_keyword_source_article_id": 2009}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2024__work_673|파리오페라발레 에투알 갈라 2024]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1263|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.95
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": " 맞춘 〈돈키호테〉, 1930년대 할리우드를 배경으로 각색되어 플래퍼룩의 주인공을 만날 수 있는 〈신데렐라〉", "lineage_keyword_source_article_id": 2145}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2024__work_673|파리오페라발레 에투알 갈라 2024]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1265|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.95
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": " 맞춘 〈돈키호테〉, 1930년대 할리우드를 배경으로 각색되어 플래퍼룩의 주인공을 만날 수 있는 〈신데렐라〉", "lineage_keyword_source_article_id": 2145}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Water Castle – 토끼탈출기__work_777|Water Castle – 토끼탈출기]] <-> [[Water Castle - 토끼탈출기__work_1206|Water Castle - 토끼탈출기]] — similarity 0.95
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "로 재탄생시킨 작품이다.\n2022년 초연과 2023년 재연을 거쳐 더욱 탄탄해진 춤으로 돌아온 이번 작품은 ", "lineage_keyword_source_article_id": 1070}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2025__work_616|파리오페라발레 에투알 갈라 2025]] <-> [[파리오페라발레 에투알 갈라 2024__work_673|파리오페라발레 에투알 갈라 2024]] — similarity 0.95
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": " 맞춘 〈돈키호테〉, 1930년대 할리우드를 배경으로 각색되어 플래퍼룩의 주인공을 만날 수 있는 〈신데렐라〉", "lineage_keyword_source_article_id": 2145}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파지옥_한국편(Travel of the Soul_Echoes after Time)__work_8|파지옥_한국편(Travel of the Soul_Echoes after Time)]] <-> [[파지옥 한국편(Travel of the Soul - Echoes after Time)__work_601|파지옥 한국편(Travel of the Soul: Echoes after Time)]] — similarity 0.95
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "는 조금은 과분한, 그래서 압도적으로 보이는 축석벽을 재연하여 그 안에 조명기를 넣어 쌓은 높은 무대 장치가", "lineage_keyword_source_article_id": 11}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파지옥_한국편(Travel of the Soul_Echoes after Time)__work_8|파지옥_한국편(Travel of the Soul_Echoes after Time)]] <-> [[파지옥 한국편(Travel of the Soul - Echoes after Time)__work_1101|파지옥 한국편(Travel of the Soul: Echoes after Time)]] — similarity 0.95
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "는 조금은 과분한, 그래서 압도적으로 보이는 축석벽을 재연하여 그 안에 조명기를 넣어 쌓은 높은 무대 장치가", "lineage_keyword_source_article_id": 11}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[소생, Regen__work_204|소생, Regen]] <-> [[소생 Regen__work_1562|소생 Regen]] — similarity 0.94
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[제15회 국제 2인무 페스티벌__work_1157|제15회 국제 2인무 페스티벌]] <-> [[제14회 국제 2인무 페스티벌__work_1212|제14회 국제 2인무 페스티벌]] — similarity 0.94
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한여름 밤의 꿈__work_46|한여름 밤의 꿈]] <-> [[한여름밤의 꿈__work_668|한여름밤의 꿈]] — similarity 0.93
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "발레의 다양한 스펙트럼을 선보였던 서울시발레단은 세계 초연작인 창단 공연 <한여름 밤의 꿈>을 시작으로 이 ", "lineage_keyword_source_article_id": 1145}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한여름밤의 꿈__work_668|한여름밤의 꿈]] <-> [[한여름 밤의 꿈__work_906|한여름 밤의 꿈]] — similarity 0.93
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 없이 꽉꽉 채우는 방식으로 작품을 완성했다. 여기에 초연의 긴장감까지 더해져 관객들 역시 공연이 진행되는 ", "lineage_keyword_source_article_id": 2133}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한여름밤의 꿈__work_668|한여름밤의 꿈]] <-> [[한여름 밤의 꿈__work_1047|한여름 밤의 꿈]] — similarity 0.93
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "있는 것이 특징이며, 2015년 로열 스웨덴 발레에서 초연됐다. 개인주의가 팽배한 현대사회를 풍자했던 <해머", "lineage_keyword_source_article_id": 797}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[KNB Movement Series 9__work_1275|KNB Movement Series 9]] <-> [[KNB Movement Series 10__work_1830|KNB Movement Series 10]] — similarity 0.93
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "있다.\n<KNB Movement Series 9> 각양각색 6개 작품\n김준경 <intersection>\n- ", "lineage_keyword_source_article_id": 1169}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[KNB Movement Series 8__work_1376|KNB Movement Series 8]] <-> [[KNB Movement Series 10__work_1830|KNB Movement Series 10]] — similarity 0.93
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[KNB Movement Series 7__work_1508|KNB Movement Series 7]] <-> [[KNB Movement Series 10__work_1830|KNB Movement Series 10]] — similarity 0.93
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[물고기 문어 불가사리 뱀 코끼리 늑대가 흐르는 몸의 노래__work_42|물고기 문어 불가사리 뱀 코끼리 늑대가 흐르는 몸의 노래]] <-> [[물고기, 문어, 불가사리, 뱀, 코끼리, 늑대가 흐르는 몸의 노래__work_1238|물고기, 문어, 불가사리, 뱀, 코끼리, 늑대가 흐르는 몸의 노래]] — similarity 0.93
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1081|호두까기인형]] <-> [[호두까기 인형__work_1214|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": ".A. 호프만의 원작 동화 <호두까기인형과 생쥐왕>을 각색해 제작된 발레 <호두까기인형>은 1892년 초연 ", "lineage_keyword_source_article_id": 1057}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1081|호두까기인형]] <-> [[호두까기 인형__work_1317|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": ".A. 호프만의 원작 동화 <호두까기인형과 생쥐왕>을 각색해 제작된 발레 <호두까기인형>은 1892년 초연 ", "lineage_keyword_source_article_id": 1057}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1081|호두까기인형]] <-> [[호두까기 인형__work_1719|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": ".A. 호프만의 원작 동화 <호두까기인형과 생쥐왕>을 각색해 제작된 발레 <호두까기인형>은 1892년 초연 ", "lineage_keyword_source_article_id": 1057}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1195|호두까기인형]] <-> [[호두까기 인형__work_1214|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "bias, 1927-2006), 유병헌 현 예술감독의 각색 버전을 사용한다.\n유니버설발레단 <호두까기인형>의", "lineage_keyword_source_article_id": 1453}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1195|호두까기인형]] <-> [[호두까기 인형__work_1317|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "fmann)의 원작 동화 <호두까기 인형과 생쥐왕>을 각색한 전막 발레로, 19세기 러시아 발레의 중심지였던", "lineage_keyword_source_article_id": 1250}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1195|호두까기인형]] <-> [[호두까기 인형__work_1719|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 1892년 러시아 상트페테르부르크 마린스키 극장에서 초연된 이후 127년간 크리스마스를 장식하며 세계적으로", "lineage_keyword_source_article_id": 2059}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1196|호두까기인형]] <-> [[호두까기 인형__work_1214|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "인 서울발레시어터(SBT)가 마리위스 프티파의 원작을 재안무한 독창적인 작품으로 따뜻한 감동과 추억이 가득한", "lineage_keyword_source_article_id": 1056}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1196|호두까기인형]] <-> [[호두까기 인형__work_1317|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "인 서울발레시어터(SBT)가 마리위스 프티파의 원작을 재안무한 독창적인 작품으로 따뜻한 감동과 추억이 가득한", "lineage_keyword_source_article_id": 1056}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기인형__work_1196|호두까기인형]] <-> [[호두까기 인형__work_1719|호두까기 인형]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "인 서울발레시어터(SBT)가 마리위스 프티파의 원작을 재안무한 독창적인 작품으로 따뜻한 감동과 추억이 가득한", "lineage_keyword_source_article_id": 1056}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기 인형__work_1214|호두까기 인형]] <-> [[호두까기인형__work_1780|호두까기인형]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "1998년 8월 15일 예술의전당 오페라극장에서 국내 초연한 후, 22년간 총 14번 내한하여 세종문화회관,", "lineage_keyword_source_article_id": 2259}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기 인형__work_1317|호두까기 인형]] <-> [[호두까기인형__work_1780|호두까기인형]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "fmann)의 원작 동화 <호두까기 인형과 생쥐왕>을 각색한 전막 발레로, 19세기 러시아 발레의 중심지였던", "lineage_keyword_source_article_id": 1250}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호두까기 인형__work_1719|호두까기 인형]] <-> [[호두까기인형__work_1780|호두까기인형]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 1892년 러시아 상트페테르부르크 마린스키 극장에서 초연된 이후 127년간 크리스마스를 장식하며 세계적으로", "lineage_keyword_source_article_id": 2059}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2023 무용여행舞游한국__work_1425|2023 무용여행舞游한국]] <-> [[2022 무용여행舞游한국__work_1500|2022 무용여행舞游한국]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2021 한국민족춤제전__work_178|2021 한국민족춤제전]] <-> [[2024 한국민족춤제전__work_1235|2024 한국민족춤제전]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[소나기-잠깐 내린 비__work_786|소나기-잠깐 내린 비]] <-> [[소나기 - 잠깐 내린 비__work_823|소나기 - 잠깐 내린 비]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": " 단절을 막을 방법을 찾고, 캐릭터를 드러내는 안무를 재구성하고, 도식적 군무 구도에 변화를 주어 명확한 표", "lineage_keyword_source_article_id": 2472}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[우리 춤의 길을 묻다Ⅱ__work_925|우리 춤의 길을 묻다Ⅱ]] <-> [[우리 춤의 길을 묻다Ⅰ__work_926|우리 춤의 길을 묻다Ⅰ]] — similarity 0.92
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[MODAFE 2026__work_1046|MODAFE 2026]] <-> [[MODAFE 2023__work_1349|MODAFE 2023]] — similarity 0.91
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[겨울 나그네__work_251|겨울 나그네]] <-> [[겨울나그네__work_789|겨울나그네]] — similarity 0.91
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[댄서하우스__work_858|댄서하우스]] <-> [[댄서 하우스__work_885|댄서 하우스]] — similarity 0.91
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "개정판", "lineage_keyword_snippet": " 하우스>는 송년 인기 레퍼토리였던 <춤이 말하다>의 개정판으로 볼 수 있다. 현대무용단은 내년 공연 라인업", "lineage_keyword_source_article_id": 2552}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Self-Portrait in Public Corner__work_76|Self-Portrait in Public Corner]] <-> [[Self Portrait with Public Corner__work_1319|Self Portrait with Public Corner]] — similarity 0.90
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "일 예정이다.\n2023년 서울문화재단 예술창작활동지원 초연작이다. 입장권은 자체 구글폼 설문과 전화( 010", "lineage_keyword_source_article_id": 1256}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2025__work_616|파리오페라발레 에투알 갈라 2025]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1263|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.90
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "수 있게 했고, 발레단의 에투알 출신 마뉘엘 르그리가 재안무한 〈실비아〉와 롤랑 프티의 〈프루스트〉로 ‘프랑", "lineage_keyword_source_article_id": 2009}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2025__work_616|파리오페라발레 에투알 갈라 2025]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1265|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.90
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "수 있게 했고, 발레단의 에투알 출신 마뉘엘 르그리가 재안무한 〈실비아〉와 롤랑 프티의 〈프루스트〉로 ‘프랑", "lineage_keyword_source_article_id": 2009}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리오페라발레 에투알 갈라 2024__work_673|파리오페라발레 에투알 갈라 2024]] <-> [[파리 오페라 발레 에투알 갈라 2025__work_1131|파리 오페라 발레 에투알 갈라 2025]] — similarity 0.90
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": " 맞춘 〈돈키호테〉, 1930년대 할리우드를 배경으로 각색되어 플래퍼룩의 주인공을 만날 수 있는 〈신데렐라〉", "lineage_keyword_source_article_id": 2145}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2024 발레스타즈__work_1271|2024 발레스타즈]] <-> [[2023 발레스타즈__work_1374|2023 발레스타즈]] — similarity 0.90
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "M & CAST\n호두까기 인형 2막 중 그랑 파드되\n(재안무 : 김용걸)\nK-Arts 발레단 단원 이윤주, ", "lineage_keyword_source_article_id": 1161}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[원형하는 몸 - round 2__work_788|원형하는 몸: round 2]] <-> [[원형하는 몸 - round1__work_1467|원형하는 몸: round1]] — similarity 0.90
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 1>에 이은 두 번째 버전이다. <round 1>은 초연 이후 같은 해 12월 LDP무용단 20주년 정기공", "lineage_keyword_source_article_id": 2429}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[시간의 춤, 정(情)을 나누다__work_675|시간의 춤, 정(情)을 나누다]] <-> [[시간의 춤, 情을 나누다__work_1276|시간의 춤, 情을 나누다]] — similarity 0.90
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "무), 여백(정혁준 안무), 구음검무(김경란류 장인숙 재구성), 부채춤(김백봉류) 등 우리 전통춤의 아름다움", "lineage_keyword_source_article_id": 1171}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[영남축제__work_12|영남축제]] <-> [[영남춤축제__work_766|영남춤축제]] — similarity 0.89
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "같은 패턴은 전형(典型)\n2)\n이라고 할 수 있으며, 재연(reenactment)을 통해 지속되고 전수된다.", "lineage_keyword_source_article_id": 17}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[일이관지–조선춤방__work_705|일이관지–조선춤방]] <-> [[일이관지 조선춤방__work_712|일이관지 조선춤방]] — similarity 0.89
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "수 있는 춤이 될 수 있다. 단지 어떤 사람의 모습의 재연이나 어떤 동물의 흉내 차원에 머무르는 것이 아니라", "lineage_keyword_source_article_id": 2220}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[일이관지–조선춤방__work_705|일이관지–조선춤방]] <-> [[일이관지 조선춤방__work_713|일이관지 조선춤방]] — similarity 0.89
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[일무일악(一舞一樂)__work_1013|일무일악(一舞一樂)]] <-> [[일무일악一舞一樂__work_1258|일무일악一舞一樂]] — similarity 0.89
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "체하여 연결하였고, 창사와 더불어 정재의 깔끔한 정재 재구성 춤으로 이뤄졌다.\n한삼 사위를 비롯한 전체 춤사", "lineage_keyword_source_article_id": 2748}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춤추는 도시-인천__work_460|춤추는 도시-인천]] <-> [[춤추는 도시 인천__work_1284|춤추는 도시 인천]] — similarity 0.89
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[HIP 合__work_138|HIP 合]] <-> [[HIP合__work_771|HIP合]] — similarity 0.89
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "김설진, 김보람, 이경은 안무가와 함께한 <HIP合> 초연은 전석 매진을 기록하며 평단과 대중으로부터 큰 호", "lineage_keyword_source_article_id": 1563}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2024무용여행舞游한국__work_1261|2024무용여행舞游한국]] <-> [[2023 무용여행舞游한국__work_1425|2023 무용여행舞游한국]] — similarity 0.88
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "들어지는 작품 두 편은 27일 봉산문화회관 가온홀에서 초연될 예정이다.\n<무용여행>은 한-중 무용 전공자들이", "lineage_keyword_source_article_id": 1148}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2024무용여행舞游한국__work_1261|2024무용여행舞游한국]] <-> [[2022 무용여행舞游한국__work_1500|2022 무용여행舞游한국]] — similarity 0.88
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "들어지는 작품 두 편은 27일 봉산문화회관 가온홀에서 초연될 예정이다.\n<무용여행>은 한-중 무용 전공자들이", "lineage_keyword_source_article_id": 1148}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[코리아 이모션__work_741|코리아 이모션]] <-> [[코리아 이모션 情__work_1306|코리아 이모션 情]] — similarity 0.88
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "식 초청작 <트리플 빌 Triple Bill>을 통해 초연된 작품이다. 한류 드라마 OST의 명인 지평권의 ", "lineage_keyword_source_article_id": 1232}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[B.C. – Before Christ__work_375|B.C. – Before Christ]] <-> [[B.C.(Before Christ)__work_962|B.C.(Before Christ)]] — similarity 0.87
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[차세대 열전 2016!__work_314|차세대 열전 2016!]] <-> [[차세대열전 2017!__work_878|차세대열전 2017!]] — similarity 0.87
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[당신은 지금 바비레따에 살고 있군요 Ver.2__work_1243|당신은 지금 바비레따에 살고 있군요 Ver.2]] <-> [[당신은 지금 바비레따에 살고 있군요__work_1758|당신은 지금 바비레따에 살고 있군요]] — similarity 0.86
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 겨울, 서울 대학로 아르코예술극장 스튜디오 다락에서 초연된 <바비레따>는 객석과 무대의 경계를 없앤 커뮤니", "lineage_keyword_source_article_id": 2197}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[행 +-__work_44|행 +-]] <-> [[행+-__work_663|행+-]] — similarity 0.86
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "오른 듯하다. 그렇지 못했을 때 관객이 목도하는 것은 재구성까지 가지 못한, 해체된 전통 관념의 잔해들 뿐일", "lineage_keyword_source_article_id": 2126}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[행+-__work_663|행+-]] <-> [[행+- -__work_1254|행+->]] — similarity 0.86
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[얍! 얍! 얍!__work_56|얍! 얍! 얍!]] <-> [[얍!얍!얍!__work_1014|얍!얍!얍!]] — similarity 0.86
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "에게 특별한 관람 경험을 선사할 예정이다.\n2024년 초연 당시 평단과 관객의 호평을 받은 <얍! 얍! 얍!", "lineage_keyword_source_article_id": 938}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[코리아 이모션 정(情)__work_699|코리아 이모션 정(情)]] <-> [[코리아 이모션 情__work_1306|코리아 이모션 情]] — similarity 0.86
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "식 초청작 <트리플 빌 Triple Bill>을 통해 초연된 작품이다. 한류 드라마 OST의 명인 지평권의 ", "lineage_keyword_source_article_id": 1232}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[접-삶이 춤이로다__work_1826|접-삶이 춤이로다]] <-> [[접(蝶)-삶이 춤이로다__work_1836|접(蝶)-삶이 춤이로다]] — similarity 0.86
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "대신 전통 안에 내재된 철학과 상징을 현대적 문법으로 재구성하는 능력이야말로 그의 가장 큰 미덕이라 할 수 ", "lineage_keyword_source_article_id": 2789}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Water Castle - 토끼탈출기__work_1206|Water Castle - 토끼탈출기]] <-> [[Water Castle (워터캐슬) - 토끼탈출기__work_1332|Water Castle (워터캐슬) - 토끼탈출기]] — similarity 0.85
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "로 재탄생시킨 작품이다.\n2022년 초연과 2023년 재연을 거쳐 더욱 탄탄해진 춤으로 돌아온 이번 작품은 ", "lineage_keyword_source_article_id": 1070}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최태지와 함께하는 발레 스타워즈 Ⅱ 김주원__work_1385|최태지와 함께하는 발레 스타워즈 Ⅱ 김주원]] <-> [[최태지와 함께하는 발레 스타워즈__work_1404|최태지와 함께하는 발레 스타워즈]] — similarity 0.85
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_333|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타__work_672|한국을 빛내는 해외무용스타]] — similarity 0.85
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "시 보고 싶은 해외스타’로 이번 공연에 합류해 솔로로 재연한 무대는 그 사유를 나누는 대상이 현재 전성기에 ", "lineage_keyword_source_article_id": 2139}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타 초청공연__work_614|한국을 빛내는 해외무용스타 초청공연]] <-> [[한국을 빛내는 해외무용스타__work_672|한국을 빛내는 해외무용스타]] — similarity 0.85
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "시 보고 싶은 해외스타’로 이번 공연에 합류해 솔로로 재연한 무대는 그 사유를 나누는 대상이 현재 전성기에 ", "lineage_keyword_source_article_id": 2139}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타__work_672|한국을 빛내는 해외무용스타]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1260|한국을 빛내는 해외무용스타 초청공연]] — similarity 0.85
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": " 발레 레퍼토리를 포함하여 새롭게 안무한 작품 8편의 초연무대를 꾸민다. 이는 지난 20여 년 간 세계 무용", "lineage_keyword_source_article_id": 1795}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타__work_672|한국을 빛내는 해외무용스타]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1520|한국을 빛내는 해외무용스타 초청공연]] — similarity 0.85
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "시 보고 싶은 해외스타’로 이번 공연에 합류해 솔로로 재연한 무대는 그 사유를 나누는 대상이 현재 전성기에 ", "lineage_keyword_source_article_id": 2139}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국을 빛내는 해외무용스타__work_672|한국을 빛내는 해외무용스타]] <-> [[한국을 빛내는 해외무용스타 초청공연__work_1774|한국을 빛내는 해외무용스타 초청공연]] — similarity 0.85
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "시 보고 싶은 해외스타’로 이번 공연에 합류해 솔로로 재연한 무대는 그 사유를 나누는 대상이 현재 전성기에 ", "lineage_keyword_source_article_id": 2139}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2022 춤&판 고무신춤축제__work_1481|2022 춤&판 고무신춤축제]] <-> [[2020 춤&판 고무·신·춤·축제__work_1662|2020 춤&판 고무·신·춤·축제]] — similarity 0.85
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "에서는 문화재로 지정되어 있는 춤뿐만 아니라 한국전통 재구성춤과 전통을 기반으로 하는 재창작춤, 창작춤까지 ", "lineage_keyword_source_article_id": 1865}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Dance No.4 Dream__work_530|Dance No.4 Dream]] <-> [[Dance of Dreams__work_1690|Dance of Dreams]] — similarity 0.84
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울교방-권번춤나들이__work_1415|서울교방-권번춤나들이]] <-> [[서울교방, 권번춤 나들이__work_1426|서울교방, 권번춤 나들이]] — similarity 0.83
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": " 어린 여동들의 민살풀이춤을 보여주면서 춤학습 풍경을 재연했었다. 이 엄격하지만 사제지간의 정이 물씬 묻어나", "lineage_keyword_source_article_id": 1411}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_106|백조의 호수]] <-> [[백조의 잠수__work_661|백조의 잠수]] — similarity 0.83
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "〉을 성공적으로 마친 서울시발레단이 이번에는 두 편의 초연작으로 돌아왔다. 현대무용가 차진엽의 신작 〈백조의", "lineage_keyword_source_article_id": 2117}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_284|백조의 호수]] <-> [[백조의 잠수__work_661|백조의 잠수]] — similarity 0.83
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "〉을 성공적으로 마친 서울시발레단이 이번에는 두 편의 초연작으로 돌아왔다. 현대무용가 차진엽의 신작 〈백조의", "lineage_keyword_source_article_id": 2117}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_520|백조의 호수]] <-> [[백조의 잠수__work_661|백조의 잠수]] — similarity 0.83
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "디한 작품 정도에 머물 것이다. 1895년 러시아에서 초연된 이래의 <백조의 호수>들이 없었다면 매튜 본의 ", "lineage_keyword_source_article_id": 691}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 호수__work_620|백조의 호수]] <-> [[백조의 잠수__work_661|백조의 잠수]] — similarity 0.83
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "리메이크", "lineage_keyword_snippet": "감을 얻었다. 드라마로, 영화로, 현재까지도 끊임없이 리메이크되며 창작자들의 뜨거운 관심을 받고 있는 이 왕", "lineage_keyword_source_article_id": 2017}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_728|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "〉을 성공적으로 마친 서울시발레단이 이번에는 두 편의 초연작으로 돌아왔다. 현대무용가 차진엽의 신작 〈백조의", "lineage_keyword_source_article_id": 2117}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_731|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "더욱 그렇다.\n그러나 프렐조카주는 다작에 비해 고전의 각색에는 관심이 덜한 편이다. 그의 안무작 가운데 원작", "lineage_keyword_source_article_id": 2300}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_734|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "레 형식을 보여주는 3막 무도회장면도 나름의 방식으로 재구성을 하였다. 그리가로비치 버전이 각국의 신부 후보", "lineage_keyword_source_article_id": 2306}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_875|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "〉을 성공적으로 마친 서울시발레단이 이번에는 두 편의 초연작으로 돌아왔다. 현대무용가 차진엽의 신작 〈백조의", "lineage_keyword_source_article_id": 2117}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_929|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "는 그런 의미에서 가장 상징적인 작품이다. 1877년 초연 당시에는 큰 반향을 일으키지 못했지만, 작곡가 차", "lineage_keyword_source_article_id": 931}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_1068|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "i Grigorovich) 버전으로, 2001년 국내 초연 이후 매회 관객들의 뜨거운 호응을 얻어왔다. 그리", "lineage_keyword_source_article_id": 829}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_1383|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "〉을 성공적으로 마친 서울시발레단이 이번에는 두 편의 초연작으로 돌아왔다. 현대무용가 차진엽의 신작 〈백조의", "lineage_keyword_source_article_id": 2117}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백조의 잠수__work_661|백조의 잠수]] <-> [[백조의 호수__work_1839|백조의 호수]] — similarity 0.83
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "존재였으나 마요의 작품에서 로트바르트가 밤의 여왕으로 각색되어 흑조와 모녀 관계를 이루고 원작에는 생략되었던", "lineage_keyword_source_article_id": 2793}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[버자이너의 죽음- 신화짓기__work_121|버자이너의 죽음- 신화짓기]] <-> [[버자이나의 죽음 - 신화 짓기__work_123|버자이나의 죽음: 신화 짓기]] — similarity 0.83
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "극장)\n공연에는 두 작품이 무대에 올랐다. 2015년 초연된 후, 7년이 지나 이번에 개작되어 무대에 다시 ", "lineage_keyword_source_article_id": 152}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2022 수원발레축제__work_1492|2022 수원발레축제]] <-> [[2019 수원발레축제__work_1759|2019 수원발레축제]] — similarity 0.82
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에뚜알 갈라__work_1125|파리 오페라 발레 에뚜알 갈라]] <-> [[파리 오페라 발레 에투알 갈라 2025__work_1131|파리 오페라 발레 에투알 갈라 2025]] — similarity 0.81
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에뚜알 갈라__work_1125|파리 오페라 발레 에뚜알 갈라]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1263|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.81
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에뚜알 갈라__work_1125|파리 오페라 발레 에뚜알 갈라]] <-> [[파리 오페라 발레 에투알 갈라 2024__work_1265|파리 오페라 발레 에투알 갈라 2024]] — similarity 0.81
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에뚜알 갈라__work_1125|파리 오페라 발레 에뚜알 갈라]] <-> [[파리 오페라 발레 2022 에투알 갈라__work_1527|파리 오페라 발레 2022 에투알 갈라]] — similarity 0.81
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Water Castle – 토끼탈출기__work_777|Water Castle – 토끼탈출기]] <-> [[Water Castle (워터캐슬) - 토끼탈출기__work_1332|Water Castle (워터캐슬) - 토끼탈출기]] — similarity 0.81
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[사랑__work_1228|사랑]] <-> [[사랑가__work_1379|사랑가]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": "는 데 역할했다. 1977년 2월에는 무용극 형식으로 재안무된 <춘향전>이 국립극장 대극장에서 사흘간 공연되", "lineage_keyword_source_article_id": 1344}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[신전통 V__work_185|신전통 V]] <-> [[신전통 Ⅷ__work_617|신전통 Ⅷ]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "각색", "lineage_keyword_snippet": "\n구성을 춘향의 몸짓과 상상으로 풀어낸 여성 1인무로 각색한 작품이다. 김민아가 수줍고 연연\n(軟娟)\n한 춘", "lineage_keyword_source_article_id": 234}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한맥의 춤__work_1224|한맥의 춤]] <-> [[한국의 춤__work_1737|한국의 춤]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[블랙__work_48|블랙]] <-> [[블랙독__work_1282|블랙독]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "과 함께 신작 <GEN 20:20>을 만들어 서울에서 초연한 뒤 영국에서도 순회 공연을 가졌다.\n'블랙독' ", "lineage_keyword_source_article_id": 1178}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[블랙독__work_1282|블랙독]] <-> [[블랙__work_1658|블랙]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "과 함께 신작 <GEN 20:20>을 만들어 서울에서 초연한 뒤 영국에서도 순회 공연을 가졌다.\n'블랙독' ", "lineage_keyword_source_article_id": 1178}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[명가월륜 2__work_591|명가월륜 2]] <-> [[명가월륜__work_1501|명가월륜]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "\n윤종현의 첫 춤 '명가월륜 - 1. 명가춤의 전승과 재구성' 공연 포스터(사진제공=공연기획 MCT)\n[더프", "lineage_keyword_source_article_id": 1543}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[2024 제14회 춤&판 고무신춤축제__work_1223|2024 제14회 춤&판 고무신춤축제]] <-> [[2022 춤&판 고무신춤축제__work_1481|2022 춤&판 고무신춤축제]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": " 있다. 문화재로 지정되어 있는 전통춤뿐만 아니라 전통재구성춤과 전통재창작춤까지 광범위한 작품을 선보이고 있", "lineage_keyword_source_article_id": 1517}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[눈먼자들__work_798|눈먼자들]] <-> [[눈먼 여자들__work_1088|눈먼 여자들]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[공화-허공에 핀 꽃__work_571|공화-허공에 핀 꽃]] <-> [[공화 空化 - 허공에 핀 꽃__work_574|공화 空化 - 허공에 핀 꽃]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "소이지만, 김경란의 안무는 이를 사찰 의례의 감각으로 재구성한다. 이번 무대에서는 초장에 더해진 황민왕의 염", "lineage_keyword_source_article_id": 1914}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[회귀(回歸)__work_297|회귀(回歸)]] <-> [[회(回)__work_707|회(回)]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "게 밀어내며 추었다. 그리고 〈한량무〉는 1992년에 초연한 이후 미국에서 지속적으로 공연하고 구성했다는데,", "lineage_keyword_source_article_id": 379}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[노동__work_1305|노동]] <-> [[노동무__work_1482|노동무]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "업의 과정을 기록해 보자고 용기를 내었다.\n‘노동무’ 초연(2020) ©황인모\n작품 <노동무>\n<노동무>는 ", "lineage_keyword_source_article_id": 1518}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[심청__work_335|심청]] <-> [[심청가__work_565|심청가]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "번안", "lineage_keyword_snippet": "방식으로 〈심청가〉를 재현하는 것은 시대성에 뒤떨어진 번안 작업으로 흐르기 쉽다. 옛 판소리를 활용하지 않고", "lineage_keyword_source_article_id": 424}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[심청가__work_565|심청가]] <-> [[심청__work_609|심청]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "리메이크", "lineage_keyword_snippet": "의 보고라 해도 과언이 아닐 정도로 지금까지 끊임없이 리메이크되며 사랑받고 있는 작품이다. 그동안 고전 속에", "lineage_keyword_source_article_id": 1993}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[심청가__work_565|심청가]] <-> [[심청__work_736|심청]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "독 유병헌)의 창작발레 <심청>은 1986년 국립극장 초연 이후 파리, 모스크바, 뉴욕, 워싱턴 등 15개국", "lineage_keyword_source_article_id": 1382}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[워크샵퍼포먼스__work_1694|워크샵퍼포먼스]] <-> [[워크숍 퍼포먼스__work_1801|워크숍 퍼포먼스]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[빨래방__work_767|빨래방]] <-> [[빨래__work_1644|빨래]] — similarity 0.80
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "는 할머니들의 소박한 리듬과 몸짓을 기록하고 재현하고 재구성하며 몸으로 쓰는 20세기의 역사책을 써내려간다.", "lineage_keyword_source_article_id": 1828}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[소고(小鼓)놀음 4 허튼__work_1316|소고(小鼓)놀음 4 허튼]] <-> [[소고(小鼓)놀음 2__work_1598|소고(小鼓)놀음 2]] — similarity 0.78
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재연", "lineage_keyword_snippet": "리며 신명나게 한을 승화시킨 다.\n▲고창농악 설장구/구재연(고창농악보존회 회장)\n전라북도 무형문화재 제7-6", "lineage_keyword_source_article_id": 1724}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에뚜알 갈라__work_1125|파리 오페라 발레 에뚜알 갈라]] <-> [[파리오페라 발레 2022 에투알 갈라__work_1496|파리오페라 발레 2022 에투알 갈라]] — similarity 0.78
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[코레오 커넥션 - 서울__work_1092|코레오 커넥션: 서울]] <-> [[코레오 커넥션__work_1215|코레오 커넥션]] — similarity 0.78
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": " 통해 새롭게 합류한 네 명의 무용수들과 함께 무대를 재구성하며, 기존의 작품에서 더 깊어진 긴장감과 에너지", "lineage_keyword_source_article_id": 869}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[날개, 학__work_171|날개, 학]] <-> [[날개, 학(鶴)__work_1576|날개, 학(鶴)]] — similarity 0.77
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "날개, 학>은 지난 9월 26일 대전연정국악원 대극장 초연 이후 보완작업을 거쳐 서울세계무용축제(SIDdan", "lineage_keyword_source_article_id": 1706}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄의 제전 G__work_337|봄의 제전 G.]] <-> [[봄의 제전__work_391|봄의 제전]] — similarity 0.77
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "아길레프, 니진스키가 만든 1913년의 〈봄의 제전〉 초연은 발레 역사상 가장 충격적인 순간 중 하나로 기록", "lineage_keyword_source_article_id": 427}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄의 제전 G__work_337|봄의 제전 G.]] <-> [[봄의 제전__work_691|봄의 제전]] — similarity 0.77
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "아길레프, 니진스키가 만든 1913년의 〈봄의 제전〉 초연은 발레 역사상 가장 충격적인 순간 중 하나로 기록", "lineage_keyword_source_article_id": 427}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[봄의 제전 G__work_337|봄의 제전 G.]] <-> [[봄의 제전__work_1781|봄의 제전]] — similarity 0.77
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "아길레프, 니진스키가 만든 1913년의 〈봄의 제전〉 초연은 발레 역사상 가장 충격적인 순간 중 하나로 기록", "lineage_keyword_source_article_id": 427}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[플라스틱 버드 VOL.2__work_1016|플라스틱 버드 VOL.2]] <-> [[플라스틱 버드 vol.2__work_1323|플라스틱 버드 vol.2]] — similarity 0.77
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "초연", "lineage_keyword_snippet": "위원회 창작산실 '올해의 신작'으로 선정, 2021년 초연됐던 <플라스틱 버드>의 확장판이다. <플라스틱 버", "lineage_keyword_source_article_id": 1260}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[독공독무 서울교방 6인전__work_642|독공독무 서울교방 6인전]] <-> [[독공(獨功)독무(獨舞) 서울교방 6인전__work_644|독공(獨功)독무(獨舞) 서울교방 6인전]] — similarity 0.76
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재안무", "lineage_keyword_snippet": " 이어지는 남원 권번의 고제 살풀이춤을 김경란 선생이 재안무한 작품이다. 김미선은 강건한 동편제의 리듬감을 ", "lineage_keyword_source_article_id": 2078}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[몸 4개의 강 一夜九渡河 (일야구도하)__work_1823|몸 4개의 강 一夜九渡河 (일야구도하)]] <-> [[몸 4개의 강 일야구도하__work_1824|몸 4개의 강 일야구도하]] — similarity 0.76
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Ecology 춤, 연대의 몸짓__work_1292|Ecology 춤, 연대의 몸짓]] <-> [[Ecology 춤, 상생의 관점__work_1412|Ecology 춤, 상생의 관점]] — similarity 0.76
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2025__work_1131|파리 오페라 발레 에투알 갈라 2025]] <-> [[파리 오페라 발레 2022 에투알 갈라__work_1527|파리 오페라 발레 2022 에투알 갈라]] — similarity 0.76
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2024__work_1263|파리 오페라 발레 에투알 갈라 2024]] <-> [[파리 오페라 발레 2022 에투알 갈라__work_1527|파리 오페라 발레 2022 에투알 갈라]] — similarity 0.76
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": true, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파리 오페라 발레 에투알 갈라 2024__work_1265|파리 오페라 발레 에투알 갈라 2024]] <-> [[파리 오페라 발레 2022 에투알 갈라__work_1527|파리 오페라 발레 2022 에투알 갈라]] — similarity 0.76
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[내 딸내미들 II__work_799|내 딸내미들 II]] <-> [[내 딸내미들Ⅱ__work_1607|내 딸내미들Ⅱ]] — similarity 0.75
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "분에서 60분으로 늘리는 등 거의 모든 부분에서 대거 재구성했으니 사실상 신작에 가까운 셈이다. 오는 9월 ", "lineage_keyword_source_article_id": 1752}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[행 +-__work_44|행 +-]] <-> [[행+- -__work_1254|행+->]] — similarity 0.75
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": true, "shared_company": true, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "오른 듯하다. 그렇지 못했을 때 관객이 목도하는 것은 재구성까지 가지 못한, 해체된 전통 관념의 잔해들 뿐일", "lineage_keyword_source_article_id": 2126}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[모다페 2020__work_1702|모다페 2020]] <-> [[모다페 2019__work_1784|모다페 2019]] — similarity 0.75
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": null, "lineage_keyword_snippet": null, "lineage_keyword_source_article_id": null}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[모다페 2020__work_1703|모다페 2020]] <-> [[모다페 2019__work_1784|모다페 2019]] — similarity 0.75
+  - reason: `{"heuristic": "work_lineage_candidate", "title_match": "similar", "shared_choreographer": false, "shared_company": false, "premiere_year_available": false, "lineage_keyword": "재구성", "lineage_keyword_snippet": "Car>, <Be>까지 총 여섯 작품을 옴니버스식으로 재구성한 것이다.\n대구시립무용단 'Be' (c)대구시립", "lineage_keyword_source_article_id": 1976}`
+  - 승인: [ ] approve  거부: [ ] reject

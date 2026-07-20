@@ -1,0 +1,3892 @@
+# Review Queue — venue
+
+pending 후보 1296건
+
+- [ ] [[LG아트센터 서울 LG SIGNATURE홀__venue_1174|LG아트센터 서울 LG SIGNATURE홀]] <-> [[LG아트센터 서울 LG SIGNATURE 홀__venue_1492|LG아트센터 서울 LG SIGNATURE 홀]] — similarity 0.98
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 금빛누리 홀__venue_731|부산 금정문화회관 금빛누리 홀]] <-> [[부산 금정문화회관 금빛누리홀__venue_1552|부산 금정문화회관 금빛누리홀]] — similarity 0.97
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산금정문화회관 금빛누리홀__venue_635|부산금정문화회관 금빛누리홀]] <-> [[부산 금정문화회관 금빛누리홀__venue_1552|부산 금정문화회관 금빛누리홀]] — similarity 0.97
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울남산국악당 크라운해태홀__venue_649|서울남산국악당 크라운해태홀]] <-> [[서울남산국악당 크라운 해태홀__venue_2096|서울남산국악당 크라운 해태홀]] — similarity 0.97
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[언더스탠드 애비뉴 아트스탠드__venue_1455|언더스탠드 애비뉴 아트스탠드]] <-> [[언더스탠드애비뉴 아트스탠드__venue_1632|언더스탠드애비뉴 아트스탠드]] — similarity 0.97
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 CJ토월극장__venue_149|예술의 전당 CJ토월극장]] <-> [[예술의 전당 CJ 토월극장__venue_1089|예술의 전당 CJ 토월극장]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 CJ 토월극장__venue_1089|예술의 전당 CJ 토월극장]] <-> [[예술의전당 CJ 토월극장__venue_1196|예술의전당 CJ 토월극장]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터소극장 드림__venue_416|강동아트센터소극장 드림]] <-> [[강동아트센터 소극장 드림__venue_501|강동아트센터 소극장 드림]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양아람누리 새라새극장__venue_1496|고양아람누리 새라새극장]] <-> [[고양 아람누리 새라새극장__venue_2089|고양 아람누리 새라새극장]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구봉산문화회관 가온홀__venue_391|대구봉산문화회관 가온홀]] <-> [[대구 봉산문화회관 가온홀__venue_572|대구 봉산문화회관 가온홀]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[문화역서울 284 RTO__venue_444|문화역서울 284 RTO]] <-> [[문화역서울 284RTO__venue_481|문화역서울 284RTO]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 CJ토월극장__venue_141|예술의전당 CJ토월극장]] <-> [[예술의 전당 CJ토월극장__venue_149|예술의 전당 CJ토월극장]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] <-> [[예술의 전당 오페라 극장__venue_1143|예술의 전당 오페라 극장]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라 극장__venue_1134|예술의전당 오페라 극장]] <-> [[예술의 전당 오페라 극장__venue_1143|예술의 전당 오페라 극장]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 CJ토월극장__venue_141|예술의전당 CJ토월극장]] <-> [[예술의전당 CJ 토월극장__venue_1196|예술의전당 CJ 토월극장]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집(KOUS)__venue_543|한국문화의집(KOUS)]] <-> [[한국문화의 집(KOUS)__venue_2015|한국문화의 집(KOUS)]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[ACC 예술극장 극장1__venue_1436|ACC 예술극장 극장1]] <-> [[ACC예술극장 극장1__venue_1636|ACC예술극장 극장1]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 KB하늘극장__venue_396|국립극장 KB하늘극장]] <-> [[국립극장 KB하늘 극장__venue_1136|국립극장 KB하늘 극장]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립중앙박물관 극장 용__venue_188|국립중앙박물관 극장 용]] <-> [[국립중앙박물관 극장용__venue_1085|국립중앙박물관 극장용]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마포아트센터 아트홀맥__venue_167|마포아트센터 아트홀맥]] <-> [[마포아트센터 아트홀 맥__venue_958|마포아트센터 아트홀 맥]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[영화의 전당 하늘연극장__venue_114|영화의 전당 하늘연극장]] <-> [[영화의전당 하늘연극장__venue_259|영화의전당 하늘연극장]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] <-> [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 자유소극장__venue_22|예술의전당 자유소극장]] <-> [[예술의 전당 자유소극장__venue_132|예술의 전당 자유소극장]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 CJ토월극장__venue_141|예술의전당 CJ토월극장]] <-> [[예술의전당CJ토월극장__venue_388|예술의전당CJ토월극장]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] <-> [[예술의전당 오페라 극장__venue_1134|예술의전당 오페라 극장]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집KOUS__venue_45|한국문화의 집KOUS]] <-> [[한국문화의 집 KOUS__venue_909|한국문화의 집 KOUS]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집 KOUS__venue_723|한국문화의집 KOUS]] <-> [[한국문화의 집 KOUS__venue_909|한국문화의 집 KOUS]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[해운대 문화회관 해운홀__venue_730|해운대 문화회관 해운홀]] <-> [[해운대문화회관 해운홀__venue_780|해운대문화회관 해운홀]] — similarity 0.96
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름극장__venue_163|국립극장 달오름극장]] <-> [[국립극장 달오름 극장__venue_191|국립극장 달오름 극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장__venue_24|국립극장 해오름극장]] <-> [[국립극장 해오름 극장__venue_1029|국립극장 해오름 극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 연악당__venue_67|국립부산국악원 연악당]] <-> [[국립부산국악원연악당__venue_448|국립부산국악원연악당]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당아트홀__venue_164|대전예술의전당아트홀]] <-> [[대전예술의전당 아트홀__venue_1763|대전예술의전당 아트홀]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장소극장__venue_16|대학로 예술극장소극장]] <-> [[대학로예술극장소극장__venue_204|대학로예술극장소극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장대극장__venue_21|대학로예술극장대극장]] <-> [[대학로예술극장 대극장__venue_27|대학로예술극장 대극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 소극장__venue_10|대학로예술극장 소극장]] <-> [[대학로예술극장소극장__venue_204|대학로예술극장소극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 민주공원 소극장__venue_302|부산 민주공원 소극장]] <-> [[부산민주공원 소극장__venue_685|부산민주공원 소극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] <-> [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코‧대학로예술극장__venue_642|아르코‧대학로예술극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] <-> [[예술의 전당 토월극장__venue_615|예술의 전당 토월극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집KOUS__venue_45|한국문화의 집KOUS]] <-> [[한국문화의집KOUS__venue_1977|한국문화의집KOUS]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집 KOUS__venue_723|한국문화의집 KOUS]] <-> [[한국문화의집KOUS__venue_1977|한국문화의집KOUS]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[해운대 해변특설무대__venue_342|해운대 해변특설무대]] <-> [[해운대 해변 특설무대__venue_1564|해운대 해변 특설무대]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG 아트센터 서울__venue_42|LG 아트센터 서울]] <-> [[LG아트센터 서울__venue_843|LG아트센터 서울]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터 소극장__venue_205|강동아트센터 소극장]] <-> [[강동아트센터소극장__venue_317|강동아트센터소극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장__venue_24|국립극장 해오름극장]] <-> [[국립극장해오름극장__venue_380|국립극장해오름극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 아르코극장__venue_1164|대학로 아르코극장]] <-> [[대학로 아르코대극장__venue_1924|대학로 아르코대극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술가의집__venue_1104|대학로 예술가의집]] <-> [[대학로 예술가의 집__venue_2387|대학로 예술가의 집]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관대극장__venue_226|부산문화회관대극장]] <-> [[부산문화회관 대극장__venue_296|부산문화회관 대극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산춤공간 SHIN__venue_2003|부산춤공간 SHIN]] <-> [[부산춤공간SHIN__venue_2271|부산춤공간SHIN]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서강대메리홀대극장__venue_222|서강대메리홀대극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[제주문예회관대극장__venue_124|제주문예회관대극장]] <-> [[제주문예회관 대극장__venue_365|제주문예회관 대극장]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[플랫폼엘 라이브홀__venue_1703|플랫폼엘 라이브홀]] <-> [[플랫폼 엘 라이브홀__venue_2234|플랫폼 엘 라이브홀]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[헬싱키 댄스하우스__venue_1852|헬싱키 댄스하우스]] <-> [[헬싱키 댄스 하우스__venue_1894|헬싱키 댄스 하우스]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[나주시문화예술회관__venue_12|나주시문화예술회관]] <-> [[나주문화예술회관__venue_729|나주문화예술회관]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[복합문화공간 에무__venue_1321|복합문화공간 에무]] <-> [[복합문화공간에무__venue_1506|복합문화공간에무]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유니버설아트센터__venue_813|유니버설아트센터]] <-> [[유니버설 아트센터__venue_2225|유니버설 아트센터]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 스튜디오 다락__venue_535|아르코예술극장 스튜디오 다락]] <-> [[아르코예술극장 스튜디오 ‘다락’__venue_2021|아르코예술극장 스튜디오 ‘다락’]] — similarity 0.94
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[CKL스테이지__venue_979|CKL스테이지]] <-> [[CKL 스테이지__venue_1633|CKL 스테이지]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로 예술극장__venue_218|대학로 예술극장]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로극장 쿼드__venue_1|대학로극장 쿼드]] <-> [[대학로극장쿼드__venue_104|대학로극장쿼드]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산금정문화회관 금빛누리홀__venue_635|부산금정문화회관 금빛누리홀]] <-> [[부산 금정문화회관 금빛누리 홀__venue_731|부산 금정문화회관 금빛누리 홀]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀__venue_172|서강대 메리홀]] <-> [[서강대 메리 홀__venue_329|서강대 메리 홀]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울남산국악당__venue_48|서울남산국악당]] <-> [[서울 남산국악당__venue_974|서울 남산국악당]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울예술의전당__venue_1242|서울예술의전당]] <-> [[서울 예술의전당__venue_1359|서울 예술의전당]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종시예술의전당__venue_7|세종시예술의전당]] <-> [[세종예술의전당__venue_1614|세종예술의전당]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코 예술극장__venue_476|아르코 예술극장]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코예술대극장__venue_306|아르코예술대극장]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코예술소극장__venue_305|아르코예술소극장]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[플랫폼엘 컨템포러리 아트센터__venue_692|플랫폼엘 컨템포러리 아트센터]] <-> [[플랫폼L 컨템포러리 아트센터__venue_1189|플랫폼L 컨템포러리 아트센터]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍콩문화센터 스튜디오 시어터__venue_1835|홍콩문화센터 스튜디오 시어터]] <-> [[홍콩문화센터 스튜디오 씨어터__venue_1846|홍콩문화센터 스튜디오 씨어터]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립아시아문화의전당 극장2__venue_281|국립아시아문화의전당 극장2]] <-> [[국립아시아문화전당 극장 2__venue_312|국립아시아문화전당 극장 2]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[언더스탠드에비뉴 아트스탠드__venue_776|언더스탠드에비뉴 아트스탠드]] <-> [[언더스탠드애비뉴 아트스탠드__venue_1632|언더스탠드애비뉴 아트스탠드]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천문화예술회관 대공연장__venue_136|인천문화예술회관 대공연장]] <-> [[인천종합문화예술회관 대공연장__venue_528|인천종합문화예술회관 대공연장]] — similarity 0.93
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터__venue_298|LG아트센터]] <-> [[LG 아트센터__venue_1092|LG 아트센터]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[SAC 아트홀__venue_318|SAC 아트홀]] <-> [[SAC아트홀__venue_1031|SAC아트홀]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마로니에 공원__venue_507|마로니에 공원]] <-> [[마로니에공원__venue_1362|마로니에공원]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀__venue_134|서강대메리홀]] <-> [[서강대 메리홀__venue_172|서강대 메리홀]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 대극장__venue_195|서강대학교 메리홀 대극장]] <-> [[서강대학교 메리홀 소극장__venue_260|서강대학교 메리홀 소극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종M씨어터__venue_28|세종M씨어터]] <-> [[세종 M씨어터__venue_1046|세종 M씨어터]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장__venue_97|아르코 대극장]] <-> [[아르코대극장__venue_256|아르코대극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 소극장__venue_54|아르코 소극장]] <-> [[아르코소극장__venue_269|아르코소극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 CJ토월극장__venue_141|예술의전당 CJ토월극장]] <-> [[예술의 전당 CJ 토월극장__venue_1089|예술의 전당 CJ 토월극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 CJ토월극장__venue_149|예술의 전당 CJ토월극장]] <-> [[예술의전당 CJ 토월극장__venue_1196|예술의전당 CJ 토월극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[울산문화예술회관 대공연장__venue_1863|울산문화예술회관 대공연장]] <-> [[울산문화예술회관 소공연장__venue_1942|울산문화예술회관 소공연장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이화여대 ECC 내 삼성홀__venue_606|이화여대 ECC 내 삼성홀]] <-> [[이화여대 ECC 삼성홀__venue_1170|이화여대 ECC 삼성홀]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천문화예술회관 대공연장__venue_136|인천문화예술회관 대공연장]] <-> [[인천문화예술회관 소공연장__venue_880|인천문화예술회관 소공연장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[조이스씨어터__venue_1640|조이스씨어터]] <-> [[조이스 씨어터__venue_1773|조이스 씨어터]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[축제극장 몸짓__venue_173|축제극장 몸짓]] <-> [[축제극장몸짓__venue_1712|축제극장몸짓]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춤전용M극장__venue_434|춤전용M극장]] <-> [[춤전용 M극장__venue_597|춤전용 M극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집__venue_955|한국문화의 집]] <-> [[한국문화의집__venue_2262|한국문화의집]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[해운대 백사장__venue_250|해운대 백사장]] <-> [[해운대백사장__venue_285|해운대백사장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[경기문화의 전당 소극장__venue_956|경기문화의 전당 소극장]] <-> [[경기도문화의전당 소극장__venue_2286|경기도문화의전당 소극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국민대학교예술관대극장__venue_262|국민대학교예술관대극장]] <-> [[국민대학교 예술관 대극장__venue_1501|국민대학교 예술관 대극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[문래예술공장 박스시어터__venue_441|문래예술공장 박스시어터]] <-> [[문래예술공장 박스씨어터__venue_593|문래예술공장 박스씨어터]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부평아트센터 달누리극장__venue_957|부평아트센터 달누리극장]] <-> [[부평아트센터 해누리극장__venue_1575|부평아트센터 해누리극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] <-> [[서강대학교 메리홀 대극장__venue_195|서강대학교 메리홀 대극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 소극장__venue_260|서강대학교 메리홀 소극장]] <-> [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 소극장__venue_260|서강대학교 메리홀 소극장]] <-> [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 M씨어터__venue_680|세종문화회관 M씨어터]] <-> [[세종문화회관 세종M씨어터__venue_2195|세종문화회관 세종M씨어터]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 CJ토월극장__venue_149|예술의 전당 CJ토월극장]] <-> [[예술의 전당 토월극장__venue_615|예술의 전당 토월극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 CJ토월극장__venue_149|예술의 전당 CJ토월극장]] <-> [[예술의전당CJ토월극장__venue_388|예술의전당CJ토월극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] <-> [[예술의 전당 오페라 극장__venue_1143|예술의 전당 오페라 극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] <-> [[예술의전당 오페라 극장__venue_1134|예술의전당 오페라 극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당CJ토월극장__venue_388|예술의전당CJ토월극장]] <-> [[예술의전당 CJ 토월극장__venue_1196|예술의전당 CJ 토월극장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[울산문예회관 대공연장__venue_52|울산문예회관 대공연장]] <-> [[울산문화예술회관 대공연장__venue_1863|울산문화예술회관 대공연장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[울산문화회관 소공연장__venue_924|울산문화회관 소공연장]] <-> [[울산문화예술회관 소공연장__venue_1942|울산문화예술회관 소공연장]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집KOUS__venue_45|한국문화의 집KOUS]] <-> [[한국문화의 집(KOUS)__venue_2015|한국문화의 집(KOUS)]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 대극장과 소극장__venue_983|서강대학교 메리홀 대극장과 소극장]] <-> [[서강대학교 메리홀 대극장·소극장__venue_1897|서강대학교 메리홀 대극장·소극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[광주 아시아문화전당__venue_174|광주 아시아문화전당]] <-> [[광주 국립아시아문화전당__venue_1611|광주 국립아시아문화전당]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름 극장__venue_191|국립극장 달오름 극장]] <-> [[국립극장 해오름 극장__venue_1029|국립극장 해오름 극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립중앙박물관 극장 용__venue_188|국립중앙박물관 극장 용]] <-> [[국립박물관 극장 용__venue_2193|국립박물관 극장 용]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[달오름극장__venue_224|달오름극장]] <-> [[달오름 극장__venue_304|달오름 극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 소극장__venue_10|대학로예술극장 소극장]] <-> [[대학로 예술극장소극장__venue_16|대학로 예술극장소극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 소극장__venue_10|대학로예술극장 소극장]] <-> [[대학로예술극장 대극장__venue_27|대학로예술극장 대극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[더 플레이스__venue_1378|더 플레이스]] <-> [[더플레이스__venue_1947|더플레이스]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[볼쇼이극장__venue_686|볼쇼이극장]] <-> [[볼쇼이 극장__venue_802|볼쇼이 극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 민주공원 소극장__venue_302|부산 민주공원 소극장]] <-> [[부산 민주공원 중극장__venue_918|부산 민주공원 중극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] <-> [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 M씨어터__venue_680|세종문화회관 M씨어터]] <-> [[세종문화회관 M시어터__venue_1368|세종문화회관 M시어터]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 S씨어터__venue_142|세종문화회관 S씨어터]] <-> [[세종문화회관 M씨어터__venue_680|세종문화회관 M씨어터]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코대극장__venue_256|아르코대극장]] <-> [[아르코극장__venue_648|아르코극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코소극장__venue_269|아르코소극장]] <-> [[아르코극장__venue_648|아르코극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장과 소극장__venue_62|아르코예술극장 대극장과 소극장]] <-> [[아르코예술극장 대극장 및 소극장__venue_2355|아르코예술극장 대극장 및 소극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[영화의전당__venue_326|영화의전당]] <-> [[영화의 전당__venue_1688|영화의 전당]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당__venue_150|예술의전당]] <-> [[예술의 전당__venue_1021|예술의 전당]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 CJ토월극장__venue_141|예술의전당 CJ토월극장]] <-> [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이음아트센터 이음아트홀__venue_1355|이음아트센터 이음아트홀]] <-> [[이음센터 이음아트홀__venue_1709|이음센터 이음아트홀]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[포스트극장__venue_362|포스트극장]] <-> [[포스트 극장__venue_1070|포스트 극장]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집 KOUS__venue_909|한국문화의 집 KOUS]] <-> [[한국문화의집KOUS__venue_1977|한국문화의집KOUS]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집KOUS__venue_45|한국문화의 집KOUS]] <-> [[한국문화의집 KOUS__venue_723|한국문화의집 KOUS]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집(KOUS)__venue_543|한국문화의집(KOUS)]] <-> [[한국문화의집KOUS__venue_1977|한국문화의집KOUS]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장과 소극장__venue_62|아르코예술극장 대극장과 소극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터 소극장__venue_205|강동아트센터 소극장]] <-> [[강동아트센터 대극장__venue_536|강동아트센터 대극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[경기아트센터 소극장__venue_845|경기아트센터 소극장]] <-> [[경기아트센터 대극장__venue_892|경기아트센터 대극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 대극장__venue_366|국립부산국악원 대극장]] <-> [[국립국악원 대극장__venue_1181|국립국악원 대극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 하늘극장__venue_100|국립극장 하늘극장]] <-> [[국립극장 KB하늘극장__venue_396|국립극장 KB하늘극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름극장__venue_163|국립극장 달오름극장]] <-> [[국립극장 별오름극장__venue_349|국립극장 별오름극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장__venue_24|국립극장 해오름극장]] <-> [[국립극장 달오름극장__venue_163|국립극장 달오름극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장__venue_24|국립극장 해오름극장]] <-> [[국립극장 별오름극장__venue_349|국립극장 별오름극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장해오름극장__venue_380|국립극장해오름극장]] <-> [[국립극장 해오름 극장__venue_1029|국립극장 해오름 극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장대극장__venue_21|대학로예술극장대극장]] <-> [[대학로예술극장소극장__venue_204|대학로예술극장소극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관 중극장__venue_39|부산문화회관 중극장]] <-> [[부산문화회관 대극장__venue_296|부산문화회관 대극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] <-> [[서강대메리홀대극장__venue_222|서강대메리홀대극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 대극장__venue_25|세종문화회관 대극장]] <-> [[세종문화회관 엠극장__venue_89|세종문화회관 엠극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전청소년문화센터 대극장__venue_1870|대전청소년문화센터 대극장]] <-> [[대전 평송청소년문화센터 대극장__venue_2360|대전 평송청소년문화센터 대극장]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[언더스탠드에비뉴 아트스탠드__venue_776|언더스탠드에비뉴 아트스탠드]] <-> [[언더스탠드 애비뉴 아트스탠드__venue_1455|언더스탠드 애비뉴 아트스탠드]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장__venue_24|국립극장 해오름극장]] <-> [[국립 해오름극장__venue_118|국립 해오름극장]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 예악당__venue_2|국립국악원 예악당]] <-> [[국립국악원 예약당__venue_1796|국립국악원 예약당]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름__venue_119|국립극장 달오름]] <-> [[국립극장 달오름극장__venue_163|국립극장 달오름극장]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장__venue_24|국립극장 해오름극장]] <-> [[국립극장 해오름__venue_180|국립극장 해오름]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립아시아문화의전당 극장2__venue_281|국립아시아문화의전당 극장2]] <-> [[국립아시아문화전당 극장1__venue_351|국립아시아문화전당 극장1]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립아시아문화전당 극장 2__venue_312|국립아시아문화전당 극장 2]] <-> [[국립아시아문화전당 극장1__venue_351|국립아시아문화전당 극장1]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립아시아문화전당 극장1__venue_351|국립아시아문화전당 극장1]] <-> [[국립아시아문화전당 예술극장__venue_1417|국립아시아문화전당 예술극장]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당 앙상블홀__venue_110|대전예술의전당 앙상블홀]] <-> [[대전문화예술의전당 앙상블 홀__venue_546|대전문화예술의전당 앙상블 홀]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코예술대극장__venue_306|아르코예술대극장]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술소극장__venue_305|아르코예술소극장]] <-> [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술소극장__venue_305|아르코예술소극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이화여대 ECC 삼성홀__venue_1170|이화여대 ECC 삼성홀]] <-> [[이화여자대학교 ECC 삼성홀__venue_1276|이화여자대학교 ECC 삼성홀]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[플랫폼엘__venue_31|플랫폼엘]] <-> [[플랫폼 엘__venue_772|플랫폼 엘]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[플랫폼엘 플랫폼 라이브__venue_901|플랫폼엘 플랫폼 라이브]] <-> [[플랫폼엘 플랫폼 라이브 공간__venue_2018|플랫폼엘 플랫폼 라이브 공간]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 KB하늘극장__venue_396|국립극장 KB하늘극장]] <-> [[국립극장 KB청소년하늘극장__venue_1041|국립극장 KB청소년하늘극장]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 대극장__venue_366|국립부산국악원 대극장]] <-> [[국립부산국악원 대극장연악당__venue_401|국립부산국악원 대극장연악당]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 연악당__venue_67|국립부산국악원 연악당]] <-> [[국립부산국악원 대극장연악당__venue_401|국립부산국악원 대극장연악당]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] <-> [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 토월극장__venue_615|예술의 전당 토월극장]] <-> [[예술의 전당 CJ 토월극장__venue_1089|예술의 전당 CJ 토월극장]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당CJ토월극장__venue_388|예술의전당CJ토월극장]] <-> [[예술의 전당 CJ 토월극장__venue_1089|예술의 전당 CJ 토월극장]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집 KOUS__venue_909|한국문화의 집 KOUS]] <-> [[한국문화의 집(KOUS)__venue_2015|한국문화의 집(KOUS)]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[ACC 극장2__venue_1887|ACC 극장2]] <-> [[ACC 예술극장2__venue_2188|ACC 예술극장2]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LIG아트홀 강남__venue_449|LIG아트홀 강남]] <-> [[LIG홀 강남__venue_489|LIG홀 강남]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 예악당__venue_2|국립국악원 예악당]] <-> [[국악원 예악당__venue_258|국악원 예악당]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름__venue_119|국립극장 달오름]] <-> [[국립극장 해오름__venue_180|국립극장 해오름]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립아시아문화전당 극장 2__venue_312|국립아시아문화전당 극장 2]] <-> [[국립아시아문화전당 예술극장 극장2__venue_1305|국립아시아문화전당 예술극장 극장2]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립아시아문화전당 예술극장 극장2__venue_1305|국립아시아문화전당 예술극장 극장2]] <-> [[국립아시아문화전당 예술극장__venue_1417|국립아시아문화전당 예술극장]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당__venue_137|대전예술의전당]] <-> [[대전문화예술의전당__venue_610|대전문화예술의전당]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀__venue_112|서강대학교 메리홀]] <-> [[서강대 메리홀__venue_172|서강대 메리홀]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술대극장__venue_306|아르코예술대극장]] <-> [[아르코 예술극장__venue_476|아르코 예술극장]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술소극장__venue_305|아르코예술소극장]] <-> [[아르코 예술극장__venue_476|아르코 예술극장]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] <-> [[아르코예술극장 대극장 및 소극장__venue_2355|아르코예술극장 대극장 및 소극장]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술소극장__venue_305|아르코예술소극장]] <-> [[아르코예술대극장__venue_306|아르코예술대극장]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터 대극장 한강__venue_478|강동아트센터 대극장 한강]] <-> [[강동아트센터 대극장__venue_536|강동아트센터 대극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터 소극장__venue_205|강동아트센터 소극장]] <-> [[강동아트센터 소극장 드림__venue_501|강동아트센터 소극장 드림]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립중앙박물관 용 극장__venue_875|국립중앙박물관 용 극장]] <-> [[국립중앙박물관 극장용__venue_1085|국립중앙박물관 극장용]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술가의 집 3층__venue_2251|대학로 예술가의 집 3층]] <-> [[대학로 예술가의 집__venue_2387|대학로 예술가의 집]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관 대극장__venue_296|부산문화회관 대극장]] <-> [[부산 금정문화회관 대극장__venue_819|부산 금정문화회관 대극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서강대학교 메리홀 대극장__venue_195|서강대학교 메리홀 대극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] <-> [[서강대학교 메리홀 소극장__venue_260|서강대학교 메리홀 소극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] <-> [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 CJ토월극장__venue_149|예술의 전당 CJ토월극장]] <-> [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 CJ토월극장__venue_141|예술의전당 CJ토월극장]] <-> [[예술의 전당 토월극장__venue_615|예술의 전당 토월극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] <-> [[예술의전당 CJ 토월극장__venue_1196|예술의전당 CJ 토월극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집KOUS__venue_1977|한국문화의집KOUS]] <-> [[한국문화의 집(KOUS)__venue_2015|한국문화의 집(KOUS)]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집KOUS__venue_45|한국문화의 집KOUS]] <-> [[한국문화의집(KOUS)__venue_543|한국문화의집(KOUS)]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집(KOUS)__venue_543|한국문화의집(KOUS)]] <-> [[한국문화의집 KOUS__venue_723|한국문화의집 KOUS]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[문화역서울 284 RTO__venue_444|문화역서울 284 RTO]] <-> [[문화역서울 284 RTO 공연장__venue_561|문화역서울 284 RTO 공연장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 대극장__venue_195|서강대학교 메리홀 대극장]] <-> [[서강대학교 메리홀 대극장·소극장__venue_1897|서강대학교 메리홀 대극장·소극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 소극장__venue_260|서강대학교 메리홀 소극장]] <-> [[서강대학교 메리홀 대극장·소극장__venue_1897|서강대학교 메리홀 대극장·소극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장 및 소극장__venue_239|아르코 대극장 및 소극장]] <-> [[아르코예술극장 대극장 및 소극장__venue_2355|아르코예술극장 대극장 및 소극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안산문화예술의전당 해돋이극장__venue_343|안산문화예술의전당 해돋이극장]] <-> [[안산문화예술의전당 달맞이극장__venue_386|안산문화예술의전당 달맞이극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍익대 대학로아트센터 소극장__venue_1681|홍익대 대학로아트센터 소극장]] <-> [[홍익대대학로 아트센터 대극장__venue_2074|홍익대대학로 아트센터 대극장]] — similarity 0.87
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국장애인문화예술원 이음센터 이음아트홀__venue_1223|한국장애인문화예술원 이음센터 이음아트홀]] <-> [[한국장애인문화예술원 이음아트홀__venue_2221|한국장애인문화예술원 이음아트홀]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터소극장__venue_317|강동아트센터소극장]] <-> [[강동아트센터소극장 드림__venue_416|강동아트센터소극장 드림]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[구로아트밸리 대극장__venue_6|구로아트밸리 대극장]] <-> [[구로아트밸리 예술극장__venue_1120|구로아트밸리 예술극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 하늘극장__venue_100|국립극장 하늘극장]] <-> [[국립극장 KB하늘 극장__venue_1136|국립극장 KB하늘 극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름 극장__venue_191|국립극장 달오름 극장]] <-> [[국립극장 별오름극장__venue_349|국립극장 별오름극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장__venue_24|국립극장 해오름극장]] <-> [[국립극장 달오름 극장__venue_191|국립극장 달오름 극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름극장__venue_163|국립극장 달오름극장]] <-> [[국립극장 해오름 극장__venue_1029|국립극장 해오름 극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 별오름극장__venue_349|국립극장 별오름극장]] <-> [[국립극장 해오름 극장__venue_1029|국립극장 해오름 극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립중앙박물관 극장용__venue_1085|국립중앙박물관 극장용]] <-> [[국립박물관 극장 용__venue_2193|국립박물관 극장 용]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립아시아문화의전당 극장2__venue_281|국립아시아문화의전당 극장2]] <-> [[국립아시아문화전당 예술극장__venue_1417|국립아시아문화전당 예술극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립아시아문화전당 극장 2__venue_312|국립아시아문화전당 극장 2]] <-> [[국립아시아문화전당 예술극장__venue_1417|국립아시아문화전당 예술극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[나루아트센터 대공연장__venue_734|나루아트센터 대공연장]] <-> [[나루아트센터 대극장__venue_972|나루아트센터 대극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장소극장__venue_16|대학로 예술극장소극장]] <-> [[대학로예술극장대극장__venue_21|대학로예술극장대극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 대극장__venue_27|대학로예술극장 대극장]] <-> [[대학로예술극장소극장__venue_204|대학로예술극장소극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 소극장__venue_10|대학로예술극장 소극장]] <-> [[대학로예술극장대극장__venue_21|대학로예술극장대극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[문화역서울 284RTO__venue_481|문화역서울 284RTO]] <-> [[문화역서울 284__venue_1042|문화역서울 284]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산민주공원 소극장__venue_685|부산민주공원 소극장]] <-> [[부산 민주공원 중극장__venue_918|부산 민주공원 중극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀__venue_134|서강대메리홀]] <-> [[서강대 메리 홀__venue_329|서강대 메리 홀]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] <-> [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 대극장과 소극장__venue_983|서강대학교 메리홀 대극장과 소극장]] <-> [[서강대 메리홀 대극장 및 소극장__venue_2199|서강대 메리홀 대극장 및 소극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] <-> [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울무용센터__venue_284|서울무용센터]] <-> [[서울무용창작센터__venue_1222|서울무용창작센터]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종 M씨어터__venue_1046|세종 M씨어터]] <-> [[세종 M시어터__venue_1246|세종 M시어터]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종 S시어터__venue_647|세종 S시어터]] <-> [[세종 M시어터__venue_1246|세종 M시어터]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 소극장__venue_54|아르코 소극장]] <-> [[아르코 대극장__venue_97|아르코 대극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코대극장__venue_256|아르코대극장]] <-> [[아르코예술대극장__venue_306|아르코예술대극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코소극장__venue_269|아르코소극장]] <-> [[아르코예술소극장__venue_305|아르코예술소극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] <-> [[예술의전당CJ토월극장__venue_388|예술의전당CJ토월극장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이대 삼성홀__venue_280|이대 삼성홀]] <-> [[이화여대 삼성홀__venue_473|이화여대 삼성홀]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천종합문화예술회관 대공연장__venue_528|인천종합문화예술회관 대공연장]] <-> [[인천문화예술회관 소공연장__venue_880|인천문화예술회관 소공연장]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집(KOUS)__venue_543|한국문화의집(KOUS)]] <-> [[한국문화의집 코우스(KOUS)__venue_2066|한국문화의집 코우스(KOUS)]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구 아이러브발레 스튜디오__venue_2217|대구 아이러브발레 스튜디오]] <-> [[대구 아이러브발레 스튜디오 블랙박스__venue_2237|대구 아이러브발레 스튜디오 블랙박스]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 KB청소년하늘극장__venue_1041|국립극장 KB청소년하늘극장]] <-> [[국립극장 KB하늘 극장__venue_1136|국립극장 KB하늘 극장]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 대극장__venue_27|대학로예술극장 대극장]] <-> [[대학로 아르코예술극장 대극장__venue_768|대학로 아르코예술극장 대극장]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 대강당__venue_471|부산 금정문화회관 대강당]] <-> [[부산 금정문화회관 대극장__venue_819|부산 금정문화회관 대극장]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 민주화운동기념관__venue_741|서울 민주화운동기념관]] <-> [[서울 용산구 민주화운동기념관__venue_1349|서울 용산구 민주화운동기념관]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 M시어터 중극장__venue_41|세종문화회관 M시어터 중극장]] <-> [[세종문화회관 M시어터__venue_1368|세종문화회관 M시어터]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이화여자대학교 삼성홀__venue_989|이화여자대학교 삼성홀]] <-> [[이화여자대학교 ECC 삼성홀__venue_1276|이화여자대학교 ECC 삼성홀]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천문화예술회관 대공연장__venue_136|인천문화예술회관 대공연장]] <-> [[인천서구문화회관 대공연장__venue_2272|인천서구문화회관 대공연장]] — similarity 0.85
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터소극장__venue_317|강동아트센터소극장]] <-> [[강동아트센터 대극장__venue_536|강동아트센터 대극장]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립 해오름극장__venue_118|국립 해오름극장]] <-> [[국립극장 해오름 극장__venue_1029|국립극장 해오름 극장]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름__venue_119|국립극장 달오름]] <-> [[국립극장 달오름 극장__venue_191|국립극장 달오름 극장]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름극장__venue_163|국립극장 달오름극장]] <-> [[국립극장해오름극장__venue_380|국립극장해오름극장]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 별오름극장__venue_349|국립극장 별오름극장]] <-> [[국립극장해오름극장__venue_380|국립극장해오름극장]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름__venue_180|국립극장 해오름]] <-> [[국립극장 해오름 극장__venue_1029|국립극장 해오름 극장]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름__venue_180|국립극장 해오름]] <-> [[국립극장 해오름 무대__venue_1771|국립극장 해오름 무대]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장 대극장과 소극장__venue_997|대학로 예술극장 대극장과 소극장]] <-> [[대학로 아르코예술극장 대극장 및 소극장__venue_2220|대학로 아르코예술극장 대극장 및 소극장]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장소극장__venue_16|대학로 예술극장소극장]] <-> [[대학로 예술극장__venue_218|대학로 예술극장]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관 중극장__venue_39|부산문화회관 중극장]] <-> [[부산문화회관대극장__venue_226|부산문화회관대극장]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] <-> [[서강대메리홀대극장__venue_222|서강대메리홀대극장]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코예술대극장__venue_306|아르코예술대극장]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코예술소극장__venue_305|아르코예술소극장]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이화여대 삼성홀__venue_473|이화여대 삼성홀]] <-> [[이화여자대학교 삼성홀__venue_989|이화여자대학교 삼성홀]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 대극장__venue_195|서강대학교 메리홀 대극장]] <-> [[서강대학교 메리홀 대극장과 소극장__venue_983|서강대학교 메리홀 대극장과 소극장]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 소극장__venue_260|서강대학교 메리홀 소극장]] <-> [[서강대학교 메리홀 대극장과 소극장__venue_983|서강대학교 메리홀 대극장과 소극장]] — similarity 0.84
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 대극장연악당__venue_401|국립부산국악원 대극장연악당]] <-> [[국립부산국악원연악당__venue_448|국립부산국악원연악당]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립중앙박물관 극장 용__venue_188|국립중앙박물관 극장 용]] <-> [[국립중앙박물관 용 극장__venue_875|국립중앙박물관 용 극장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구문화예술회관 팔공홀__venue_69|대구문화예술회관 팔공홀]] <-> [[대구문화예술회관 비슬홀__venue_152|대구문화예술회관 비슬홀]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 아르코예술극장 대극장__venue_768|대학로 아르코예술극장 대극장]] <-> [[대학로 아르코예술극장 대극장 및 소극장__venue_2220|대학로 아르코예술극장 대극장 및 소극장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산민주공원__venue_744|부산민주공원]] <-> [[부산시민공원__venue_1499|부산시민공원]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] <-> [[서강대학교 메리홀 소극장__venue_260|서강대학교 메리홀 소극장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 대극장__venue_195|서강대학교 메리홀 대극장]] <-> [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 대극장__venue_195|서강대학교 메리홀 대극장]] <-> [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종M씨어터__venue_28|세종M씨어터]] <-> [[세종S씨어터__venue_101|세종S씨어터]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종M씨어터__venue_28|세종M씨어터]] <-> [[세종엠씨어터__venue_38|세종엠씨어터]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종엠씨어터__venue_38|세종엠씨어터]] <-> [[세종S씨어터__venue_101|세종S씨어터]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 M시어터__venue_1368|세종문화회관 M시어터]] <-> [[세종문화회관 세종M씨어터__venue_2195|세종문화회관 세종M씨어터]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 S씨어터__venue_142|세종문화회관 S씨어터]] <-> [[세종문화회관 세종M씨어터__venue_2195|세종문화회관 세종M씨어터]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장__venue_97|아르코 대극장]] <-> [[아르코극장__venue_648|아르코극장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 소극장__venue_54|아르코 소극장]] <-> [[아르코극장__venue_648|아르코극장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코극장__venue_648|아르코극장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코대극장__venue_256|아르코대극장]] <-> [[아르코소극장__venue_269|아르코소극장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] <-> [[예술의 전당 CJ 토월극장__venue_1089|예술의 전당 CJ 토월극장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 토월극장__venue_615|예술의 전당 토월극장]] <-> [[예술의전당 CJ 토월극장__venue_1196|예술의전당 CJ 토월극장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[울산문예회관 대공연장__venue_52|울산문예회관 대공연장]] <-> [[울산문화예술회관 소공연장__venue_1942|울산문화예술회관 소공연장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[울산문화회관 소공연장__venue_924|울산문화회관 소공연장]] <-> [[울산문화예술회관 대공연장__venue_1863|울산문화예술회관 대공연장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집(KOUS)__venue_543|한국문화의집(KOUS)]] <-> [[한국문화의 집 KOUS__venue_909|한국문화의 집 KOUS]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집 KOUS__venue_723|한국문화의집 KOUS]] <-> [[한국문화의 집(KOUS)__venue_2015|한국문화의 집(KOUS)]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구문화예술회관 비슬홀__venue_152|대구문화예술회관 비슬홀]] <-> [[대구문화예술회관 팔공홀과 비슬홀__venue_2176|대구문화예술회관 팔공홀과 비슬홀]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구문화예술회관 팔공홀__venue_69|대구문화예술회관 팔공홀]] <-> [[대구문화예술회관 팔공홀과 비슬홀__venue_2176|대구문화예술회관 팔공홀과 비슬홀]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[문화역서울 284RTO__venue_481|문화역서울 284RTO]] <-> [[문화역서울 284 RTO 공연장__venue_561|문화역서울 284 RTO 공연장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 은빛샘홀__venue_752|부산 금정문화회관 은빛샘홀]] <-> [[부산 금정문화회관 금빛누리홀__venue_1552|부산 금정문화회관 금빛누리홀]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장과 소극장__venue_62|아르코예술극장 대극장과 소극장]] <-> [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이화여대 ECC 내 삼성홀__venue_606|이화여대 ECC 내 삼성홀]] <-> [[이화여자대학교 ECC 삼성홀__venue_1276|이화여자대학교 ECC 삼성홀]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천종합문화예술회관 대공연장__venue_528|인천종합문화예술회관 대공연장]] <-> [[인천종합예술회관 야외공연장__venue_544|인천종합예술회관 야외공연장]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집(KOUS)__venue_2015|한국문화의 집(KOUS)]] <-> [[한국문화의집 코우스(KOUS)__venue_2066|한국문화의집 코우스(KOUS)]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG 아트센터 서울__venue_42|LG 아트센터 서울]] <-> [[LG 아트센터__venue_1092|LG 아트센터]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립 해오름극장__venue_118|국립 해오름극장]] <-> [[국립극장해오름극장__venue_380|국립극장해오름극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 하늘극장__venue_100|국립극장 하늘극장]] <-> [[국립극장 소극장__venue_2160|국립극장 소극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름__venue_180|국립극장 해오름]] <-> [[국립극장해오름극장__venue_380|국립극장해오름극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당__venue_137|대전예술의전당]] <-> [[대전예술의전당아트홀__venue_164|대전예술의전당아트홀]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 대극장__venue_628|대학로 대극장]] <-> [[대학로 아르코대극장__venue_1924|대학로 아르코대극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로예술극장대극장__venue_21|대학로예술극장대극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로예술극장소극장__venue_204|대학로예술극장소극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀__venue_112|서강대학교 메리홀]] <-> [[서강대 메리 홀__venue_329|서강대 메리 홀]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 대극장·소극장__venue_1897|서강대학교 메리홀 대극장·소극장]] <-> [[서강대 메리홀 대극장 및 소극장__venue_2199|서강대 메리홀 대극장 및 소극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 소극장__venue_54|아르코 소극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터 대극장 한강__venue_478|강동아트센터 대극장 한강]] <-> [[강동아트센터 한강__venue_1149|강동아트센터 한강]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터 소극장__venue_205|강동아트센터 소극장]] <-> [[강동아트센터소극장 드림__venue_416|강동아트센터소극장 드림]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터소극장__venue_317|강동아트센터소극장]] <-> [[강동아트센터 소극장 드림__venue_501|강동아트센터 소극장 드림]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름 극장__venue_1029|국립극장 해오름 극장]] <-> [[국립극장 해오름 무대__venue_1771|국립극장 해오름 무대]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립아시아문화전당 극장1__venue_351|국립아시아문화전당 극장1]] <-> [[국립아시아문화전당__venue_1479|국립아시아문화전당]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립현대미술관 서울관__venue_367|국립현대미술관 서울관]] <-> [[국립현대미술관 과천관__venue_1003|국립현대미술관 과천관]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술가의집__venue_1104|대학로 예술가의집]] <-> [[대학로 예술가의 집 3층__venue_2251|대학로 예술가의 집 3층]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장소극장__venue_16|대학로 예술극장소극장]] <-> [[대학로예술극장 대극장__venue_27|대학로예술극장 대극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[문화역서울 284 RTO__venue_444|문화역서울 284 RTO]] <-> [[문화역서울 284__venue_1042|문화역서울 284]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 대강당__venue_471|부산 금정문화회관 대강당]] <-> [[부산 금정문화회관__venue_790|부산 금정문화회관]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관__venue_790|부산 금정문화회관]] <-> [[부산 금정문화회관 대극장__venue_819|부산 금정문화회관 대극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관대극장__venue_226|부산문화회관대극장]] <-> [[부산 금정문화회관 대극장__venue_819|부산 금정문화회관 대극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] <-> [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 대극장__venue_195|서강대학교 메리홀 대극장]] <-> [[서강대메리홀대극장__venue_222|서강대메리홀대극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀__venue_112|서강대학교 메리홀]] <-> [[서강대학교 메리홀 대극장__venue_195|서강대학교 메리홀 대극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀__venue_112|서강대학교 메리홀]] <-> [[서강대학교 메리홀 소극장__venue_260|서강대학교 메리홀 소극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 문화비축기지__venue_327|서울 문화비축기지]] <-> [[서울 상암동 문화비축기지__venue_1936|서울 상암동 문화비축기지]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 S씨어터__venue_142|세종문화회관 S씨어터]] <-> [[세종문화회관 M시어터__venue_1368|세종문화회관 M시어터]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] <-> [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당CJ토월극장__venue_388|예술의전당CJ토월극장]] <-> [[예술의 전당 토월극장__venue_615|예술의 전당 토월극장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[울산문예회관 대공연장__venue_52|울산문예회관 대공연장]] <-> [[울산문화회관 소공연장__venue_924|울산문화회관 소공연장]] — similarity 0.82
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.81
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코예술극장 대극장과 소극장__venue_62|아르코예술극장 대극장과 소극장]] — similarity 0.81
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코예술극장 대극장과 소극장__venue_62|아르코예술극장 대극장과 소극장]] — similarity 0.81
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집 KOUS__venue_723|한국문화의집 KOUS]] <-> [[한국문화의집 코우스(KOUS)__venue_2066|한국문화의집 코우스(KOUS)]] — similarity 0.81
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립아시아문화의전당 극장2__venue_281|국립아시아문화의전당 극장2]] <-> [[국립아시아문화전당 예술극장 극장2__venue_1305|국립아시아문화전당 예술극장 극장2]] — similarity 0.81
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 강동아트센터 대극장 한강__venue_1301|서울 강동아트센터 대극장 한강]] <-> [[서울 강동아트센터 소극장 드림__venue_1389|서울 강동아트센터 소극장 드림]] — similarity 0.81
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울대학교 제1파워플랜트__venue_11|서울대학교 제1파워플랜트]] <-> [[서울대학교 관악캠퍼스 제1파워플랜트__venue_1172|서울대학교 관악캠퍼스 제1파워플랜트]] — similarity 0.81
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터__venue_298|LG아트센터]] <-> [[LG아트센터 서울__venue_843|LG아트센터 서울]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울 LG시그니처홀__venue_738|LG아트센터 서울 LG시그니처홀]] <-> [[LG아트센터 시그니처 홀__venue_1427|LG아트센터 시그니처 홀]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울 U+스테이지__venue_122|LG아트센터 서울 U+스테이지]] <-> [[LG아트센터 서울 U+극장__venue_1790|LG아트센터 서울 U+극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LIG아트홀 강남__venue_449|LIG아트홀 강남]] <-> [[LIG아트홀__venue_472|LIG아트홀]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LIG아트홀__venue_472|LIG아트홀]] <-> [[LIG아트홀 부산__venue_491|LIG아트홀 부산]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LIG아트홀__venue_472|LIG아트홀]] <-> [[LIG아트홀 합정__venue_474|LIG아트홀 합정]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터__venue_288|강동아트센터]] <-> [[강동아트센터 한강__venue_1149|강동아트센터 한강]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터__venue_288|강동아트센터]] <-> [[강동아트센터소극장__venue_317|강동아트센터소극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 예악당__venue_2|국립국악원 예악당]] <-> [[국립부산국악원 연악당__venue_67|국립부산국악원 연악당]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장__venue_771|국립극장]] <-> [[국립무용극장__venue_1757|국립무용극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립정동극장__venue_740|국립정동극장]] <-> [[국립극장__venue_771|국립극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름 극장__venue_191|국립극장 달오름 극장]] <-> [[국립극장해오름극장__venue_380|국립극장해오름극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립정동극장 세실__venue_20|국립정동극장 세실]] <-> [[국립정동극장__venue_740|국립정동극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구문화예술회관 비슬홀__venue_152|대구문화예술회관 비슬홀]] <-> [[대구문화예술회관__venue_457|대구문화예술회관]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구문화예술회관 팔공홀__venue_69|대구문화예술회관 팔공홀]] <-> [[대구문화예술회관__venue_457|대구문화예술회관]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장__venue_218|대학로 예술극장]] <-> [[대학로 대극장__venue_628|대학로 대극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 쿼드극장__venue_102|대학로 쿼드극장]] <-> [[대학로 대극장__venue_628|대학로 대극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 아르코예술극장 대극장__venue_768|대학로 아르코예술극장 대극장]] <-> [[대학로 아르코대극장__venue_1924|대학로 아르코대극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장대극장__venue_21|대학로예술극장대극장]] <-> [[대학로 아르코예술극장 대극장__venue_768|대학로 아르코예술극장 대극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[동덕공연예술센터 코튼홀__venue_390|동덕공연예술센터 코튼홀]] <-> [[동덕여자대학교 공연예술센터 코튼홀__venue_2166|동덕여자대학교 공연예술센터 코튼홀]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마로니에공원 일대__venue_1217|마로니에공원 일대]] <-> [[마로니에공원__venue_1362|마로니에공원]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관__venue_282|부산문화회관]] <-> [[부산 금정문화회관__venue_790|부산 금정문화회관]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 금빛누리 홀__venue_731|부산 금정문화회관 금빛누리 홀]] <-> [[부산 금정문화회관 은빛샘홀__venue_752|부산 금정문화회관 은빛샘홀]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관대극장__venue_226|부산문화회관대극장]] <-> [[부산문화회관__venue_282|부산문화회관]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관 대극장__venue_296|부산문화회관 대극장]] <-> [[부산시민회관 대극장__venue_874|부산시민회관 대극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관 중극장__venue_39|부산문화회관 중극장]] <-> [[부산문화회관 중강당__venue_898|부산문화회관 중강당]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀대극장__venue_222|서강대메리홀대극장]] <-> [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀__venue_134|서강대메리홀]] <-> [[서강대메리홀대극장__venue_222|서강대메리홀대극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀__venue_112|서강대학교 메리홀]] <-> [[서강대메리홀__venue_134|서강대메리홀]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀__venue_134|서강대메리홀]] <-> [[서울 서강대메리홀__venue_626|서울 서강대메리홀]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀대극장__venue_222|서강대메리홀대극장]] <-> [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀__venue_112|서강대학교 메리홀]] <-> [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[성수아트홀__venue_166|성수아트홀]] <-> [[성암아트홀__venue_483|성암아트홀]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 대극장__venue_25|세종문화회관 대극장]] <-> [[세종문화회관 대강당__venue_581|세종문화회관 대강당]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장__venue_97|아르코 대극장]] <-> [[아르코 예술극장__venue_476|아르코 예술극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장__venue_97|아르코 대극장]] <-> [[아르코예술대극장__venue_306|아르코예술대극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 소극장__venue_54|아르코 소극장]] <-> [[아르코 예술극장__venue_476|아르코 예술극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 소극장__venue_54|아르코 소극장]] <-> [[아르코예술소극장__venue_305|아르코예술소극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] <-> [[아르코 예술극장__venue_476|아르코 예술극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술대극장__venue_306|아르코예술대극장]] <-> [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] <-> [[아르코예술극장 대극장 및 소극장__venue_2355|아르코예술극장 대극장 및 소극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안산문화예술의전당 별무리극장__venue_316|안산문화예술의전당 별무리극장]] <-> [[안산문화예술의전당 달맞이극장__venue_386|안산문화예술의전당 달맞이극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안산문화예술의전당 별무리극장__venue_316|안산문화예술의전당 별무리극장]] <-> [[안산문화예술의전당 해돋이극장__venue_343|안산문화예술의전당 해돋이극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[영화의 전당 하늘연극장__venue_114|영화의 전당 하늘연극장]] <-> [[영화의 전당 하늘연극장과 리허설룸__venue_792|영화의 전당 하늘연극장과 리허설룸]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유니버설아트센터__venue_813|유니버설아트센터]] <-> [[유니버설아트센터 대극장__venue_1192|유니버설아트센터 대극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[의정부예술의전당__venue_607|의정부예술의전당]] <-> [[의정부예술의전당 대극장__venue_1480|의정부예술의전당 대극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이화여대 삼성홀__venue_473|이화여대 삼성홀]] <-> [[이화여대 ECC 삼성홀__venue_1170|이화여대 ECC 삼성홀]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[임진각 평화누리공원__venue_2345|임진각 평화누리공원]] <-> [[임진각 평화누리공원 야외무대__venue_2361|임진각 평화누리공원 야외무대]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[전통공연창작마루__venue_828|전통공연창작마루]] <-> [[전통공연창작마루 광무대__venue_1497|전통공연창작마루 광무대]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정동극장__venue_1005|정동극장]] <-> [[정동국립극장__venue_1651|정동국립극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[제주 문화곳간 마루(상가리)__venue_1723|제주 문화곳간 마루(상가리)]] <-> [[제주 문화곳간 마루__venue_1937|제주 문화곳간 마루]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[제주문예회관 대극장__venue_365|제주문예회관 대극장]] <-> [[제주특별자치도문예회관 대극장__venue_1718|제주특별자치도문예회관 대극장]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 상암동 문화비축기지__venue_1936|서울 상암동 문화비축기지]] <-> [[서울 상암동 문화비축기지 T2 공연장__venue_2379|서울 상암동 문화비축기지 T2 공연장]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장소극장__venue_16|대학로 예술극장소극장]] <-> [[대학로 예술극장 대극장과 소극장__venue_997|대학로 예술극장 대극장과 소극장]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 대극장__venue_27|대학로예술극장 대극장]] <-> [[대학로 예술극장 대극장과 소극장__venue_997|대학로 예술극장 대극장과 소극장]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 소극장__venue_10|대학로예술극장 소극장]] <-> [[대학로 예술극장 대극장과 소극장__venue_997|대학로 예술극장 대극장과 소극장]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산금정문화회관 금빛누리홀__venue_635|부산금정문화회관 금빛누리홀]] <-> [[부산 금정문화회관 은빛샘홀__venue_752|부산 금정문화회관 은빛샘홀]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] <-> [[서강대 메리홀 대극장 및 소극장__venue_2199|서강대 메리홀 대극장 및 소극장]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] <-> [[서강대학교 메리홀 대극장·소극장__venue_1897|서강대학교 메리홀 대극장·소극장]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] <-> [[서강대 메리홀 대극장 및 소극장__venue_2199|서강대 메리홀 대극장 및 소극장]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] <-> [[서강대학교 메리홀 대극장·소극장__venue_1897|서강대학교 메리홀 대극장·소극장]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] <-> [[서강대학교 메리홀 대극장·소극장__venue_1897|서강대학교 메리홀 대극장·소극장]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장과 소극장__venue_62|아르코예술극장 대극장과 소극장]] <-> [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코예술극장 대극장 및 소극장__venue_2355|아르코예술극장 대극장 및 소극장]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코예술극장 대극장 및 소극장__venue_2355|아르코예술극장 대극장 및 소극장]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천종합문화예술회관 대공연장__venue_528|인천종합문화예술회관 대공연장]] <-> [[인천서구문화회관 대공연장__venue_2272|인천서구문화회관 대공연장]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집 KOUS__venue_909|한국문화의 집 KOUS]] <-> [[한국문화의집 코우스(KOUS)__venue_2066|한국문화의집 코우스(KOUS)]] — similarity 0.79
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울__venue_843|LG아트센터 서울]] <-> [[LG아트센터 서울 U+극장__venue_1790|LG아트센터 서울 U+극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터 소극장 드림__venue_501|강동아트센터 소극장 드림]] <-> [[강동아트센터 대극장__venue_536|강동아트센터 대극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터 소극장__venue_205|강동아트센터 소극장]] <-> [[강동아트센터 대극장 한강__venue_478|강동아트센터 대극장 한강]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양아람누리 새라새극장__venue_1496|고양아람누리 새라새극장]] <-> [[고양아람누리 아람극장__venue_1663|고양아람누리 아람극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양아람누리 아람음악당__venue_1206|고양아람누리 아람음악당]] <-> [[고양아람누리 아람극장__venue_1663|고양아람누리 아람극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 대극장연악당__venue_401|국립부산국악원 대극장연악당]] <-> [[국립국악원 대극장__venue_1181|국립국악원 대극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 하늘극장__venue_100|국립극장 하늘극장]] <-> [[국립극장 KB청소년하늘극장__venue_1041|국립극장 KB청소년하늘극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립아시아문화의전당 극장2__venue_281|국립아시아문화의전당 극장2]] <-> [[국립아시아문화전당__venue_1479|국립아시아문화전당]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립아시아문화전당 극장 2__venue_312|국립아시아문화전당 극장 2]] <-> [[국립아시아문화전당__venue_1479|국립아시아문화전당]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립아시아문화전당 예술극장__venue_1417|국립아시아문화전당 예술극장]] <-> [[국립아시아문화전당__venue_1479|국립아시아문화전당]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[금정문화회관 은빛샘홀__venue_864|금정문화회관 은빛샘홀]] <-> [[금정문화회관 금빛누리홀__venue_1644|금정문화회관 금빛누리홀]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당 앙상블홀__venue_110|대전예술의전당 앙상블홀]] <-> [[대전예술의전당 아트홀__venue_1763|대전예술의전당 아트홀]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술가의집__venue_1104|대학로 예술가의집]] <-> [[대학로 예술가의집 다목적홀__venue_1804|대학로 예술가의집 다목적홀]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 은빛샘홀__venue_752|부산 금정문화회관 은빛샘홀]] <-> [[부산 금정문화회관__venue_790|부산 금정문화회관]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 대강당__venue_471|부산 금정문화회관 대강당]] <-> [[부산문화회관 중강당__venue_898|부산문화회관 중강당]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관 중극장__venue_39|부산문화회관 중극장]] <-> [[부산 금정문화회관 대극장__venue_819|부산 금정문화회관 대극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서강대학교 메리홀 소극장__venue_260|서강대학교 메리홀 소극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] <-> [[서강대학교 메리홀 대극장__venue_195|서강대학교 메리홀 대극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 토월극장__venue_615|예술의 전당 토월극장]] <-> [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 자유소극장__venue_132|예술의 전당 자유소극장]] <-> [[예술의 전당 토월극장__venue_615|예술의 전당 토월극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] <-> [[예술의전당 오페라하우스__venue_323|예술의전당 오페라하우스]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 상암동 문화비축기지 T1 파빌리온__venue_2103|서울 상암동 문화비축기지 T1 파빌리온]] <-> [[서울 상암동 문화비축기지 T2 공연장__venue_2379|서울 상암동 문화비축기지 T2 공연장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LIG아트홀 강남__venue_449|LIG아트홀 강남]] <-> [[LIG아트홀 부산__venue_491|LIG아트홀 부산]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LIG아트홀 강남__venue_449|LIG아트홀 강남]] <-> [[LIG아트홀 합정__venue_474|LIG아트홀 합정]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LIG아트홀 합정__venue_474|LIG아트홀 합정]] <-> [[LIG아트홀 부산__venue_491|LIG아트홀 부산]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강남구 M극장__venue_1973|강남구 M극장]] <-> [[강남구 개포동 M극장__venue_2187|강남구 개포동 M극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립 해오름극장__venue_118|국립 해오름극장]] <-> [[국립극장 달오름극장__venue_163|국립극장 달오름극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립 해오름극장__venue_118|국립 해오름극장]] <-> [[국립극장 별오름극장__venue_349|국립극장 별오름극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 예악당__venue_2|국립국악원 예악당]] <-> [[국립국악원 우면당__venue_518|국립국악원 우면당]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 우면당__venue_518|국립국악원 우면당]] <-> [[국립국악원 예약당__venue_1796|국립국악원 예약당]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름__venue_119|국립극장 달오름]] <-> [[국립극장 별오름극장__venue_349|국립극장 별오름극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장__venue_24|국립극장 해오름극장]] <-> [[국립극장 달오름__venue_119|국립극장 달오름]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름극장__venue_163|국립극장 달오름극장]] <-> [[국립극장 소극장__venue_2160|국립극장 소극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름극장__venue_163|국립극장 달오름극장]] <-> [[국립극장 해오름__venue_180|국립극장 해오름]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 별오름극장__venue_349|국립극장 별오름극장]] <-> [[국립극장 소극장__venue_2160|국립극장 소극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름__venue_180|국립극장 해오름]] <-> [[국립극장 별오름극장__venue_349|국립극장 별오름극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장__venue_24|국립극장 해오름극장]] <-> [[국립극장 소극장__venue_2160|국립극장 소극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립현대미술관__venue_300|국립현대미술관]] <-> [[국립현대미술관 과천관__venue_1003|국립현대미술관 과천관]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립현대미술관__venue_300|국립현대미술관]] <-> [[국립현대미술관 서울관__venue_367|국립현대미술관 서울관]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구예술발전소__venue_56|대구예술발전소]] <-> [[대구예술발전소 수창홀__venue_80|대구예술발전소 수창홀]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당__venue_137|대전예술의전당]] <-> [[대전예술의전당 대극장__venue_348|대전예술의전당 대극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당__venue_137|대전예술의전당]] <-> [[대전예술의전당 아트홀__venue_1763|대전예술의전당 아트홀]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 대극장__venue_27|대학로예술극장 대극장]] <-> [[대학로 대극장__venue_628|대학로 대극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장대극장__venue_21|대학로예술극장대극장]] <-> [[대학로 예술극장__venue_218|대학로 예술극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장소극장__venue_204|대학로예술극장소극장]] <-> [[대학로 예술극장__venue_218|대학로 예술극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로 예술극장소극장__venue_16|대학로 예술극장소극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로예술극장 대극장__venue_27|대학로예술극장 대극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로예술극장 소극장__venue_10|대학로예술극장 소극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] <-> [[서강대 메리홀__venue_172|서강대 메리홀]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀__venue_172|서강대 메리홀]] <-> [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종 M시어터__venue_1246|세종 M시어터]] <-> [[세종문화회관 M시어터__venue_1368|세종문화회관 M시어터]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 M씨어터__venue_680|세종문화회관 M씨어터]] <-> [[세종 M씨어터__venue_1046|세종 M씨어터]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코 대극장__venue_97|아르코 대극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장__venue_97|아르코 대극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코 소극장__venue_54|아르코 소극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장__venue_476|아르코 예술극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코 예술극장__venue_476|아르코 예술극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] <-> [[아르코 예술극장__venue_476|아르코 예술극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장__venue_476|아르코 예술극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코‧대학로예술극장__venue_642|아르코‧대학로예술극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술대극장__venue_306|아르코예술대극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술소극장__venue_305|아르코예술소극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코예술극장__venue_40|아르코예술극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코예술극장__venue_40|아르코예술극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코예술소극장__venue_305|아르코예술소극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술대극장__venue_306|아르코예술대극장]] <-> [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술대극장__venue_306|아르코예술대극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집KOUS__venue_45|한국문화의 집KOUS]] <-> [[한국문화의 집__venue_955|한국문화의 집]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[해운대문화회관__venue_328|해운대문화회관]] <-> [[해운대문화회관 대극장__venue_786|해운대문화회관 대극장]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[해운대문화회관__venue_328|해운대문화회관]] <-> [[해운대문화회관 해운홀__venue_780|해운대문화회관 해운홀]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립아시아문화전당 극장1__venue_351|국립아시아문화전당 극장1]] <-> [[국립아시아문화전당 예술극장 극장2__venue_1305|국립아시아문화전당 예술극장 극장2]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터 대극장 한강__venue_478|강동아트센터 대극장 한강]] <-> [[강동아트센터 소극장 드림__venue_501|강동아트센터 소극장 드림]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장소극장__venue_16|대학로 예술극장소극장]] <-> [[대학로 아르코예술극장 대극장__venue_768|대학로 아르코예술극장 대극장]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 소극장__venue_10|대학로예술극장 소극장]] <-> [[대학로 아르코예술극장 대극장__venue_768|대학로 아르코예술극장 대극장]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산시민공원 백산홀__venue_145|부산시민공원 백산홀]] <-> [[부산 시민공원 사랑채(백산홀)__venue_745|부산 시민공원 사랑채(백산홀)]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종M씨어터__venue_28|세종M씨어터]] <-> [[세종 M시어터__venue_1246|세종 M시어터]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종S씨어터__venue_101|세종S씨어터]] <-> [[세종 M씨어터__venue_1046|세종 M씨어터]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종엠씨어터__venue_38|세종엠씨어터]] <-> [[세종 M씨어터__venue_1046|세종 M씨어터]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종S씨어터__venue_101|세종S씨어터]] <-> [[세종 S시어터__venue_647|세종 S시어터]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 M시어터 중극장__venue_41|세종문화회관 M시어터 중극장]] <-> [[세종문화회관 M씨어터__venue_680|세종문화회관 M씨어터]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장__venue_97|아르코 대극장]] <-> [[아르코소극장__venue_269|아르코소극장]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 소극장__venue_54|아르코 소극장]] <-> [[아르코대극장__venue_256|아르코대극장]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장__venue_476|아르코 예술극장]] <-> [[아르코극장__venue_648|아르코극장]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술대극장__venue_306|아르코예술대극장]] <-> [[아르코극장__venue_648|아르코극장]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술소극장__venue_305|아르코예술소극장]] <-> [[아르코극장__venue_648|아르코극장]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코대극장__venue_256|아르코대극장]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코소극장__venue_269|아르코소극장]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장과 소극장__venue_62|아르코예술극장 대극장과 소극장]] <-> [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장과 소극장__venue_62|아르코예술극장 대극장과 소극장]] <-> [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장과 소극장__venue_62|아르코예술극장 대극장과 소극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천문화예술회관 대공연장__venue_136|인천문화예술회관 대공연장]] <-> [[인천문화예술회관 대전시실__venue_2105|인천문화예술회관 대전시실]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천문화예술회관 소공연장__venue_880|인천문화예술회관 소공연장]] <-> [[인천서구문화회관 대공연장__venue_2272|인천서구문화회관 대공연장]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집 코우스__venue_865|한국문화의집 코우스]] <-> [[한국문화의집 코우스(KOUS)__venue_2066|한국문화의집 코우스(KOUS)]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집KOUS__venue_1977|한국문화의집KOUS]] <-> [[한국문화의집 코우스(KOUS)__venue_2066|한국문화의집 코우스(KOUS)]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 상암동 문화비축기지__venue_1936|서울 상암동 문화비축기지]] <-> [[서울 상암동 문화비축기지 T1 파빌리온__venue_2103|서울 상암동 문화비축기지 T1 파빌리온]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[ACC 예술극장 극장1__venue_1436|ACC 예술극장 극장1]] <-> [[ACC 예술극장2__venue_2188|ACC 예술극장2]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장__venue_24|국립극장 해오름극장]] <-> [[국립극장 해오름 무대__venue_1771|국립극장 해오름 무대]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[노원문화예술회관__venue_339|노원문화예술회관]] <-> [[노원문화예술회관 대공연장__venue_414|노원문화예술회관 대공연장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[문화예술회관 팔공홀__venue_3|문화예술회관 팔공홀]] <-> [[문화예술회관 대공연장__venue_293|문화예술회관 대공연장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[사이타마 예술극장__venue_1928|사이타마 예술극장]] <-> [[사이타마예술극장 소극장__venue_2154|사이타마예술극장 소극장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 예술의전당 콘서트홀__venue_1283|서울 예술의전당 콘서트홀]] <-> [[서울 예술의전당__venue_1359|서울 예술의전당]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[수원SK아트리움 소공연장__venue_1051|수원SK아트리움 소공연장]] <-> [[수원SK아트리움__venue_2298|수원SK아트리움]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술소극장__venue_305|아르코예술소극장]] <-> [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] <-> [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 자유소극장__venue_22|예술의전당 자유소극장]] <-> [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[울산문화예술회관 대공연장__venue_1863|울산문화예술회관 대공연장]] <-> [[울산문화예술회관__venue_2363|울산문화예술회관]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[울산문화예술회관 소공연장__venue_1942|울산문화예술회관 소공연장]] <-> [[울산문화예술회관__venue_2363|울산문화예술회관]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[웃는얼굴아트센터__venue_243|웃는얼굴아트센터]] <-> [[웃는얼굴 아트센터 청룡홀__venue_440|웃는얼굴 아트센터 청룡홀]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유니버설아트센터 대극장__venue_1192|유니버설아트센터 대극장]] <-> [[유니버설 아트센터__venue_2225|유니버설 아트센터]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천문화예술회관 대공연장__venue_136|인천문화예술회관 대공연장]] <-> [[인천문화예술회관__venue_464|인천문화예술회관]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천문화예술회관__venue_464|인천문화예술회관]] <-> [[인천문화예술회관 대전시실__venue_2105|인천문화예술회관 대전시실]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천문화예술회관__venue_464|인천문화예술회관]] <-> [[인천문화예술회관 소공연장__venue_880|인천문화예술회관 소공연장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[플랫폼엘 플랫폼 라이브__venue_901|플랫폼엘 플랫폼 라이브]] <-> [[플랫폼엘 라이브홀__venue_1703|플랫폼엘 라이브홀]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] <-> [[서강대학교 메리홀 대극장과 소극장__venue_983|서강대학교 메리홀 대극장과 소극장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 대극장과 소극장__venue_983|서강대학교 메리홀 대극장과 소극장]] <-> [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] <-> [[서강대학교 메리홀 대극장과 소극장__venue_983|서강대학교 메리홀 대극장과 소극장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 강동아트센터 대극장 한강__venue_1301|서울 강동아트센터 대극장 한강]] <-> [[서울 충무아트센터 대극장__venue_2223|서울 충무아트센터 대극장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장과 소극장__venue_62|아르코예술극장 대극장과 소극장]] <-> [[아르코 대극장 및 소극장__venue_239|아르코 대극장 및 소극장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] <-> [[아르코예술극장 대극장 및 소극장__venue_2355|아르코예술극장 대극장 및 소극장]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[영화의전당 하늘연극장__venue_259|영화의전당 하늘연극장]] <-> [[영화의 전당 하늘연극장과 리허설룸__venue_792|영화의 전당 하늘연극장과 리허설룸]] — similarity 0.76
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울__venue_843|LG아트센터 서울]] <-> [[LG 아트센터__venue_1092|LG 아트센터]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG 아트센터 서울__venue_42|LG 아트센터 서울]] <-> [[LG아트센터__venue_298|LG아트센터]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG 아트센터 서울__venue_42|LG 아트센터 서울]] <-> [[LG아트센터 서울 U+극장__venue_1790|LG아트센터 서울 U+극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울 U+ Stage__venue_1180|LG아트센터 서울 U+ Stage]] <-> [[LG아트센터 서울 U+극장__venue_1790|LG아트센터 서울 U+극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터__venue_288|강동아트센터]] <-> [[강동아트센터 대극장__venue_536|강동아트센터 대극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터 소극장__venue_205|강동아트센터 소극장]] <-> [[강동아트센터__venue_288|강동아트센터]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[경기아트센터__venue_189|경기아트센터]] <-> [[경기아트센터 대극장__venue_892|경기아트센터 대극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[경기아트센터__venue_189|경기아트센터]] <-> [[경기아트센터 소극장__venue_845|경기아트센터 소극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양아람누리 아람극장__venue_1663|고양아람누리 아람극장]] <-> [[고양 아람누리 새라새극장__venue_2089|고양 아람누리 새라새극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립 해오름극장__venue_118|국립 해오름극장]] <-> [[국립극장 해오름__venue_180|국립극장 해오름]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국악원 예악당__venue_258|국악원 예악당]] <-> [[국립국악원 예약당__venue_1796|국립국악원 예약당]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전문화예술의전당 앙상블 홀__venue_546|대전문화예술의전당 앙상블 홀]] <-> [[대전문화예술의전당__venue_610|대전문화예술의전당]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 대극장__venue_628|대학로 대극장]] <-> [[대학로 성균소극장__venue_1383|대학로 성균소극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 대극장__venue_628|대학로 대극장]] <-> [[대학로 아르코극장__venue_1164|대학로 아르코극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 아르코예술극장 대극장__venue_768|대학로 아르코예술극장 대극장]] <-> [[대학로 아르코극장__venue_1164|대학로 아르코극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 아르코예술극장 대극장__venue_768|대학로 아르코예술극장 대극장]] <-> [[대학로 예술극장 대극장과 소극장__venue_997|대학로 예술극장 대극장과 소극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술가의집 다목적홀__venue_1804|대학로 예술가의집 다목적홀]] <-> [[대학로 예술가의 집__venue_2387|대학로 예술가의 집]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술가의집__venue_1104|대학로 예술가의집]] <-> [[대학로 예술가의집 세미나1실__venue_1254|대학로 예술가의집 세미나1실]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 쿼드극장__venue_102|대학로 쿼드극장]] <-> [[대학로 예술극장__venue_218|대학로 예술극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로극장 쿼드__venue_1|대학로극장 쿼드]] <-> [[대학로 쿼드극장__venue_102|대학로 쿼드극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대한민국예술인센터__venue_1993|대한민국예술인센터]] <-> [[대한민국예술인센터 로운아트홀__venue_2182|대한민국예술인센터 로운아트홀]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[동숭아트센터__venue_433|동숭아트센터]] <-> [[동숭아트센터 동숭홀__venue_1076|동숭아트센터 동숭홀]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[두산아트센터__venue_265|두산아트센터]] <-> [[두산아트센터 연강홀__venue_1197|두산아트센터 연강홀]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마로니에 공원__venue_507|마로니에 공원]] <-> [[마로니에공원 일대__venue_1217|마로니에공원 일대]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마포아트센터__venue_519|마포아트센터]] <-> [[마포아트센터 대극장__venue_1162|마포아트센터 대극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관__venue_790|부산 금정문화회관]] <-> [[부산 금정문화회관 금빛누리홀__venue_1552|부산 금정문화회관 금빛누리홀]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관__venue_282|부산문화회관]] <-> [[부산문화회관 대극장__venue_296|부산문화회관 대극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관__venue_282|부산문화회관]] <-> [[부산문화회관 중강당__venue_898|부산문화회관 중강당]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관 중극장__venue_39|부산문화회관 중극장]] <-> [[부산문화회관__venue_282|부산문화회관]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산민주공원 소극장__venue_685|부산민주공원 소극장]] <-> [[부산민주공원__venue_744|부산민주공원]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산시민공원 백산홀__venue_145|부산시민공원 백산홀]] <-> [[부산시민공원__venue_1499|부산시민공원]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산시민회관 대극장__venue_874|부산시민회관 대극장]] <-> [[부산시민회관__venue_1613|부산시민회관]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산시민회관 연습실__venue_1540|부산시민회관 연습실]] <-> [[부산시민회관__venue_1613|부산시민회관]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀__venue_172|서강대 메리홀]] <-> [[서강대메리홀대극장__venue_222|서강대메리홀대극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀__venue_172|서강대 메리홀]] <-> [[서울 서강대메리홀__venue_626|서울 서강대메리홀]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서강대메리홀__venue_134|서강대메리홀]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀__venue_134|서강대메리홀]] <-> [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관__venue_570|세종문화회관]] <-> [[세종문화회관 대강당__venue_581|세종문화회관 대강당]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 대극장__venue_25|세종문화회관 대극장]] <-> [[세종문화회관__venue_570|세종문화회관]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 엠극장__venue_89|세종문화회관 엠극장]] <-> [[세종문화회관__venue_570|세종문화회관]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코 대극장 및 소극장__venue_239|아르코 대극장 및 소극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코대극장__venue_256|아르코대극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코대극장__venue_256|아르코대극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코소극장__venue_269|아르코소극장]] <-> [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코소극장__venue_269|아르코소극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아양아트센터__venue_85|아양아트센터]] <-> [[아양아트센터 아양홀__venue_120|아양아트센터 아양홀]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안산문화예술의전당__venue_297|안산문화예술의전당]] <-> [[안산문화예술의전당 달맞이극장__venue_386|안산문화예술의전당 달맞이극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안산문화예술의전당__venue_297|안산문화예술의전당]] <-> [[안산문화예술의전당 별무리극장__venue_316|안산문화예술의전당 별무리극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안산문화예술의전당__venue_297|안산문화예술의전당]] <-> [[안산문화예술의전당 해돋이극장__venue_343|안산문화예술의전당 해돋이극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[양천문화회관 대극장__venue_911|양천문화회관 대극장]] <-> [[양천문화회관__venue_2123|양천문화회관]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[엘지아트센터U+극장__venue_58|엘지아트센터U+극장]] <-> [[엘지아트센터__venue_407|엘지아트센터]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 토월극장__venue_615|예술의 전당 토월극장]] <-> [[예술의 전당 오페라 극장__venue_1143|예술의 전당 오페라 극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 자유소극장__venue_132|예술의 전당 자유소극장]] <-> [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라하우스__venue_323|예술의전당 오페라하우스]] <-> [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라하우스__venue_323|예술의전당 오페라하우스]] <-> [[예술의전당 오페라 극장__venue_1134|예술의전당 오페라 극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[제주문예회관대극장__venue_124|제주문예회관대극장]] <-> [[제주특별자치도문예회관 대극장__venue_1718|제주특별자치도문예회관 대극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[제주아트센터__venue_8|제주아트센터]] <-> [[제주아트센터 대극장__venue_1934|제주아트센터 대극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[춘천인형극장 대극장__venue_147|춘천인형극장 대극장]] <-> [[춘천인형극장__venue_199|춘천인형극장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[충무아트센터 대극장__venue_946|충무아트센터 대극장]] <-> [[충무아트센터__venue_2337|충무아트센터]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집__venue_2262|한국문화의집]] <-> [[한국문화의집 공연장__venue_2304|한국문화의집 공연장]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집 코우스__venue_865|한국문화의집 코우스]] <-> [[한국문화의집__venue_2262|한국문화의집]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집KOUS__venue_1977|한국문화의집KOUS]] <-> [[한국문화의집__venue_2262|한국문화의집]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집(KOUS)__venue_543|한국문화의집(KOUS)]] <-> [[한국문화재재단 한국문화의집(KOUS)__venue_1844|한국문화재재단 한국문화의집(KOUS)]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 대극장__venue_366|국립부산국악원 대극장]] <-> [[국립부산국악원 소극장(예지당)__venue_2212|국립부산국악원 소극장(예지당)]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술가의집 다목적홀__venue_1804|대학로 예술가의집 다목적홀]] <-> [[대학로 예술가의 집 3층__venue_2251|대학로 예술가의 집 3층]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장대극장__venue_21|대학로예술극장대극장]] <-> [[대학로 예술극장 대극장과 소극장__venue_997|대학로 예술극장 대극장과 소극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장소극장__venue_204|대학로예술극장소극장]] <-> [[대학로 예술극장 대극장과 소극장__venue_997|대학로 예술극장 대극장과 소극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 대강당__venue_471|부산 금정문화회관 대강당]] <-> [[부산 금정문화회관 은빛샘홀__venue_752|부산 금정문화회관 은빛샘홀]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 은빛샘홀__venue_752|부산 금정문화회관 은빛샘홀]] <-> [[부산 금정문화회관 대극장__venue_819|부산 금정문화회관 대극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서강대 메리홀 대극장 및 소극장__venue_2199|서강대 메리홀 대극장 및 소극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] <-> [[서강대 메리홀 대극장 및 소극장__venue_2199|서강대 메리홀 대극장 및 소극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서강대학교 메리홀 대극장·소극장__venue_1897|서강대학교 메리홀 대극장·소극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] <-> [[서강대학교 메리홀 대극장·소극장__venue_1897|서강대학교 메리홀 대극장·소극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코예술극장 대극장 및 소극장__venue_2355|아르코예술극장 대극장 및 소극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] <-> [[아르코예술극장 대극장 및 소극장__venue_2355|아르코예술극장 대극장 및 소극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] <-> [[아르코예술극장 대극장 및 소극장__venue_2355|아르코예술극장 대극장 및 소극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장과 소극장__venue_62|아르코예술극장 대극장과 소극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 CJ 토월극장__venue_1089|예술의 전당 CJ 토월극장]] <-> [[예술의 전당 오페라 극장__venue_1143|예술의 전당 오페라 극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천문화예술회관 대공연장__venue_136|인천문화예술회관 대공연장]] <-> [[인천종합예술회관 야외공연장__venue_544|인천종합예술회관 야외공연장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천종합예술회관 야외공연장__venue_544|인천종합예술회관 야외공연장]] <-> [[인천문화예술회관 소공연장__venue_880|인천문화예술회관 소공연장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집KOUS__venue_45|한국문화의 집KOUS]] <-> [[한국문화의집 코우스(KOUS)__venue_2066|한국문화의집 코우스(KOUS)]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터 대극장__venue_536|강동아트센터 대극장]] <-> [[강동아트센터 한강__venue_1149|강동아트센터 한강]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터 소극장__venue_205|강동아트센터 소극장]] <-> [[강동아트센터 한강__venue_1149|강동아트센터 한강]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립 해오름극장__venue_118|국립 해오름극장]] <-> [[국립극장 달오름 극장__venue_191|국립극장 달오름 극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 예악당__venue_2|국립국악원 예악당]] <-> [[국립부산국악원연악당__venue_448|국립부산국악원연악당]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 KB하늘극장__venue_396|국립극장 KB하늘극장]] <-> [[국립극장 소극장__venue_2160|국립극장 소극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름__venue_119|국립극장 달오름]] <-> [[국립극장 해오름 극장__venue_1029|국립극장 해오름 극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름__venue_119|국립극장 달오름]] <-> [[국립극장 해오름 무대__venue_1771|국립극장 해오름 무대]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름 극장__venue_191|국립극장 달오름 극장]] <-> [[국립극장 소극장__venue_2160|국립극장 소극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름__venue_180|국립극장 해오름]] <-> [[국립극장 달오름 극장__venue_191|국립극장 달오름 극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 하늘극장__venue_100|국립극장 하늘극장]] <-> [[국립극장 달오름극장__venue_163|국립극장 달오름극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 하늘극장__venue_100|국립극장 하늘극장]] <-> [[국립극장 별오름극장__venue_349|국립극장 별오름극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름 극장__venue_1029|국립극장 해오름 극장]] <-> [[국립극장 소극장__venue_2160|국립극장 소극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장__venue_24|국립극장 해오름극장]] <-> [[국립극장 하늘극장__venue_100|국립극장 하늘극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[군산예술의전당__venue_1680|군산예술의전당]] <-> [[군산예술의전당 대공연장__venue_1911|군산예술의전당 대공연장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당아트홀__venue_164|대전예술의전당아트홀]] <-> [[대전문화예술의전당__venue_610|대전문화예술의전당]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당 앙상블홀__venue_110|대전예술의전당 앙상블홀]] <-> [[대전예술의전당__venue_137|대전예술의전당]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 대극장__venue_27|대학로예술극장 대극장]] <-> [[대학로 예술극장__venue_218|대학로 예술극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 소극장__venue_10|대학로예술극장 소극장]] <-> [[대학로 예술극장__venue_218|대학로 예술극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관대극장__venue_226|부산문화회관대극장]] <-> [[부산시민회관 대극장__venue_874|부산시민회관 대극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] <-> [[서강대 메리 홀__venue_329|서강대 메리 홀]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리 홀__venue_329|서강대 메리 홀]] <-> [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울남산국악당__venue_48|서울남산국악당]] <-> [[서울남산국악당 야외마당__venue_1507|서울남산국악당 야외마당]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장__venue_97|아르코 대극장]] <-> [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장__venue_476|아르코 예술극장]] <-> [[아르코‧대학로예술극장__venue_642|아르코‧대학로예술극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코 예술극장__venue_476|아르코 예술극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코 예술극장__venue_476|아르코 예술극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술대극장__venue_306|아르코예술대극장]] <-> [[아르코‧대학로예술극장__venue_642|아르코‧대학로예술극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술소극장__venue_305|아르코예술소극장]] <-> [[아르코‧대학로예술극장__venue_642|아르코‧대학로예술극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코예술소극장__venue_305|아르코예술소극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코예술대극장__venue_306|아르코예술대극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술대극장__venue_306|아르코예술대극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[천안예술의전당 대공연장__venue_90|천안예술의전당 대공연장]] <-> [[천안예술의전당__venue_146|천안예술의전당]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집 KOUS__venue_909|한국문화의 집 KOUS]] <-> [[한국문화의 집__venue_955|한국문화의 집]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[해운대문화회관__venue_328|해운대문화회관]] <-> [[해운대 문화회관 해운홀__venue_730|해운대 문화회관 해운홀]] — similarity 0.74
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 대극장연악당__venue_401|국립부산국악원 대극장연악당]] <-> [[국립부산국악원 소극장(예지당)__venue_2212|국립부산국악원 소극장(예지당)]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 대극장__venue_195|서강대학교 메리홀 대극장]] <-> [[서강대 메리홀 대극장 및 소극장__venue_2199|서강대 메리홀 대극장 및 소극장]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 소극장__venue_260|서강대학교 메리홀 소극장]] <-> [[서강대 메리홀 대극장 및 소극장__venue_2199|서강대 메리홀 대극장 및 소극장]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터소극장 드림__venue_416|강동아트센터소극장 드림]] <-> [[강동아트센터 대극장__venue_536|강동아트센터 대극장]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터소극장__venue_317|강동아트센터소극장]] <-> [[강동아트센터 대극장 한강__venue_478|강동아트센터 대극장 한강]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[구미문화예술회관 대공연장__venue_384|구미문화예술회관 대공연장]] <-> [[구미시문화예술회관__venue_574|구미시문화예술회관]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 KB청소년하늘극장__venue_1041|국립극장 KB청소년하늘극장]] <-> [[국립극장 소극장__venue_2160|국립극장 소극장]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름 극장__venue_191|국립극장 달오름 극장]] <-> [[국립극장 해오름 무대__venue_1771|국립극장 해오름 무대]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립중앙박물관 용 극장__venue_875|국립중앙박물관 용 극장]] <-> [[국립박물관 극장 용__venue_2193|국립박물관 극장 용]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 연악당__venue_67|국립부산국악원 연악당]] <-> [[국립부산국악원 대극장__venue_366|국립부산국악원 대극장]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구수성아트피아__venue_290|대구수성아트피아]] <-> [[대구 수성아트피아(용지홀)__venue_547|대구 수성아트피아(용지홀)]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당 대극장__venue_348|대전예술의전당 대극장]] <-> [[대전예술의전당 아트홀__venue_1763|대전예술의전당 아트홀]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당 앙상블홀__venue_110|대전예술의전당 앙상블홀]] <-> [[대전예술의전당아트홀__venue_164|대전예술의전당아트홀]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마포아트센터 아트홀맥__venue_167|마포아트센터 아트홀맥]] <-> [[마포아트센터 플레이맥__venue_1205|마포아트센터 플레이맥]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] <-> [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀대극장__venue_222|서강대메리홀대극장]] <-> [[서강대학교 메리홀 소극장__venue_260|서강대학교 메리홀 소극장]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 강남구__venue_1434|서울 강남구]] <-> [[서울 중구__venue_2309|서울 중구]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[언더스탠드에비뉴__venue_178|언더스탠드에비뉴]] <-> [[언더스탠드에비뉴 아트스탠드__venue_776|언더스탠드에비뉴 아트스탠드]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[영등포아트홀__venue_53|영등포아트홀]] <-> [[영산아트홀__venue_1203|영산아트홀]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] <-> [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 자유소극장__venue_132|예술의 전당 자유소극장]] <-> [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] <-> [[예술의 전당 토월극장__venue_615|예술의 전당 토월극장]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 자유소극장__venue_22|예술의전당 자유소극장]] <-> [[예술의 전당 토월극장__venue_615|예술의 전당 토월극장]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] <-> [[예술의전당 오페라 극장__venue_1134|예술의전당 오페라 극장]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 자유소극장__venue_22|예술의전당 자유소극장]] <-> [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이음아트홀__venue_2328|이음아트홀]] <-> [[이음아트센터__venue_2330|이음아트센터]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이화여대 삼성홀__venue_473|이화여대 삼성홀]] <-> [[이화여대 ECC 내 삼성홀__venue_606|이화여대 ECC 내 삼성홀]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화재재단 한국문화의집(KOUS)__venue_1844|한국문화재재단 한국문화의집(KOUS)]] <-> [[한국문화의 집(KOUS)__venue_2015|한국문화의 집(KOUS)]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[해운대문화회관 해운홀__venue_780|해운대문화회관 해운홀]] <-> [[해운대문화회관 대극장__venue_786|해운대문화회관 대극장]] — similarity 0.73
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울 U+스테이지__venue_122|LG아트센터 서울 U+스테이지]] <-> [[LG아트센터 서울__venue_843|LG아트센터 서울]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터소극장 드림__venue_416|강동아트센터소극장 드림]] <-> [[강동아트센터 대극장 한강__venue_478|강동아트센터 대극장 한강]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장소극장__venue_204|대학로예술극장소극장]] <-> [[대학로 아르코예술극장 대극장__venue_768|대학로 아르코예술극장 대극장]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술가의집 세미나1실__venue_1254|대학로 예술가의집 세미나1실]] <-> [[대학로 예술가의 집__venue_2387|대학로 예술가의 집]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 금빛누리 홀__venue_731|부산 금정문화회관 금빛누리 홀]] <-> [[부산 금정문화회관__venue_790|부산 금정문화회관]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 강동아트센터 대극장 한강__venue_1301|서울 강동아트센터 대극장 한강]] <-> [[서울 강동아트센터__venue_1755|서울 강동아트센터]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 강동아트센터 소극장 드림__venue_1389|서울 강동아트센터 소극장 드림]] <-> [[서울 강동아트센터__venue_1755|서울 강동아트센터]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 대극장__venue_25|세종문화회관 대극장]] <-> [[세종문화회관 M시어터 중극장__venue_41|세종문화회관 M시어터 중극장]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 M시어터 중극장__venue_41|세종문화회관 M시어터 중극장]] <-> [[세종문화회관 엠극장__venue_89|세종문화회관 엠극장]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 CJ토월극장__venue_149|예술의 전당 CJ토월극장]] <-> [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 자유소극장__venue_132|예술의 전당 자유소극장]] <-> [[예술의 전당 CJ토월극장__venue_149|예술의 전당 CJ토월극장]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 자유소극장__venue_132|예술의 전당 자유소극장]] <-> [[예술의 전당 오페라 극장__venue_1143|예술의 전당 오페라 극장]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라하우스__venue_323|예술의전당 오페라하우스]] <-> [[예술의 전당 오페라 극장__venue_1143|예술의 전당 오페라 극장]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라 극장__venue_1134|예술의전당 오페라 극장]] <-> [[예술의전당 CJ 토월극장__venue_1196|예술의전당 CJ 토월극장]] — similarity 0.72
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 대극장__venue_1181|국립국악원 대극장]] <-> [[국립국악원__venue_1303|국립국악원]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 예악당__venue_2|국립국악원 예악당]] <-> [[국립국악원__venue_1303|국립국악원]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원__venue_1303|국립국악원]] <-> [[국립국악원 예약당__venue_1796|국립국악원 예약당]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 우면당__venue_518|국립국악원 우면당]] <-> [[국립국악원__venue_1303|국립국악원]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름극장__venue_163|국립극장 달오름극장]] <-> [[국립극장 해오름극장 및 달오름극장__venue_1512|국립극장 해오름극장 및 달오름극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장__venue_24|국립극장 해오름극장]] <-> [[국립극장 해오름극장 및 달오름극장__venue_1512|국립극장 해오름극장 및 달오름극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로극장쿼드__venue_104|대학로극장쿼드]] <-> [[대학로 대극장__venue_628|대학로 대극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로 대극장__venue_628|대학로 대극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술가의집 세미나1실__venue_1254|대학로 예술가의집 세미나1실]] <-> [[대학로 예술가의 집 3층__venue_2251|대학로 예술가의 집 3층]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로극장쿼드__venue_104|대학로극장쿼드]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 대강당__venue_471|부산 금정문화회관 대강당]] <-> [[부산 금정문화회관 금빛누리홀__venue_1552|부산 금정문화회관 금빛누리홀]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 대극장__venue_819|부산 금정문화회관 대극장]] <-> [[부산 금정문화회관 금빛누리홀__venue_1552|부산 금정문화회관 금빛누리홀]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서강대학교 메리홀 대극장과 소극장__venue_983|서강대학교 메리홀 대극장과 소극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] <-> [[서강대학교 메리홀 대극장과 소극장__venue_983|서강대학교 메리홀 대극장과 소극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서구문화회관__venue_4|서구문화회관]] <-> [[서부문화예술회관__venue_1403|서부문화예술회관]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종 S시어터__venue_647|세종 S시어터]] <-> [[세종 M씨어터__venue_1046|세종 M씨어터]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 M시어터 중극장__venue_41|세종문화회관 M시어터 중극장]] <-> [[세종문화회관 세종M씨어터__venue_2195|세종문화회관 세종M씨어터]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코 대극장__venue_97|아르코 대극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장 및 소극장__venue_239|아르코 대극장 및 소극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코 소극장__venue_54|아르코 소극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코대극장__venue_256|아르코대극장]] <-> [[아르코 예술극장__venue_476|아르코 예술극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코소극장__venue_269|아르코소극장]] <-> [[아르코 예술극장__venue_476|아르코 예술극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코대극장__venue_256|아르코대극장]] <-> [[아르코예술소극장__venue_305|아르코예술소극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코소극장__venue_269|아르코소극장]] <-> [[아르코예술대극장__venue_306|아르코예술대극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] <-> [[아르코예술극장 대극장 및 소극장__venue_2355|아르코예술극장 대극장 및 소극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아트나인(이수역 메가박스)__venue_2203|아트나인(이수역 메가박스)]] <-> [[아트나인(메가박스 이수역)__venue_2267|아트나인(메가박스 이수역)]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술공간 이아__venue_1725|예술공간 이아]] <-> [[예술공간 서울__venue_2249|예술공간 서울]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천종합문화예술회관 대공연장__venue_528|인천종합문화예술회관 대공연장]] <-> [[인천문화예술회관 대전시실__venue_2105|인천문화예술회관 대전시실]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울 U+스테이지__venue_122|LG아트센터 서울 U+스테이지]] <-> [[LG아트센터 서울 U+ Stage__venue_1180|LG아트센터 서울 U+ Stage]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양아람누리__venue_1200|고양아람누리]] <-> [[고양아람누리 아람극장__venue_1663|고양아람누리 아람극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름__venue_119|국립극장 달오름]] <-> [[국립극장해오름극장__venue_380|국립극장해오름극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장해오름극장__venue_380|국립극장해오름극장]] <-> [[국립극장 소극장__venue_2160|국립극장 소극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[금정문화회관 은빛샘홀__venue_864|금정문화회관 은빛샘홀]] <-> [[금정문화회관__venue_2069|금정문화회관]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장대극장__venue_21|대학로예술극장대극장]] <-> [[대학로 대극장__venue_628|대학로 대극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장__venue_218|대학로 예술극장]] <-> [[대학로 성균소극장__venue_1383|대학로 성균소극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 쿼드극장__venue_102|대학로 쿼드극장]] <-> [[대학로 성균소극장__venue_1383|대학로 성균소극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장__venue_218|대학로 예술극장]] <-> [[대학로 아르코극장__venue_1164|대학로 아르코극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 쿼드극장__venue_102|대학로 쿼드극장]] <-> [[대학로 아르코극장__venue_1164|대학로 아르코극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장__venue_218|대학로 예술극장]] <-> [[대학로 예술가의집__venue_1104|대학로 예술가의집]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[도봉구민회관__venue_943|도봉구민회관]] <-> [[도봉구민회관 하모니홀__venue_1956|도봉구민회관 하모니홀]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마로니에 공원__venue_507|마로니에 공원]] <-> [[마로니에 야외공연장__venue_1476|마로니에 야외공연장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마포아트센터 아트홀맥__venue_167|마포아트센터 아트홀맥]] <-> [[마포아트센터__venue_519|마포아트센터]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마포아트센터__venue_519|마포아트센터]] <-> [[마포아트센터 플레이맥__venue_1205|마포아트센터 플레이맥]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 민주공원 소극장__venue_302|부산 민주공원 소극장]] <-> [[부산민주공원__venue_744|부산민주공원]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산민주공원__venue_744|부산민주공원]] <-> [[부산 민주공원 중극장__venue_918|부산 민주공원 중극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀대극장__venue_222|서강대메리홀대극장]] <-> [[서강대 메리 홀__venue_329|서강대 메리 홀]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리 홀__venue_329|서강대 메리 홀]] <-> [[서울 서강대메리홀__venue_626|서울 서강대메리홀]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서강대 메리홀__venue_172|서강대 메리홀]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] <-> [[서강대 메리홀__venue_172|서강대 메리홀]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] <-> [[서강대메리홀__venue_134|서강대메리홀]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀__venue_134|서강대메리홀]] <-> [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀__venue_134|서강대메리홀]] <-> [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[성남아트센터__venue_30|성남아트센터]] <-> [[성남아트센터 콘서트홀__venue_1563|성남아트센터 콘서트홀]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종M씨어터__venue_28|세종M씨어터]] <-> [[세종문화회관 M씨어터__venue_680|세종문화회관 M씨어터]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종S씨어터__venue_101|세종S씨어터]] <-> [[세종문화회관 S씨어터__venue_142|세종문화회관 S씨어터]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관__venue_570|세종문화회관]] <-> [[세종문화회관 M시어터__venue_1368|세종문화회관 M시어터]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관__venue_570|세종문화회관]] <-> [[세종문화회관 M씨어터__venue_680|세종문화회관 M씨어터]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 S씨어터__venue_142|세종문화회관 S씨어터]] <-> [[세종문화회관__venue_570|세종문화회관]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장__venue_97|아르코 대극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코 대극장__venue_97|아르코 대극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장__venue_97|아르코 대극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 소극장__venue_54|아르코 소극장]] <-> [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코대극장__venue_256|아르코대극장]] <-> [[아르코‧대학로예술극장__venue_642|아르코‧대학로예술극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코대극장__venue_256|아르코대극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코대극장__venue_256|아르코대극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코소극장__venue_269|아르코소극장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 토월극장__venue_615|예술의 전당 토월극장]] <-> [[예술의 전당__venue_1021|예술의 전당]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이대 삼성홀__venue_280|이대 삼성홀]] <-> [[이화여자대학교 삼성홀__venue_989|이화여자대학교 삼성홀]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[충무아트센터 컨벤션홀__venue_1851|충무아트센터 컨벤션홀]] <-> [[충무아트센터__venue_2337|충무아트센터]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집__venue_955|한국문화의 집]] <-> [[한국문화의집 공연장__venue_2304|한국문화의집 공연장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집 코우스__venue_865|한국문화의집 코우스]] <-> [[한국문화의 집__venue_955|한국문화의 집]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집__venue_955|한국문화의 집]] <-> [[한국문화의집KOUS__venue_1977|한국문화의집KOUS]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집KOUS__venue_45|한국문화의 집KOUS]] <-> [[한국문화의집__venue_2262|한국문화의집]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집 KOUS__venue_723|한국문화의집 KOUS]] <-> [[한국문화의집__venue_2262|한국문화의집]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[홍주문화회관__venue_148|홍주문화회관]] <-> [[홍주문화회관 소공연장__venue_1464|홍주문화회관 소공연장]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[ACC예술극장 극장1__venue_1636|ACC예술극장 극장1]] <-> [[ACC 예술극장2__venue_2188|ACC 예술극장2]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 연악당__venue_67|국립부산국악원 연악당]] <-> [[국립국악원 예약당__venue_1796|국립국악원 예약당]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 연악당__venue_67|국립부산국악원 연악당]] <-> [[국립국악원 우면당__venue_518|국립국악원 우면당]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 KB하늘 극장__venue_1136|국립극장 KB하늘 극장]] <-> [[국립극장 소극장__venue_2160|국립극장 소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 하늘극장__venue_100|국립극장 하늘극장]] <-> [[국립극장 달오름 극장__venue_191|국립극장 달오름 극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 하늘극장__venue_100|국립극장 하늘극장]] <-> [[국립극장 해오름 극장__venue_1029|국립극장 해오름 극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장해오름극장__venue_380|국립극장해오름극장]] <-> [[국립극장 해오름 무대__venue_1771|국립극장 해오름 무대]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국민대 예술관__venue_315|국민대 예술관]] <-> [[국민대학교 예술관 대극장__venue_1501|국민대학교 예술관 대극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당 대극장__venue_348|대전예술의전당 대극장]] <-> [[대전문화예술의전당__venue_610|대전문화예술의전당]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전문화예술의전당__venue_610|대전문화예술의전당]] <-> [[대전예술의전당 아트홀__venue_1763|대전예술의전당 아트홀]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 마로니에 공원 야외 공연장__venue_1649|대학로 마로니에 공원 야외 공연장]] <-> [[대학로 성균소극장과 마로니에공원 야외극장__venue_2214|대학로 성균소극장과 마로니에공원 야외극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 성균소극장__venue_1383|대학로 성균소극장]] <-> [[대학로 알과핵 소극장__venue_2388|대학로 알과핵 소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장소극장__venue_16|대학로 예술극장소극장]] <-> [[대학로 성균소극장__venue_1383|대학로 성균소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 소극장__venue_10|대학로예술극장 소극장]] <-> [[대학로 성균소극장__venue_1383|대학로 성균소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로예술극장 씨어터카페__venue_1965|대학로예술극장 씨어터카페]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관 대극장__venue_296|부산문화회관 대극장]] <-> [[부산문화회관 중강당__venue_898|부산문화회관 중강당]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관 중극장__venue_39|부산문화회관 중극장]] <-> [[부산시민회관 대극장__venue_874|부산시민회관 대극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산시민회관 대극장__venue_874|부산시민회관 대극장]] <-> [[부산시민회관 연습실__venue_1540|부산시민회관 연습실]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀__venue_172|서강대 메리홀]] <-> [[서강대학교 메리홀 대극장__venue_195|서강대학교 메리홀 대극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀__venue_172|서강대 메리홀]] <-> [[서강대학교 메리홀 소극장__venue_260|서강대학교 메리홀 소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] <-> [[서강대학교 메리홀__venue_112|서강대학교 메리홀]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀__venue_112|서강대학교 메리홀]] <-> [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 남산국악당__venue_974|서울 남산국악당]] <-> [[서울남산국악당 야외마당__venue_1507|서울남산국악당 야외마당]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울예술의전당__venue_1242|서울예술의전당]] <-> [[서울 예술의전당 콘서트홀__venue_1283|서울 예술의전당 콘서트홀]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종 M씨어터__venue_1046|세종 M씨어터]] <-> [[세종문화회관 세종M씨어터__venue_2195|세종문화회관 세종M씨어터]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 엠극장__venue_89|세종문화회관 엠극장]] <-> [[세종문화회관 대강당__venue_581|세종문화회관 대강당]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장__venue_97|아르코 대극장]] <-> [[아르코 대극장 및 소극장__venue_239|아르코 대극장 및 소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장__venue_97|아르코 대극장]] <-> [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 소극장__venue_54|아르코 소극장]] <-> [[아르코 대극장 및 소극장__venue_239|아르코 대극장 및 소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 소극장__venue_54|아르코 소극장]] <-> [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술소극장__venue_305|아르코예술소극장]] <-> [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집__venue_955|한국문화의 집]] <-> [[한국문화의 집(KOUS)__venue_2015|한국문화의 집(KOUS)]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집 코우스__venue_865|한국문화의집 코우스]] <-> [[한국문화의집 공연장__venue_2304|한국문화의집 공연장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 예악당__venue_2|국립국악원 예악당]] <-> [[국립부산국악원 대극장연악당__venue_401|국립부산국악원 대극장연악당]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름 극장__venue_191|국립극장 달오름 극장]] <-> [[국립극장 KB하늘 극장__venue_1136|국립극장 KB하늘 극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름 극장__venue_1029|국립극장 해오름 극장]] <-> [[국립극장 KB하늘 극장__venue_1136|국립극장 KB하늘 극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당 앙상블홀__venue_110|대전예술의전당 앙상블홀]] <-> [[대전예술의전당 대극장__venue_348|대전예술의전당 대극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장__venue_218|대학로 예술극장]] <-> [[대학로 아르코예술극장 대극장__venue_768|대학로 아르코예술극장 대극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마포아트센터 아트홀 맥__venue_958|마포아트센터 아트홀 맥]] <-> [[마포아트센터 플레이맥__venue_1205|마포아트센터 플레이맥]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산금정문화회관 금빛누리홀__venue_635|부산금정문화회관 금빛누리홀]] <-> [[부산 금정문화회관__venue_790|부산 금정문화회관]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관 대극장__venue_296|부산문화회관 대극장]] <-> [[부산 금정문화회관 대강당__venue_471|부산 금정문화회관 대강당]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 대극장__venue_819|부산 금정문화회관 대극장]] <-> [[부산시민회관 대극장__venue_874|부산시민회관 대극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 영화의전당 하늘연극장__venue_238|부산 영화의전당 하늘연극장]] <-> [[부산 영화의 전당__venue_555|부산 영화의 전당]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 예술의전당__venue_1359|서울 예술의전당]] <-> [[서울 예술의전당 CJ토월극장__venue_1770|서울 예술의전당 CJ토월극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장 및 소극장__venue_239|아르코 대극장 및 소극장]] <-> [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장 및 소극장__venue_239|아르코 대극장 및 소극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술대극장__venue_306|아르코예술대극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술소극장__venue_305|아르코예술소극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] <-> [[예술의 전당 오페라 극장__venue_1143|예술의 전당 오페라 극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 자유소극장__venue_22|예술의전당 자유소극장]] <-> [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 자유소극장__venue_132|예술의 전당 자유소극장]] <-> [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 토월극장__venue_615|예술의 전당 토월극장]] <-> [[예술의전당 오페라 극장__venue_1134|예술의전당 오페라 극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 CJ토월극장__venue_141|예술의전당 CJ토월극장]] <-> [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 자유소극장__venue_22|예술의전당 자유소극장]] <-> [[예술의전당 CJ토월극장__venue_141|예술의전당 CJ토월극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 자유소극장__venue_22|예술의전당 자유소극장]] <-> [[예술의전당 오페라 극장__venue_1134|예술의전당 오페라 극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이화여자대학교 삼성홀__venue_989|이화여자대학교 삼성홀]] <-> [[이화여대 ECC 삼성홀__venue_1170|이화여대 ECC 삼성홀]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이화여대 삼성홀__venue_473|이화여대 삼성홀]] <-> [[이화여자대학교 ECC 삼성홀__venue_1276|이화여자대학교 ECC 삼성홀]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천문화예술회관__venue_464|인천문화예술회관]] <-> [[인천종합문화예술회관 대공연장__venue_528|인천종합문화예술회관 대공연장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[해운대 문화회관 해운홀__venue_730|해운대 문화회관 해운홀]] <-> [[해운대문화회관 대극장__venue_786|해운대문화회관 대극장]] — similarity 0.70
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG 아트센터 서울__venue_42|LG 아트센터 서울]] <-> [[LG아트센터 서울 U+스테이지__venue_122|LG아트센터 서울 U+스테이지]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울 LG시그니처홀__venue_738|LG아트센터 서울 LG시그니처홀]] <-> [[LG아트센터 서울__venue_843|LG아트센터 서울]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전문화예술의전당 앙상블 홀__venue_546|대전문화예술의전당 앙상블 홀]] <-> [[대전예술의전당 아트홀__venue_1763|대전예술의전당 아트홀]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[문화역서울 284 RTO 공연장__venue_561|문화역서울 284 RTO 공연장]] <-> [[문화역서울 284__venue_1042|문화역서울 284]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산시민공연 사랑채__venue_279|부산시민공연 사랑채]] <-> [[부산 시민공원 사랑채(백산홀)__venue_745|부산 시민공원 사랑채(백산홀)]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀대극장__venue_222|서강대메리홀대극장]] <-> [[서강대 메리홀 대극장 및 소극장__venue_2199|서강대 메리홀 대극장 및 소극장]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀대극장__venue_222|서강대메리홀대극장]] <-> [[서강대학교 메리홀 대극장·소극장__venue_1897|서강대학교 메리홀 대극장·소극장]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀__venue_112|서강대학교 메리홀]] <-> [[서강대학교 메리홀 대극장·소극장__venue_1897|서강대학교 메리홀 대극장·소극장]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울문화재단 쿼드극장__venue_1813|서울문화재단 쿼드극장]] <-> [[서울문화재단 대학로극장 쿼드__venue_2403|서울문화재단 대학로극장 쿼드]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 M시어터 중극장__venue_41|세종문화회관 M시어터 중극장]] <-> [[세종문화회관 S씨어터__venue_142|세종문화회관 S씨어터]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장 및 소극장__venue_239|아르코 대극장 및 소극장]] <-> [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 CJ 토월극장__venue_1089|예술의 전당 CJ 토월극장]] <-> [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 자유소극장__venue_132|예술의 전당 자유소극장]] <-> [[예술의 전당 CJ 토월극장__venue_1089|예술의 전당 CJ 토월극장]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 CJ 토월극장__venue_1089|예술의 전당 CJ 토월극장]] <-> [[예술의전당 오페라 극장__venue_1134|예술의전당 오페라 극장]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 CJ토월극장__venue_149|예술의 전당 CJ토월극장]] <-> [[예술의 전당 오페라 극장__venue_1143|예술의 전당 오페라 극장]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 오페라 극장__venue_1143|예술의 전당 오페라 극장]] <-> [[예술의전당 CJ 토월극장__venue_1196|예술의전당 CJ 토월극장]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천문화예술회관 소공연장__venue_880|인천문화예술회관 소공연장]] <-> [[인천문화예술회관 대전시실__venue_2105|인천문화예술회관 대전시실]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름 극장__venue_191|국립극장 달오름 극장]] <-> [[국립극장 해오름극장 및 달오름극장__venue_1512|국립극장 해오름극장 및 달오름극장]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름 극장__venue_1029|국립극장 해오름 극장]] <-> [[국립극장 해오름극장 및 달오름극장__venue_1512|국립극장 해오름극장 및 달오름극장]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술가의집 세미나1실__venue_1254|대학로 예술가의집 세미나1실]] <-> [[대학로 예술가의집 다목적홀__venue_1804|대학로 예술가의집 다목적홀]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 대강당__venue_471|부산 금정문화회관 대강당]] <-> [[부산 금정문화회관 금빛누리 홀__venue_731|부산 금정문화회관 금빛누리 홀]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 금빛누리 홀__venue_731|부산 금정문화회관 금빛누리 홀]] <-> [[부산 금정문화회관 대극장__venue_819|부산 금정문화회관 대극장]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 강동아트센터 소극장 드림__venue_1389|서울 강동아트센터 소극장 드림]] <-> [[서울 충무아트센터 대극장__venue_2223|서울 충무아트센터 대극장]] — similarity 0.69
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립예술단체 공연연습장(N스튜디오)__venue_1298|국립예술단체 공연연습장(N스튜디오)]] <-> [[국립예술단체 공연예술장 현대무용 스튜디오__venue_2010|국립예술단체 공연예술장 현대무용 스튜디오]] — similarity 0.68
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[ACC예술극장 극장1__venue_1636|ACC예술극장 극장1]] <-> [[ACC 극장2__venue_1887|ACC 극장2]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG 아트센터 서울__venue_42|LG 아트센터 서울]] <-> [[LG아트센터 서울 LG시그니처홀__venue_738|LG아트센터 서울 LG시그니처홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터__venue_298|LG아트센터]] <-> [[LIG아트홀__venue_472|LIG아트홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울 LG SIGNATURE 홀__venue_1492|LG아트센터 서울 LG SIGNATURE 홀]] <-> [[LG아트센터 서울 LG Signature 홀__venue_1608|LG아트센터 서울 LG Signature 홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울 U+ Stage__venue_1180|LG아트센터 서울 U+ Stage]] <-> [[LG아트센터 서울 LG Signature 홀__venue_1608|LG아트센터 서울 LG Signature 홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강남의 춤전용 M극장__venue_497|강남의 춤전용 M극장]] <-> [[강남구 M극장__venue_1973|강남구 M극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터__venue_288|강동아트센터]] <-> [[강동아트센터소극장 드림__venue_416|강동아트센터소극장 드림]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터소극장__venue_317|강동아트센터소극장]] <-> [[강동아트센터 한강__venue_1149|강동아트센터 한강]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터소극장 드림__venue_416|강동아트센터소극장 드림]] <-> [[강동아트센터 한강__venue_1149|강동아트센터 한강]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양아람누리__venue_1200|고양아람누리]] <-> [[고양아람누리 새라새극장__venue_1496|고양아람누리 새라새극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양아람누리__venue_1200|고양아람누리]] <-> [[고양아람누리 아람음악당__venue_1206|고양아람누리 아람음악당]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양아람누리 새라새극장__venue_1496|고양아람누리 새라새극장]] <-> [[고양아람누리 새라새 디지털 씨어터__venue_2278|고양아람누리 새라새 디지털 씨어터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[구리아트홀 유채꽃 소극장__venue_1038|구리아트홀 유채꽃 소극장]] <-> [[구리아트홀 코스모스 대극장__venue_1039|구리아트홀 코스모스 대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립 해오름극장__venue_118|국립 해오름극장]] <-> [[국립극장__venue_771|국립극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원연악당__venue_448|국립부산국악원연악당]] <-> [[국립국악원__venue_1303|국립국악원]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 예악당__venue_2|국립국악원 예악당]] <-> [[국립국악원 대극장__venue_1181|국립국악원 대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 대극장__venue_1181|국립국악원 대극장]] <-> [[국립국악원 예약당__venue_1796|국립국악원 예약당]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 우면당__venue_518|국립국악원 우면당]] <-> [[국립국악원 대극장__venue_1181|국립국악원 대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름__venue_119|국립극장 달오름]] <-> [[국립극장__venue_771|국립극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장__venue_771|국립극장]] <-> [[국립극장 소극장__venue_2160|국립극장 소극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름__venue_180|국립극장 해오름]] <-> [[국립극장__venue_771|국립극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름극장__venue_163|국립극장 달오름극장]] <-> [[국립극장 KB하늘극장__venue_396|국립극장 KB하늘극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 별오름극장__venue_349|국립극장 별오름극장]] <-> [[국립극장 KB하늘극장__venue_396|국립극장 KB하늘극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장__venue_24|국립극장 해오름극장]] <-> [[국립극장 KB하늘극장__venue_396|국립극장 KB하늘극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름극장__venue_163|국립극장 달오름극장]] <-> [[국립극장 해오름 무대__venue_1771|국립극장 해오름 무대]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 별오름극장__venue_349|국립극장 별오름극장]] <-> [[국립극장 해오름 무대__venue_1771|국립극장 해오름 무대]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 하늘극장__venue_100|국립극장 하늘극장]] <-> [[국립극장해오름극장__venue_380|국립극장해오름극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립정동극장__venue_740|국립정동극장]] <-> [[국립무용극장__venue_1757|국립무용극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 대극장__venue_366|국립부산국악원 대극장]] <-> [[국립부산국악원연악당__venue_448|국립부산국악원연악당]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 연악당__venue_67|국립부산국악원 연악당]] <-> [[국립부산국악원 소극장(예지당)__venue_2212|국립부산국악원 소극장(예지당)]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 연악당__venue_67|국립부산국악원 연악당]] <-> [[국악원 예악당__venue_258|국악원 예악당]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국민대학교예술관대극장__venue_262|국민대학교예술관대극장]] <-> [[국민대 예술관__venue_315|국민대 예술관]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국민대학교 예술관 대극장__venue_1501|국민대학교 예술관 대극장]] <-> [[국민대학교 학술회의장__venue_1893|국민대학교 학술회의장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[금정문화회관 금빛누리홀__venue_1644|금정문화회관 금빛누리홀]] <-> [[금정문화회관__venue_2069|금정문화회관]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구오페라하우스__venue_36|대구오페라하우스]] <-> [[대구댄스하우스__venue_1715|대구댄스하우스]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구문화예술회관 비슬홀__venue_152|대구문화예술회관 비슬홀]] <-> [[대구봉산문화회관 가온홀__venue_391|대구봉산문화회관 가온홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구문화예술회관 팔공홀__venue_69|대구문화예술회관 팔공홀]] <-> [[대구봉산문화회관 가온홀__venue_391|대구봉산문화회관 가온홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당 앙상블홀__venue_110|대전예술의전당 앙상블홀]] <-> [[대전문화예술의전당__venue_610|대전문화예술의전당]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전시립연정국악원 큰마당__venue_181|대전시립연정국악원 큰마당]] <-> [[대전연정국악원 대극장__venue_2067|대전연정국악원 대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당아트홀__venue_164|대전예술의전당아트홀]] <-> [[대전예술의전당 대극장__venue_348|대전예술의전당 대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 대극장__venue_628|대학로 대극장]] <-> [[대학로 알과핵 소극장__venue_2388|대학로 알과핵 소극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장소극장__venue_16|대학로 예술극장소극장]] <-> [[대학로 대극장__venue_628|대학로 대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로극장 쿼드__venue_1|대학로극장 쿼드]] <-> [[대학로 대극장__venue_628|대학로 대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 아르코극장__venue_1164|대학로 아르코극장]] <-> [[대학로 성균소극장__venue_1383|대학로 성균소극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장__venue_218|대학로 예술극장]] <-> [[대학로 아르코대극장__venue_1924|대학로 아르코대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 쿼드극장__venue_102|대학로 쿼드극장]] <-> [[대학로 아르코대극장__venue_1924|대학로 아르코대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 대극장__venue_27|대학로예술극장 대극장]] <-> [[대학로 아르코대극장__venue_1924|대학로 아르코대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장__venue_218|대학로 예술극장]] <-> [[대학로 예술가의 집__venue_2387|대학로 예술가의 집]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로극장쿼드__venue_104|대학로극장쿼드]] <-> [[대학로 예술극장__venue_218|대학로 예술극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장__venue_218|대학로 예술극장]] <-> [[대학로예술극장 씨어터카페__venue_1965|대학로예술극장 씨어터카페]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 쿼드극장__venue_102|대학로 쿼드극장]] <-> [[대학로극장쿼드__venue_104|대학로극장쿼드]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로 쿼드극장__venue_102|대학로 쿼드극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로극장 쿼드__venue_1|대학로극장 쿼드]] <-> [[대학로예술극장__venue_5|대학로예술극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 대극장__venue_27|대학로예술극장 대극장]] <-> [[대학로예술극장 씨어터카페__venue_1965|대학로예술극장 씨어터카페]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 소극장__venue_10|대학로예술극장 소극장]] <-> [[대학로예술극장 씨어터카페__venue_1965|대학로예술극장 씨어터카페]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[덴마크 오르후스(Aarhus)__venue_2239|덴마크 오르후스(Aarhus)]] <-> [[덴마크 오르후스__venue_2338|덴마크 오르후스]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마포아트센터__venue_519|마포아트센터]] <-> [[마포아트센터 아트홀 맥__venue_958|마포아트센터 아트홀 맥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마포아트센터 아트홀맥__venue_167|마포아트센터 아트홀맥]] <-> [[마포아트센터 대극장__venue_1162|마포아트센터 대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마포아트센터 대극장__venue_1162|마포아트센터 대극장]] <-> [[마포아트센터 플레이맥__venue_1205|마포아트센터 플레이맥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[문화회관대극장__venue_159|문화회관대극장]] <-> [[문화예술회관 대공연장__venue_293|문화예술회관 대공연장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관대극장__venue_226|부산문화회관대극장]] <-> [[부산 금정문화회관__venue_790|부산 금정문화회관]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 대강당__venue_471|부산 금정문화회관 대강당]] <-> [[부산금정문화회관 금빛누리홀__venue_635|부산금정문화회관 금빛누리홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산금정문화회관 금빛누리홀__venue_635|부산금정문화회관 금빛누리홀]] <-> [[부산 금정문화회관 대극장__venue_819|부산 금정문화회관 대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관__venue_282|부산문화회관]] <-> [[부산시민회관__venue_1613|부산시민회관]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관__venue_282|부산문화회관]] <-> [[부산예술회관__venue_1350|부산예술회관]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산시민공원__venue_1499|부산시민공원]] <-> [[부산시민회관__venue_1613|부산시민회관]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산예술회관__venue_1350|부산예술회관]] <-> [[부산시민회관__venue_1613|부산시민회관]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[상명아트홀__venue_1056|상명아트홀]] <-> [[상명아트센터 계당홀__venue_1917|상명아트센터 계당홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서강대 메리 홀__venue_329|서강대 메리 홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] <-> [[서강대 메리 홀__venue_329|서강대 메리 홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 대극장__venue_195|서강대학교 메리홀 대극장]] <-> [[서강대 메리 홀__venue_329|서강대 메리 홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀 소극장__venue_260|서강대학교 메리홀 소극장]] <-> [[서강대 메리 홀__venue_329|서강대 메리 홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀__venue_172|서강대 메리홀]] <-> [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀__venue_112|서강대학교 메리홀]] <-> [[서강대메리홀대극장__venue_222|서강대메리홀대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀대극장__venue_222|서강대메리홀대극장]] <-> [[서울 서강대메리홀__venue_626|서울 서강대메리홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀__venue_112|서강대학교 메리홀]] <-> [[서울 서강대메리홀__venue_626|서울 서강대메리홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서귀포예술의전당 대극장__venue_1719|서귀포예술의전당 대극장]] <-> [[서울 예술의전당 CJ토월극장__venue_1770|서울 예술의전당 CJ토월극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 강동아트센터__venue_1755|서울 강동아트센터]] <-> [[서울 유니버설 아트센터__venue_2229|서울 유니버설 아트센터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 남산골한옥마을 남산국악당__venue_84|서울 남산골한옥마을 남산국악당]] <-> [[서울 남산국악당__venue_974|서울 남산국악당]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 대학로__venue_646|서울 대학로]] <-> [[서울 대학로 예술가의집__venue_2293|서울 대학로 예술가의집]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 대학로__venue_646|서울 대학로]] <-> [[서울 충정로__venue_666|서울 충정로]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 롯데 콘서트 홀__venue_1201|서울 롯데 콘서트 홀]] <-> [[서울 예술의전당 콘서트홀__venue_1283|서울 예술의전당 콘서트홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 예술의전당 CJ토월극장__venue_1770|서울 예술의전당 CJ토월극장]] <-> [[서울 서초동 예술의전당 자유소극장__venue_2056|서울 서초동 예술의전당 자유소극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울남산국악당__venue_48|서울남산국악당]] <-> [[서울남산국악당 크라운해태홀__venue_649|서울남산국악당 크라운해태홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울남산국악당__venue_48|서울남산국악당]] <-> [[서울돈화문국악당__venue_908|서울돈화문국악당]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울문화재단 쿼드극장__venue_1813|서울문화재단 쿼드극장]] <-> [[서울문화재단 예술청__venue_1910|서울문화재단 예술청]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세실극장__venue_1605|세실극장]] <-> [[세종대극장__venue_2171|세종대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 M씨어터__venue_680|세종문화회관 M씨어터]] <-> [[세종 M시어터__venue_1246|세종 M시어터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종 M씨어터__venue_1046|세종 M씨어터]] <-> [[세종문화회관 M시어터__venue_1368|세종문화회관 M시어터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 S씨어터__venue_142|세종문화회관 S씨어터]] <-> [[세종 M씨어터__venue_1046|세종 M씨어터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종 S시어터__venue_647|세종 S시어터]] <-> [[세종문화회관 M시어터__venue_1368|세종문화회관 M시어터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 S씨어터__venue_142|세종문화회관 S씨어터]] <-> [[세종 S시어터__venue_647|세종 S시어터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 대극장__venue_25|세종문화회관 대극장]] <-> [[세종대극장__venue_2171|세종대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 대강당__venue_581|세종문화회관 대강당]] <-> [[세종문화회관 M시어터__venue_1368|세종문화회관 M시어터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 대극장__venue_25|세종문화회관 대극장]] <-> [[세종문화회관 M시어터__venue_1368|세종문화회관 M시어터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 엠극장__venue_89|세종문화회관 엠극장]] <-> [[세종문화회관 M시어터__venue_1368|세종문화회관 M시어터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 대강당__venue_581|세종문화회관 대강당]] <-> [[세종문화회관 M씨어터__venue_680|세종문화회관 M씨어터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 대극장__venue_25|세종문화회관 대극장]] <-> [[세종문화회관 M씨어터__venue_680|세종문화회관 M씨어터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 엠극장__venue_89|세종문화회관 엠극장]] <-> [[세종문화회관 M씨어터__venue_680|세종문화회관 M씨어터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 S씨어터__venue_142|세종문화회관 S씨어터]] <-> [[세종문화회관 대강당__venue_581|세종문화회관 대강당]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 대극장__venue_25|세종문화회관 대극장]] <-> [[세종문화회관 S씨어터__venue_142|세종문화회관 S씨어터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 엠극장__venue_89|세종문화회관 엠극장]] <-> [[세종문화회관 S씨어터__venue_142|세종문화회관 S씨어터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[신촌극장__venue_254|신촌극장]] <-> [[신촌 포스트극장__venue_564|신촌 포스트극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장__venue_97|아르코 대극장]] <-> [[아르코‧대학로예술극장__venue_642|아르코‧대학로예술극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장__venue_97|아르코 대극장]] <-> [[아르코예술소극장__venue_305|아르코예술소극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 소극장__venue_54|아르코 소극장]] <-> [[아르코예술대극장__venue_306|아르코예술대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] <-> [[아르코 예술극장__venue_476|아르코 예술극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코대극장__venue_256|아르코대극장]] <-> [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코‧대학로예술극장__venue_642|아르코‧대학로예술극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] <-> [[아르코‧대학로예술극장__venue_642|아르코‧대학로예술극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] <-> [[아르코‧대학로예술극장__venue_642|아르코‧대학로예술극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코극장__venue_648|아르코극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코극장__venue_648|아르코극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] <-> [[아르코극장__venue_648|아르코극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] <-> [[아르코극장__venue_648|아르코극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술대극장__venue_306|아르코예술대극장]] <-> [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장과 소극장__venue_62|아르코예술극장 대극장과 소극장]] <-> [[아르코예술대극장__venue_306|아르코예술대극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장과 소극장__venue_62|아르코예술극장 대극장과 소극장]] <-> [[아르코예술소극장__venue_305|아르코예술소극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[영화의 전당 하늘연극장__venue_114|영화의 전당 하늘연극장]] <-> [[영화의 전당__venue_1688|영화의 전당]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당__venue_1021|예술의 전당]] <-> [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 자유소극장__venue_132|예술의 전당 자유소극장]] <-> [[예술의 전당__venue_1021|예술의 전당]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 CJ토월극장__venue_149|예술의 전당 CJ토월극장]] <-> [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 자유소극장__venue_22|예술의전당 자유소극장]] <-> [[예술의 전당 CJ토월극장__venue_149|예술의 전당 CJ토월극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 자유소극장__venue_22|예술의전당 자유소극장]] <-> [[예술의 전당 오페라 극장__venue_1143|예술의 전당 오페라 극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 CJ토월극장__venue_141|예술의전당 CJ토월극장]] <-> [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 자유소극장__venue_132|예술의 전당 자유소극장]] <-> [[예술의전당 CJ토월극장__venue_141|예술의전당 CJ토월극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 자유소극장__venue_132|예술의 전당 자유소극장]] <-> [[예술의전당 오페라 극장__venue_1134|예술의전당 오페라 극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당__venue_150|예술의전당]] <-> [[예술의전당 콘서트홀__venue_1354|예술의전당 콘서트홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당__venue_150|예술의전당]] <-> [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] <-> [[예술의전당 CJ 토월극장__venue_1196|예술의전당 CJ 토월극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 자유소극장__venue_22|예술의전당 자유소극장]] <-> [[예술의전당 CJ 토월극장__venue_1196|예술의전당 CJ 토월극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 CJ토월극장__venue_141|예술의전당 CJ토월극장]] <-> [[예술의전당 오페라 극장__venue_1134|예술의전당 오페라 극장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 콘서트홀__venue_1354|예술의전당 콘서트홀]] <-> [[예술의전당 리사이틀홀__venue_1775|예술의전당 리사이틀홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이대 삼성홀__venue_280|이대 삼성홀]] <-> [[이화여대 ECC 삼성홀__venue_1170|이화여대 ECC 삼성홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이음센터 이음아트홀__venue_1709|이음센터 이음아트홀]] <-> [[이음아트홀__venue_2328|이음아트홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이음아트센터 이음아트홀__venue_1355|이음아트센터 이음아트홀]] <-> [[이음아트센터__venue_2330|이음아트센터]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[창무예술원__venue_849|창무예술원]] <-> [[창무국제예술제__venue_1320|창무국제예술제]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[충무아트센터 대극장__venue_946|충무아트센터 대극장]] <-> [[충무아트센터 컨벤션홀__venue_1851|충무아트센터 컨벤션홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[플랫폼 엘__venue_772|플랫폼 엘]] <-> [[플랫폼 엘 라이브홀__venue_2234|플랫폼 엘 라이브홀]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[플랫폼엘 라이브홀__venue_1703|플랫폼엘 라이브홀]] <-> [[플랫폼엘 플랫폼 라이브 공간__venue_2018|플랫폼엘 플랫폼 라이브 공간]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집 KOUS__venue_723|한국문화의집 KOUS]] <-> [[한국문화의 집__venue_955|한국문화의 집]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집 KOUS__venue_909|한국문화의 집 KOUS]] <-> [[한국문화의집__venue_2262|한국문화의집]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집(KOUS)__venue_543|한국문화의집(KOUS)]] <-> [[한국문화의집__venue_2262|한국문화의집]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집(kous)__venue_2197|한국문화의집(kous)]] <-> [[한국문화의집__venue_2262|한국문화의집]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집 KOUS__venue_723|한국문화의집 KOUS]] <-> [[한국문화의집 공연장__venue_2304|한국문화의집 공연장]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집 KOUS__venue_723|한국문화의집 KOUS]] <-> [[한국문화의집 코우스__venue_865|한국문화의집 코우스]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화재재단 한국문화의집(KOUS)__venue_1844|한국문화재재단 한국문화의집(KOUS)]] <-> [[한국문화의집 코우스(KOUS)__venue_2066|한국문화의집 코우스(KOUS)]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집(KOUS)__venue_543|한국문화의집(KOUS)]] <-> [[한국문화의집(kous)__venue_2197|한국문화의집(kous)]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울 LG시그니처홀__venue_738|LG아트센터 서울 LG시그니처홀]] <-> [[LG아트센터 서울 LG SIGNATURE홀__venue_1174|LG아트센터 서울 LG SIGNATURE홀]] — similarity 0.65
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울 LG시그니처홀__venue_738|LG아트센터 서울 LG시그니처홀]] <-> [[LG아트센터 서울 U+극장__venue_1790|LG아트센터 서울 U+극장]] — similarity 0.65
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양 아람누리 새라새극장__venue_2089|고양 아람누리 새라새극장]] <-> [[고양아람누리 새라새 디지털 씨어터__venue_2278|고양아람누리 새라새 디지털 씨어터]] — similarity 0.65
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 금빛누리 홀__venue_731|부산 금정문화회관 금빛누리 홀]] <-> [[부산 해운대문화회관 해운 홀__venue_944|부산 해운대문화회관 해운 홀]] — similarity 0.65
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG 아트센터 서울__venue_42|LG 아트센터 서울]] <-> [[LG아트센터 서울 U+ Stage__venue_1180|LG아트센터 서울 U+ Stage]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 별오름극장__venue_349|국립극장 별오름극장]] <-> [[국립극장 해오름극장 및 달오름극장__venue_1512|국립극장 해오름극장 및 달오름극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장 대극장과 소극장__venue_997|대학로 예술극장 대극장과 소극장]] <-> [[대학로 알과핵 소극장__venue_2388|대학로 알과핵 소극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] <-> [[서강대 메리홀 대극장 및 소극장__venue_2199|서강대 메리홀 대극장 및 소극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 예술의전당 콘서트홀__venue_1283|서울 예술의전당 콘서트홀]] <-> [[서울 예술의전당 CJ토월극장__venue_1770|서울 예술의전당 CJ토월극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천 동구문화체육센터 공연장__venue_1413|인천 동구문화체육센터 공연장]] <-> [[인천서구문화회관 대공연장__venue_2272|인천서구문화회관 대공연장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 대극장__venue_1181|국립국악원 대극장]] <-> [[국립부산국악원 소극장(예지당)__venue_2212|국립부산국악원 소극장(예지당)]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 예악당__venue_2|국립국악원 예악당]] <-> [[국립부산국악원 소극장(예지당)__venue_2212|국립부산국악원 소극장(예지당)]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 예약당__venue_1796|국립국악원 예약당]] <-> [[국립부산국악원 소극장(예지당)__venue_2212|국립부산국악원 소극장(예지당)]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구문화예술회관 비슬홀__venue_152|대구문화예술회관 비슬홀]] <-> [[대구 봉산문화회관 가온홀__venue_572|대구 봉산문화회관 가온홀]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구문화예술회관 팔공홀__venue_69|대구문화예술회관 팔공홀]] <-> [[대구 봉산문화회관 가온홀__venue_572|대구 봉산문화회관 가온홀]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당아트홀__venue_164|대전예술의전당아트홀]] <-> [[대전문화예술의전당 앙상블 홀__venue_546|대전문화예술의전당 앙상블 홀]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] <-> [[예술의 전당 CJ 토월극장__venue_1089|예술의 전당 CJ 토월극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 자유소극장__venue_22|예술의전당 자유소극장]] <-> [[예술의 전당 CJ 토월극장__venue_1089|예술의 전당 CJ 토월극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 CJ토월극장__venue_149|예술의 전당 CJ토월극장]] <-> [[예술의전당 오페라 극장__venue_1134|예술의전당 오페라 극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 CJ토월극장__venue_141|예술의전당 CJ토월극장]] <-> [[예술의 전당 오페라 극장__venue_1143|예술의 전당 오페라 극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] <-> [[예술의전당 CJ 토월극장__venue_1196|예술의전당 CJ 토월극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 자유소극장__venue_132|예술의 전당 자유소극장]] <-> [[예술의전당 CJ 토월극장__venue_1196|예술의전당 CJ 토월극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이화여대 ECC 내 삼성홀__venue_606|이화여대 ECC 내 삼성홀]] <-> [[이화여자대학교 삼성홀__venue_989|이화여자대학교 삼성홀]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집(KOUS)__venue_2015|한국문화의 집(KOUS)]] <-> [[한국문화의집(kous)__venue_2197|한국문화의집(kous)]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울 LG SIGNATURE홀__venue_1174|LG아트센터 서울 LG SIGNATURE홀]] <-> [[LG아트센터 서울 LG Signature 홀__venue_1608|LG아트센터 서울 LG Signature 홀]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[KT&G 상상플래닛__venue_1422|KT&G 상상플래닛]] <-> [[KT&G 상상마당 부산__venue_1541|KT&G 상상마당 부산]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울__venue_843|LG아트센터 서울]] <-> [[LG아트센터 시그니처 홀__venue_1427|LG아트센터 시그니처 홀]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강남의 춤전용 M극장__venue_497|강남의 춤전용 M극장]] <-> [[강남구 개포동 M극장__venue_2187|강남구 개포동 M극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터 소극장 드림__venue_501|강동아트센터 소극장 드림]] <-> [[강동아트센터 한강__venue_1149|강동아트센터 한강]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름극장__venue_163|국립극장 달오름극장]] <-> [[국립극장 KB하늘 극장__venue_1136|국립극장 KB하늘 극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 별오름극장__venue_349|국립극장 별오름극장]] <-> [[국립극장 KB하늘 극장__venue_1136|국립극장 KB하늘 극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장__venue_24|국립극장 해오름극장]] <-> [[국립극장 KB하늘 극장__venue_1136|국립극장 KB하늘 극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름 극장__venue_191|국립극장 달오름 극장]] <-> [[국립극장 KB하늘극장__venue_396|국립극장 KB하늘극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 KB하늘극장__venue_396|국립극장 KB하늘극장]] <-> [[국립극장 해오름 극장__venue_1029|국립극장 해오름 극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국민대학교예술관대극장__venue_262|국민대학교예술관대극장]] <-> [[국민대학교 학술회의장__venue_1893|국민대학교 학술회의장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당__venue_137|대전예술의전당]] <-> [[대전문화예술의전당 앙상블 홀__venue_546|대전문화예술의전당 앙상블 홀]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 대극장__venue_27|대학로예술극장 대극장]] <-> [[대전예술의전당 대극장__venue_348|대전예술의전당 대극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 대극장__venue_628|대학로 대극장]] <-> [[대학로 아르코예술극장 대극장__venue_768|대학로 아르코예술극장 대극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로 아르코예술극장 대극장__venue_768|대학로 아르코예술극장 대극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장소극장__venue_16|대학로 예술극장소극장]] <-> [[대학로 알과핵 소극장__venue_2388|대학로 알과핵 소극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 소극장__venue_10|대학로예술극장 소극장]] <-> [[대학로 알과핵 소극장__venue_2388|대학로 알과핵 소극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로예술극장 스튜디오 하늘__venue_1472|대학로예술극장 스튜디오 하늘]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마포아트센터 아트홀 맥__venue_958|마포아트센터 아트홀 맥]] <-> [[마포아트센터 대극장__venue_1162|마포아트센터 대극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[문래예술공장 M30__venue_82|문래예술공장 M30]] <-> [[문래예술공장 박스시어터__venue_441|문래예술공장 박스시어터]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[문래예술공장 M30__venue_82|문래예술공장 M30]] <-> [[문래예술공장 박스씨어터__venue_593|문래예술공장 박스씨어터]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[복합문화공간 에무__venue_1321|복합문화공간 에무]] <-> [[복합문화공간 수애뇨339__venue_2261|복합문화공간 수애뇨339]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관대극장__venue_226|부산문화회관대극장]] <-> [[부산 금정문화회관 대강당__venue_471|부산 금정문화회관 대강당]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 강동아트센터__venue_1755|서울 강동아트센터]] <-> [[서울 충무아트센터 대극장__venue_2223|서울 충무아트센터 대극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울남산국악당 크라운해태홀__venue_649|서울남산국악당 크라운해태홀]] <-> [[서울 남산국악당__venue_974|서울 남산국악당]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울예술의전당__venue_1242|서울예술의전당]] <-> [[서울 예술의전당 CJ토월극장__venue_1770|서울 예술의전당 CJ토월극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울남산국악당__venue_48|서울남산국악당]] <-> [[서울남산국악당 크라운 해태홀__venue_2096|서울남산국악당 크라운 해태홀]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 M시어터 중극장__venue_41|세종문화회관 M시어터 중극장]] <-> [[세종 M시어터__venue_1246|세종 M시어터]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장__venue_97|아르코 대극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 소극장__venue_54|아르코 소극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코‧대학로예술극장__venue_642|아르코‧대학로예술극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코‧대학로예술극장__venue_642|아르코‧대학로예술극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코예술극장 스튜디오 다락__venue_535|아르코예술극장 스튜디오 다락]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[언더스탠드에비뉴__venue_178|언더스탠드에비뉴]] <-> [[언더스탠드애비뉴 아트스탠드__venue_1632|언더스탠드애비뉴 아트스탠드]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 콘서트홀__venue_1354|예술의전당 콘서트홀]] <-> [[예술의전당 IBK챔버홀__venue_2245|예술의전당 IBK챔버홀]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] <-> [[예술의전당 N스튜디오__venue_1207|예술의전당 N스튜디오]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] <-> [[예술의전당CJ토월극장__venue_388|예술의전당CJ토월극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 자유소극장__venue_22|예술의전당 자유소극장]] <-> [[예술의전당CJ토월극장__venue_388|예술의전당CJ토월극장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[플랫폼엘 플랫폼 라이브__venue_901|플랫폼엘 플랫폼 라이브]] <-> [[플랫폼 엘 라이브홀__venue_2234|플랫폼 엘 라이브홀]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집 KOUS__venue_909|한국문화의 집 KOUS]] <-> [[한국문화의집 공연장__venue_2304|한국문화의집 공연장]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집 코우스__venue_865|한국문화의집 코우스]] <-> [[한국문화의 집 KOUS__venue_909|한국문화의 집 KOUS]] — similarity 0.64
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울 LG시그니처홀__venue_738|LG아트센터 서울 LG시그니처홀]] <-> [[LG아트센터 서울 LG SIGNATURE 홀__venue_1492|LG아트센터 서울 LG SIGNATURE 홀]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울 LG시그니처홀__venue_738|LG아트센터 서울 LG시그니처홀]] <-> [[LG아트센터 서울 LG Signature 홀__venue_1608|LG아트센터 서울 LG Signature 홀]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[ACC 예술극장 극장1__venue_1436|ACC 예술극장 극장1]] <-> [[ACC 극장2__venue_1887|ACC 극장2]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터__venue_298|LG아트센터]] <-> [[LG아트센터 시그니처 홀__venue_1427|LG아트센터 시그니처 홀]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터__venue_288|강동아트센터]] <-> [[강동아트센터 대극장 한강__venue_478|강동아트센터 대극장 한강]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강동아트센터__venue_288|강동아트센터]] <-> [[강동아트센터 소극장 드림__venue_501|강동아트센터 소극장 드림]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양아람누리__venue_1200|고양아람누리]] <-> [[고양 아람누리 새라새극장__venue_2089|고양 아람누리 새라새극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[고양아람누리__venue_1200|고양아람누리]] <-> [[고양아람누리 생활문화센터__venue_1892|고양아람누리 생활문화센터]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립 해오름극장__venue_118|국립 해오름극장]] <-> [[국립극장 해오름 무대__venue_1771|국립극장 해오름 무대]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원연악당__venue_448|국립부산국악원연악당]] <-> [[국립국악원 예약당__venue_1796|국립국악원 예약당]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원연악당__venue_448|국립부산국악원연악당]] <-> [[국립국악원 우면당__venue_518|국립국악원 우면당]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 성균소극장__venue_1383|대학로 성균소극장]] <-> [[대학로 아르코대극장__venue_1924|대학로 아르코대극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장소극장__venue_204|대학로예술극장소극장]] <-> [[대학로 성균소극장__venue_1383|대학로 성균소극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장__venue_218|대학로 예술극장]] <-> [[대학로 알과핵 소극장__venue_2388|대학로 알과핵 소극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 쿼드극장__venue_102|대학로 쿼드극장]] <-> [[대학로 알과핵 소극장__venue_2388|대학로 알과핵 소극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장소극장__venue_16|대학로 예술극장소극장]] <-> [[대학로 쿼드극장__venue_102|대학로 쿼드극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로극장 쿼드__venue_1|대학로극장 쿼드]] <-> [[대학로예술극장 대극장__venue_27|대학로예술극장 대극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로극장 쿼드__venue_1|대학로극장 쿼드]] <-> [[대학로예술극장 소극장__venue_10|대학로예술극장 소극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관 대극장__venue_296|부산문화회관 대극장]] <-> [[부산 금정문화회관__venue_790|부산 금정문화회관]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관__venue_790|부산 금정문화회관]] <-> [[부산문화회관 중강당__venue_898|부산문화회관 중강당]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관 중극장__venue_39|부산문화회관 중극장]] <-> [[부산 금정문화회관__venue_790|부산 금정문화회관]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관__venue_282|부산문화회관]] <-> [[부산 금정문화회관 대강당__venue_471|부산 금정문화회관 대강당]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관__venue_282|부산문화회관]] <-> [[부산 금정문화회관 대극장__venue_819|부산 금정문화회관 대극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관대극장__venue_226|부산문화회관대극장]] <-> [[부산문화회관 중강당__venue_898|부산문화회관 중강당]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산민주공원공연장 작은방__venue_445|부산민주공원공연장 작은방]] <-> [[부산민주공원__venue_744|부산민주공원]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산시민공원__venue_1499|부산시민공원]] <-> [[부산시민공원 다솜 전시실__venue_1518|부산시민공원 다솜 전시실]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] <-> [[서강대 메리 홀__venue_329|서강대 메리 홀]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀__venue_134|서강대메리홀]] <-> [[서강대학교 메리홀 대극장__venue_195|서강대학교 메리홀 대극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀__venue_134|서강대메리홀]] <-> [[서강대학교 메리홀 소극장__venue_260|서강대학교 메리홀 소극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서강대학교 메리홀__venue_112|서강대학교 메리홀]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 대극장__venue_49|서강대메리홀 대극장]] <-> [[서울 서강대메리홀__venue_626|서울 서강대메리홀]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교 메리홀__venue_112|서강대학교 메리홀]] <-> [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대메리홀 소극장__venue_135|서강대메리홀 소극장]] <-> [[서울 서강대메리홀__venue_626|서울 서강대메리홀]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울예술의전당__venue_1242|서울예술의전당]] <-> [[서귀포예술의전당 대극장__venue_1719|서귀포예술의전당 대극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울아트센터 도암홀__venue_51|서울아트센터 도암홀]] <-> [[서울 강동아트센터__venue_1755|서울 강동아트센터]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울무용센터__venue_284|서울무용센터]] <-> [[서울무용센터 B9스튜디오__venue_938|서울무용센터 B9스튜디오]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[성남아트센터__venue_30|성남아트센터]] <-> [[성남아트센터 오페라하우스__venue_220|성남아트센터 오페라하우스]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종M씨어터__venue_28|세종M씨어터]] <-> [[세종문화회관 세종M씨어터__venue_2195|세종문화회관 세종M씨어터]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관__venue_570|세종문화회관]] <-> [[세종문화회관 세종M씨어터__venue_2195|세종문화회관 세종M씨어터]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장 및 소극장__venue_239|아르코 대극장 및 소극장]] <-> [[아르코대극장__venue_256|아르코대극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 대극장 및 소극장__venue_239|아르코 대극장 및 소극장]] <-> [[아르코소극장__venue_269|아르코소극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 소극장__venue_54|아르코 소극장]] <-> [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장__venue_476|아르코 예술극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코소극장__venue_269|아르코소극장]] <-> [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술소극장__venue_305|아르코예술소극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 CJ토월극장__venue_149|예술의 전당 CJ토월극장]] <-> [[예술의 전당__venue_1021|예술의 전당]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당__venue_1021|예술의 전당]] <-> [[예술의 전당 오페라 극장__venue_1143|예술의 전당 오페라 극장]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[울산문예회관 대공연장__venue_52|울산문예회관 대공연장]] <-> [[울산문화예술회관__venue_2363|울산문화예술회관]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[울산문화회관 소공연장__venue_924|울산문화회관 소공연장]] <-> [[울산문화예술회관__venue_2363|울산문화예술회관]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이음아트센터__venue_2330|이음아트센터]] <-> [[이음아트센터 앞 야외무대__venue_2342|이음아트센터 앞 야외무대]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집(KOUS)__venue_543|한국문화의집(KOUS)]] <-> [[한국문화의 집__venue_955|한국문화의 집]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집__venue_955|한국문화의 집]] <-> [[한국문화의집(kous)__venue_2197|한국문화의집(kous)]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집(KOUS)__venue_2015|한국문화의 집(KOUS)]] <-> [[한국문화의집__venue_2262|한국문화의집]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울문화재단 대학로예술청 2층 아고라__venue_1997|서울문화재단 대학로예술청 2층 아고라]] <-> [[서울문화재단 대학로극장 쿼드__venue_2403|서울문화재단 대학로극장 쿼드]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LIG홀 강남__venue_489|LIG홀 강남]] <-> [[LIG아트홀 부산__venue_491|LIG아트홀 부산]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LIG아트홀 합정__venue_474|LIG아트홀 합정]] <-> [[LIG홀 강남__venue_489|LIG홀 강남]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립 해오름극장__venue_118|국립 해오름극장]] <-> [[국립극장 달오름__venue_119|국립극장 달오름]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 풍류사랑방__venue_389|국립국악원 풍류사랑방]] <-> [[국립국악원__venue_1303|국립국악원]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 대극장__venue_366|국립부산국악원 대극장]] <-> [[국립국악원__venue_1303|국립국악원]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 연악당__venue_67|국립부산국악원 연악당]] <-> [[국립국악원__venue_1303|국립국악원]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국악원 예악당__venue_258|국악원 예악당]] <-> [[국립국악원 우면당__venue_518|국립국악원 우면당]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 달오름__venue_119|국립극장 달오름]] <-> [[국립극장 소극장__venue_2160|국립극장 소극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름__venue_180|국립극장 해오름]] <-> [[국립극장 소극장__venue_2160|국립극장 소극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로극장쿼드__venue_104|대학로극장쿼드]] <-> [[대학로 성균소극장__venue_1383|대학로 성균소극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로 성균소극장__venue_1383|대학로 성균소극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로극장쿼드__venue_104|대학로극장쿼드]] <-> [[대학로 아르코극장__venue_1164|대학로 아르코극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로 아르코극장__venue_1164|대학로 아르코극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로 예술가의집__venue_1104|대학로 예술가의집]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로극장 쿼드__venue_1|대학로극장 쿼드]] <-> [[대학로 예술극장__venue_218|대학로 예술극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마로니에공원__venue_1362|마로니에공원]] <-> [[마로니에 야외공연장__venue_1476|마로니에 야외공연장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[무제움스콰르티어__venue_1329|무제움스콰르티어]] <-> [[무제움 카르티에__venue_2296|무제움 카르티에]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산시민공원 백산홀__venue_145|부산시민공원 백산홀]] <-> [[부산민주공원__venue_744|부산민주공원]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산민주공원 소극장__venue_685|부산민주공원 소극장]] <-> [[부산시민공원__venue_1499|부산시민공원]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산시민공연 사랑채__venue_279|부산시민공연 사랑채]] <-> [[부산시민공원__venue_1499|부산시민공원]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울돈화문국악당__venue_908|서울돈화문국악당]] <-> [[서울 남산국악당__venue_974|서울 남산국악당]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코‧대학로예술극장__venue_642|아르코‧대학로예술극장]] <-> [[아르코극장__venue_648|아르코극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코극장__venue_648|아르코극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코극장__venue_648|아르코극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코극장__venue_648|아르코극장]] <-> [[아르코예슬극장 대극장__venue_970|아르코예슬극장 대극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코대극장__venue_256|아르코대극장]] <-> [[아르코예술극장소극장__venue_370|아르코예술극장소극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코대극장__venue_256|아르코대극장]] <-> [[아르코예술장 소극장__venue_521|아르코예술장 소극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코소극장__venue_269|아르코소극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장대극장__venue_77|아르코예술극장대극장]] <-> [[아르코소극장__venue_269|아르코소극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[영화의전당 하늘연극장__venue_259|영화의전당 하늘연극장]] <-> [[영화의전당__venue_326|영화의전당]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당__venue_1021|예술의 전당]] <-> [[예술의전당 콘서트홀__venue_1354|예술의전당 콘서트홀]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] <-> [[예술의 전당__venue_1021|예술의 전당]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당__venue_150|예술의전당]] <-> [[예술의 전당 토월극장__venue_615|예술의 전당 토월극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당__venue_150|예술의전당]] <-> [[예술의전당 N스튜디오__venue_1207|예술의전당 N스튜디오]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당__venue_150|예술의전당]] <-> [[예술의전당 리사이틀홀__venue_1775|예술의전당 리사이틀홀]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당__venue_150|예술의전당]] <-> [[예술의전당 발레연습실__venue_2357|예술의전당 발레연습실]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당__venue_150|예술의전당]] <-> [[예술의전당 오페라극장__venue_251|예술의전당 오페라극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 자유소극장__venue_22|예술의전당 자유소극장]] <-> [[예술의전당__venue_150|예술의전당]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당__venue_150|예술의전당]] <-> [[예술의전당CJ토월극장__venue_388|예술의전당CJ토월극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이화여대 삼성홀__venue_473|이화여대 삼성홀]] <-> [[이화여대 대강당__venue_583|이화여대 대강당]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의 집 KOUS__venue_909|한국문화의 집 KOUS]] <-> [[한국문화재재단 한국문화의집(KOUS)__venue_1844|한국문화재재단 한국문화의집(KOUS)]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 해오름극장 및 달오름극장__venue_1512|국립극장 해오름극장 및 달오름극장]] <-> [[국립극장 해오름 무대__venue_1771|국립극장 해오름 무대]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 은빛샘홀__venue_752|부산 금정문화회관 은빛샘홀]] <-> [[부산 해운대문화회관 해운 홀__venue_944|부산 해운대문화회관 해운 홀]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 대학로예술극장 소극장__venue_1974|서울 대학로예술극장 소극장]] <-> [[서울문화재단 대학로극장 쿼드__venue_2403|서울문화재단 대학로극장 쿼드]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Be In 극장__venue_1590|Be In 극장]] <-> [[Be IN__venue_1721|Be IN]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LIG아트홀__venue_472|LIG아트홀]] <-> [[LG 아트센터__venue_1092|LG 아트센터]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LIG아트홀__venue_472|LIG아트홀]] <-> [[LIG홀 강남__venue_489|LIG홀 강남]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장__venue_771|국립극장]] <-> [[국립국악원 대극장__venue_1181|국립국악원 대극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장 하늘극장__venue_100|국립극장 하늘극장]] <-> [[국립극장__venue_771|국립극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장해오름극장__venue_380|국립극장해오름극장]] <-> [[국립극장__venue_771|국립극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립정동극장 세실__venue_20|국립정동극장 세실]] <-> [[국립극장__venue_771|국립극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원연악당__venue_448|국립부산국악원연악당]] <-> [[국립부산국악원 소극장(예지당)__venue_2212|국립부산국악원 소극장(예지당)]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대전예술의전당 대극장__venue_348|대전예술의전당 대극장]] <-> [[대전문화예술의전당 앙상블 홀__venue_546|대전문화예술의전당 앙상블 홀]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 대극장__venue_27|대학로예술극장 대극장]] <-> [[대학로예술극장 스튜디오 하늘__venue_1472|대학로예술극장 스튜디오 하늘]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장 소극장__venue_10|대학로예술극장 소극장]] <-> [[대학로예술극장 스튜디오 하늘__venue_1472|대학로예술극장 스튜디오 하늘]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 대학로예술극장 소극장__venue_1974|서울 대학로예술극장 소극장]] <-> [[서울 대학로 예술가의집__venue_2293|서울 대학로 예술가의집]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울남산국악당 크라운해태홀__venue_649|서울남산국악당 크라운해태홀]] <-> [[서울남산국악당 야외마당__venue_1507|서울남산국악당 야외마당]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종S씨어터__venue_101|세종S씨어터]] <-> [[세종 M시어터__venue_1246|세종 M시어터]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종엠씨어터__venue_38|세종엠씨어터]] <-> [[세종 M시어터__venue_1246|세종 M시어터]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종M씨어터__venue_28|세종M씨어터]] <-> [[세종 S시어터__venue_647|세종 S시어터]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종엠씨어터__venue_38|세종엠씨어터]] <-> [[세종 S시어터__venue_647|세종 S시어터]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장__venue_40|아르코예술극장]] <-> [[아르코미술관__venue_559|아르코미술관]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대극장__venue_23|아르코예술극장 대극장]] <-> [[아르코예술극장 스튜디오 다락__venue_535|아르코예술극장 스튜디오 다락]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 소극장__venue_9|아르코예술극장 소극장]] <-> [[아르코예술극장 스튜디오 다락__venue_535|아르코예술극장 스튜디오 다락]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 콘서트홀__venue_1354|예술의전당 콘서트홀]] <-> [[예술의전당과 서강대학교 메리홀__venue_2215|예술의전당과 서강대학교 메리홀]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인천문화예술회관 대전시실__venue_2105|인천문화예술회관 대전시실]] <-> [[인천서구문화회관 대공연장__venue_2272|인천서구문화회관 대공연장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[포이동 엠극장__venue_616|포이동 엠극장]] <-> [[포스트 극장__venue_1070|포스트 극장]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[플랫폼엘__venue_31|플랫폼엘]] <-> [[플랫폼엘 라이브홀__venue_1703|플랫폼엘 라이브홀]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG 아트센터 서울__venue_42|LG 아트센터 서울]] <-> [[LG아트센터 시그니처 홀__venue_1427|LG아트센터 시그니처 홀]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 대극장연악당__venue_401|국립부산국악원 대극장연악당]] <-> [[국립국악원 예약당__venue_1796|국립국악원 예약당]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 대극장연악당__venue_401|국립부산국악원 대극장연악당]] <-> [[국립국악원 우면당__venue_518|국립국악원 우면당]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[남동소래아트홀 대공연장__venue_1440|남동소래아트홀 대공연장]] <-> [[남한산성아트홀 대극장__venue_1874|남한산성아트홀 대극장]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장__venue_218|대학로 예술극장]] <-> [[대학로예술극장 스튜디오 하늘__venue_1472|대학로예술극장 스튜디오 하늘]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장대극장__venue_21|대학로예술극장대극장]] <-> [[대학로예술극장 씨어터카페__venue_1965|대학로예술극장 씨어터카페]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장소극장__venue_204|대학로예술극장소극장]] <-> [[대학로예술극장 씨어터카페__venue_1965|대학로예술극장 씨어터카페]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관 중극장__venue_39|부산문화회관 중극장]] <-> [[부산 금정문화회관 대강당__venue_471|부산 금정문화회관 대강당]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 금정문화회관 대극장__venue_819|부산 금정문화회관 대극장]] <-> [[부산문화회관 중강당__venue_898|부산문화회관 중강당]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산민주공원공연장 작은방__venue_445|부산민주공원공연장 작은방]] <-> [[부산민주공원 소극장__venue_685|부산민주공원 소극장]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산시민공원 백산홀__venue_145|부산시민공원 백산홀]] <-> [[부산시민공원 다솜 전시실__venue_1518|부산시민공원 다솜 전시실]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부평아트센터 달누리극장__venue_957|부평아트센터 달누리극장]] <-> [[부천아트센터 소공연장__venue_1607|부천아트센터 소공연장]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부평아트센터 해누리극장__venue_1575|부평아트센터 해누리극장]] <-> [[부천아트센터 소공연장__venue_1607|부천아트센터 소공연장]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 남산국악당__venue_974|서울 남산국악당]] <-> [[서울남산국악당 크라운 해태홀__venue_2096|서울남산국악당 크라운 해태홀]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울아트센터 도암홀__venue_51|서울아트센터 도암홀]] <-> [[서울 충무아트센터 대극장__venue_2223|서울 충무아트센터 대극장]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 대강당__venue_581|세종문화회관 대강당]] <-> [[세종문화회관 세종M씨어터__venue_2195|세종문화회관 세종M씨어터]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 대극장__venue_25|세종문화회관 대극장]] <-> [[세종문화회관 세종M씨어터__venue_2195|세종문화회관 세종M씨어터]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종문화회관 엠극장__venue_89|세종문화회관 엠극장]] <-> [[세종문화회관 세종M씨어터__venue_2195|세종문화회관 세종M씨어터]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장__venue_476|아르코 예술극장]] <-> [[아르코예술극장 대극장‧소극장__venue_1708|아르코예술극장 대극장‧소극장]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장__venue_476|아르코 예술극장]] <-> [[아르코예술극장 스튜디오 다락__venue_535|아르코예술극장 스튜디오 다락]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코 예술극장 대극장__venue_377|아르코 예술극장 대극장]] <-> [[아르코‧대학로예술극장__venue_642|아르코‧대학로예술극장]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술극장 대ㆍ소극장__venue_443|아르코예술극장 대ㆍ소극장]] <-> [[아르코대학로예술극장__venue_2053|아르코대학로예술극장]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술대극장__venue_306|아르코예술대극장]] <-> [[아르코예술극장 스튜디오 다락__venue_535|아르코예술극장 스튜디오 다락]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[아르코예술소극장__venue_305|아르코예술소극장]] <-> [[아르코예술극장 스튜디오 다락__venue_535|아르코예술극장 스튜디오 다락]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[언더스탠드에비뉴__venue_178|언더스탠드에비뉴]] <-> [[언더스탠드 애비뉴 아트스탠드__venue_1455|언더스탠드 애비뉴 아트스탠드]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] <-> [[예술의전당 N스튜디오__venue_1207|예술의전당 N스튜디오]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당CJ토월극장__venue_388|예술의전당CJ토월극장]] <-> [[예술의 전당 오페라극장__venue_1110|예술의 전당 오페라극장]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당 자유소극장__venue_132|예술의 전당 자유소극장]] <-> [[예술의전당CJ토월극장__venue_388|예술의전당CJ토월극장]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 리사이틀홀__venue_1775|예술의전당 리사이틀홀]] <-> [[예술의전당 IBK챔버홀__venue_2245|예술의전당 IBK챔버홀]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라 극장__venue_1134|예술의전당 오페라 극장]] <-> [[예술의전당 N스튜디오__venue_1207|예술의전당 N스튜디오]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 오페라하우스__venue_323|예술의전당 오페라하우스]] <-> [[예술의전당 N스튜디오__venue_1207|예술의전당 N스튜디오]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당CJ토월극장__venue_388|예술의전당CJ토월극장]] <-> [[예술의전당 오페라 극장__venue_1134|예술의전당 오페라 극장]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터 서울 U+스테이지__venue_122|LG아트센터 서울 U+스테이지]] <-> [[LG아트센터 서울 LG시그니처홀__venue_738|LG아트센터 서울 LG시그니처홀]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[ACC__venue_140|ACC]] <-> [[ACC 극장2__venue_1887|ACC 극장2]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG 아트센터__venue_1092|LG 아트센터]] <-> [[LG아트센터 시그니처 홀__venue_1427|LG아트센터 시그니처 홀]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[LG아트센터__venue_298|LG아트센터]] <-> [[LG아트센터 서울 U+극장__venue_1790|LG아트센터 서울 U+극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 풍류사랑방__venue_389|국립국악원 풍류사랑방]] <-> [[국립국악원 대극장__venue_1181|국립국악원 대극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 연악당__venue_67|국립부산국악원 연악당]] <-> [[국립국악원 대극장__venue_1181|국립국악원 대극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 예악당__venue_2|국립국악원 예악당]] <-> [[국립국악원 풍류사랑방__venue_389|국립국악원 풍류사랑방]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 예악당__venue_2|국립국악원 예악당]] <-> [[국립부산국악원 대극장__venue_366|국립부산국악원 대극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 풍류사랑방__venue_389|국립국악원 풍류사랑방]] <-> [[국립국악원 예약당__venue_1796|국립국악원 예약당]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 대극장__venue_366|국립부산국악원 대극장]] <-> [[국립국악원 예약당__venue_1796|국립국악원 예약당]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립국악원 풍류사랑방__venue_389|국립국악원 풍류사랑방]] <-> [[국립국악원 우면당__venue_518|국립국악원 우면당]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립부산국악원 대극장__venue_366|국립부산국악원 대극장]] <-> [[국립국악원 우면당__venue_518|국립국악원 우면당]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[국립극장해오름극장__venue_380|국립극장해오름극장]] <-> [[국립극장 KB하늘극장__venue_396|국립극장 KB하늘극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대구봉산문화회관 가온홀__venue_391|대구봉산문화회관 가온홀]] <-> [[대구문화예술회관__venue_457|대구문화예술회관]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로__venue_595|대학로]] <-> [[대학로 대극장__venue_628|대학로 대극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로극장쿼드__venue_104|대학로극장쿼드]] <-> [[대학로__venue_595|대학로]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장__venue_5|대학로예술극장]] <-> [[대학로__venue_595|대학로]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 아르코극장__venue_1164|대학로 아르코극장]] <-> [[대학로 알과핵 소극장__venue_2388|대학로 알과핵 소극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장소극장__venue_16|대학로 예술극장소극장]] <-> [[대학로 아르코극장__venue_1164|대학로 아르코극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로예술극장대극장__venue_21|대학로예술극장대극장]] <-> [[대학로 아르코대극장__venue_1924|대학로 아르코대극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[대학로 예술극장소극장__venue_16|대학로 예술극장소극장]] <-> [[대학로 예술가의집__venue_1104|대학로 예술가의집]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[동덕여대 코튼홀__venue_64|동덕여대 코튼홀]] <-> [[동덕공연예술센터 코튼홀__venue_390|동덕공연예술센터 코튼홀]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[두산아트센터__venue_265|두산아트센터]] <-> [[두산아트센터 스페이스111__venue_314|두산아트센터 스페이스111]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[메리홀__venue_255|메리홀]] <-> [[메리홀 대극장__venue_1976|메리홀 대극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 해운대문화회관 해운 홀__venue_944|부산 해운대문화회관 해운 홀]] <-> [[부산 금정문화회관 금빛누리홀__venue_1552|부산 금정문화회관 금빛누리홀]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관__venue_282|부산문화회관]] <-> [[부산 금정문화회관 은빛샘홀__venue_752|부산 금정문화회관 은빛샘홀]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산 시민공원 작은 갤러리__venue_706|부산 시민공원 작은 갤러리]] <-> [[부산시민공원__venue_1499|부산시민공원]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산문화회관__venue_282|부산문화회관]] <-> [[부산금정문화회관 금빛누리홀__venue_635|부산금정문화회관 금빛누리홀]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산시민공원 백산홀__venue_145|부산시민공원 백산홀]] <-> [[부산민주공원 소극장__venue_685|부산민주공원 소극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산민주공원 소극장__venue_685|부산민주공원 소극장]] <-> [[부산시민회관 대극장__venue_874|부산시민회관 대극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[부산시민공원 백산홀__venue_145|부산시민공원 백산홀]] <-> [[부산시민공연 사랑채__venue_279|부산시민공연 사랑채]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대 메리홀 대극장__venue_99|서강대 메리홀 대극장]] <-> [[서울 서강대메리홀__venue_626|서울 서강대메리홀]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 서강대메리홀__venue_626|서울 서강대메리홀]] <-> [[서강대 메리홀 소극장__venue_1088|서강대 메리홀 소극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서강대학교메리홀소극장__venue_308|서강대학교메리홀소극장]] <-> [[서울 서강대메리홀__venue_626|서울 서강대메리홀]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서귀포예술의전당 대극장__venue_1719|서귀포예술의전당 대극장]] <-> [[서울 서초동 예술의전당 자유소극장__venue_2056|서울 서초동 예술의전당 자유소극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 예술의전당__venue_1359|서울 예술의전당]] <-> [[서귀포예술의전당 대극장__venue_1719|서귀포예술의전당 대극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 강동아트센터__venue_1755|서울 강동아트센터]] <-> [[서울 삼성동 섬유센터__venue_2030|서울 삼성동 섬유센터]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 대학로__venue_646|서울 대학로]] <-> [[서울 대학로예술극장 소극장__venue_1974|서울 대학로예술극장 소극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서울 예술의전당__venue_1359|서울 예술의전당]] <-> [[서울 대학로 예술가의집__venue_2293|서울 대학로 예술가의집]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[세종 M시어터__venue_1246|세종 M시어터]] <-> [[세종문화회관 세종M씨어터__venue_2195|세종문화회관 세종M씨어터]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[소극장__venue_333|소극장]] <-> [[소극장 혜화당__venue_2118|소극장 혜화당]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당__venue_150|예술의전당]] <-> [[예술가의집__venue_643|예술가의집]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의 전당__venue_1021|예술의 전당]] <-> [[예술의 전당 CJ 토월극장__venue_1089|예술의 전당 CJ 토월극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[예술의전당 토월극장__venue_230|예술의전당 토월극장]] <-> [[예술의전당 콘서트홀__venue_1354|예술의전당 콘서트홀]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이대 삼성홀__venue_280|이대 삼성홀]] <-> [[이화여대 ECC 내 삼성홀__venue_606|이화여대 ECC 내 삼성홀]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[제주문예회관 대극장__venue_365|제주문예회관 대극장]] <-> [[제주아트센터 대극장__venue_1934|제주아트센터 대극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[제주아트센터__venue_8|제주아트센터]] <-> [[제주아트센터 1층 세미나실__venue_1573|제주아트센터 1층 세미나실]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[축제극장몸짓__venue_1712|축제극장몸짓]] <-> [[축제극장몸짓과 춘천인형극장__venue_2141|축제극장몸짓과 춘천인형극장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국소리문화의전당 모악당__venue_770|한국소리문화의전당 모악당]] <-> [[한국문화의 집__venue_955|한국문화의 집]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집KOUS__venue_1977|한국문화의집KOUS]] <-> [[한국문화의집 공연장__venue_2304|한국문화의집 공연장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국의 집 민속극장__venue_1933|한국의 집 민속극장]] <-> [[한국문화의집 공연장__venue_2304|한국문화의집 공연장]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한국문화의집 코우스__venue_865|한국문화의집 코우스]] <-> [[한국문화의집KOUS__venue_1977|한국문화의집KOUS]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject

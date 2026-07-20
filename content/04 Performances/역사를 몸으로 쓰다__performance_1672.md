@@ -1,0 +1,37 @@
+---
+entity_type: "performance"
+performance_id: 1672
+title: "역사를 몸으로 쓰다"
+performance_date: null
+start_date: null
+end_date: null
+festival: null
+city: null
+country: null
+extraction_method: "cooccurrence"
+verification_status: "inferred"
+confidence: 0.4
+---
+
+# 역사를 몸으로 쓰다
+
+> ⚠️ **추론된 데이터**: 이 공연 기록은 기사 co-occurrence로 추정된 것으로, 사람이 검증하지 않았습니다. (extraction_method=cooccurrence, verification_status=inferred, confidence=0.4)
+
+## 작품 / 날짜 / 공연장 / 단체
+
+- 작품: [[역사를 몸으로 쓰다__work_883|역사를 몸으로 쓰다]]
+- 공연장: [[국립현대미술관 과천관__venue_1003|국립현대미술관 과천관]]
+
+## 관련 리뷰와 콘텐츠
+
+- [리뷰] [[혁신과 소통의 몸짓에 대한 기억 - 《역사를 몸으로 쓰다》__editorial_2550|혁신과 소통의 몸짓에 대한 기억 - 《역사를 몸으로 쓰다》]] (관계 추론됨)
+
+## extraction_method / verification_status / confidence
+
+- extraction_method: cooccurrence
+- verification_status: inferred
+- confidence: 0.4
+
+## Source Evidence
+
+- 근거 기사: [리뷰] [[혁신과 소통의 몸짓에 대한 기억 - 《역사를 몸으로 쓰다》__editorial_2550|혁신과 소통의 몸짓에 대한 기억 - 《역사를 몸으로 쓰다》]]

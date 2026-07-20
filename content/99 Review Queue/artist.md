@@ -1,0 +1,2767 @@
+# Review Queue — artist
+
+pending 후보 921건
+
+- [ ] [[장-크리스토프 마요__artist_326|장-크리스토프 마요]] <-> [[장-크리스토프 마이요__artist_589|장-크리스토프 마이요]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장-크리스토프 마요__artist_326|장-크리스토프 마요]] <-> [[장크리스토프 마요__artist_437|장크리스토프 마요]] — similarity 0.95
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[디미트리스 파파이오아누__artist_495|디미트리스 파파이오아누]] <-> [[디미트리스 파파이오안누__artist_929|디미트리스 파파이오안누]] — similarity 0.92
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장 크리스토프 마이요__artist_455|장 크리스토프 마이요]] <-> [[장-크리스토프 마이요__artist_589|장-크리스토프 마이요]] — similarity 0.91
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[증룩산 Terry Tsang__artist_9|증룩산 Terry Tsang]] <-> [[증룩산(Terry Tsang)__artist_610|증룩산(Terry Tsang)]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장크리스토프 마요__artist_437|장크리스토프 마요]] <-> [[장 크리스토프 마이요__artist_455|장 크리스토프 마이요]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장크리스토프 마요__artist_437|장크리스토프 마요]] <-> [[장-크리스토프 마이요__artist_589|장-크리스토프 마이요]] — similarity 0.90
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[린 화이민__artist_532|린 화이민]] <-> [[린화이민__artist_868|린화이민]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[올레그 그라도프__artist_500|올레그 그라도프]] <-> [[올레그 비노그라도프__artist_834|올레그 비노그라도프]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유리 그리가로비치__artist_231|유리 그리가로비치]] <-> [[유리 그리고로비치__artist_305|유리 그리고로비치]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[제임스전__artist_101|제임스전]] <-> [[제임스 전__artist_244|제임스 전]] — similarity 0.89
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[마리위스 프티파__artist_657|마리위스 프티파]] <-> [[마리우스 프티파__artist_720|마리우스 프티파]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[에드워드 클류그__artist_454|에드워드 클류그]] <-> [[에드워드 클러그__artist_767|에드워드 클러그]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[윌리엄 포사이드__artist_336|윌리엄 포사이드]] <-> [[윌리엄 포사이스__artist_392|윌리엄 포사이스]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[크리스탈 파이트__artist_582|크리스탈 파이트]] <-> [[크리스털 파이트__artist_925|크리스털 파이트]] — similarity 0.88
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[린화민__artist_247|린화민]] <-> [[린화이민__artist_868|린화이민]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[미나 유__artist_75|미나 유]] <-> [[미나유__artist_142|미나유]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[상 지자__artist_393|상 지자]] <-> [[상지자__artist_612|상지자]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장-크리스토프 마요__artist_326|장-크리스토프 마요]] <-> [[장 크리스토프 마이요__artist_455|장 크리스토프 마이요]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[케네스 맥밀런__artist_477|케네스 맥밀런]] <-> [[케네스 맥밀란__artist_505|케네스 맥밀란]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한스 반 마넨__artist_42|한스 반 마넨]] <-> [[한스 판 마넨__artist_626|한스 판 마넨]] — similarity 0.86
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[다미안 잘레__artist_442|다미안 잘레]] <-> [[다미앵 잘레__artist_934|다미앵 잘레]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[크리스 해링__artist_180|크리스 해링]] <-> [[크리스 하링__artist_514|크리스 하링]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[호페쉬 쉑터__artist_30|호페쉬 쉑터]] <-> [[호페쉬 셱터__artist_646|호페쉬 셱터]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안느 테레사 드 케이르스마커__artist_193|안느 테레사 드 케이르스마커]] <-> [[안 테레사 드 케에르스매커__artist_787|안 테레사 드 케에르스매커]] — similarity 0.83
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민__artist_82|김민]] <-> [[김민우__artist_458|김민우]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민__artist_82|김민]] <-> [[김민자__artist_742|김민자]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민__artist_82|김민]] <-> [[김민지__artist_105|김민지]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민__artist_82|김민]] <-> [[김민희__artist_819|김민희]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민__artist_82|김민]] <-> [[김성민__artist_227|김성민]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민__artist_82|김민]] <-> [[김정민__artist_272|김정민]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김옥__artist_162|김옥]] <-> [[김선옥__artist_812|김선옥]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김옥__artist_162|김옥]] <-> [[김옥련__artist_450|김옥련]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[밝넝쿨&인정주__artist_567|밝넝쿨&인정주]] <-> [[밝넝쿨과 인정주__artist_630|밝넝쿨과 인정주]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[백연__artist_34|백연]] <-> [[백연옥__artist_557|백연옥]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[빔 반데키부스__artist_576|빔 반데키부스]] <-> [[빔 반데케이부스__artist_883|빔 반데케이부스]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[위보라__artist_79|위보라]] <-> [[위보__artist_693|위보]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이길현__artist_451|이길현]] <-> [[이현__artist_715|이현]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이나현__artist_145|이나현]] <-> [[이현__artist_715|이현]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이현__artist_715|이현]] <-> [[이주현__artist_809|이주현]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이지현__artist_87|이지현]] <-> [[이현__artist_715|이현]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최명현__artist_197|최명현]] <-> [[최현__artist_310|최현]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최선__artist_252|최선]] <-> [[최민선__artist_927|최민선]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최선__artist_252|최선]] <-> [[최원선__artist_655|최원선]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최영현__artist_109|최영현]] <-> [[최현__artist_310|최현]] — similarity 0.80
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[앙쥴랭 프렐조카쥬__artist_98|앙쥴랭 프렐조카쥬]] <-> [[앙줄랭 프렐조카주__artist_687|앙줄랭 프렐조카주]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[앙쥴렝 프렐조카주__artist_271|앙쥴렝 프렐조카주]] <-> [[앙줄랭 프렐조카주__artist_687|앙줄랭 프렐조카주]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[앙쥴랭 프렐조카쥬__artist_98|앙쥴랭 프렐조카쥬]] <-> [[앙쥴렝 프렐조카주__artist_271|앙쥴렝 프렐조카주]] — similarity 0.78
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[존 노이마이어__artist_337|존 노이마이어]] <-> [[존 뉴마이어__artist_641|존 뉴마이어]] — similarity 0.77
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[린화민__artist_247|린화민]] <-> [[린 화이민__artist_532|린 화이민]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[양윤타오__artist_391|양윤타오]] <-> [[양윈타오__artist_608|양윈타오]] — similarity 0.75
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[시몬 비뢰드__artist_798|시몬 비뢰드]] <-> [[시모네 비어뢰드__artist_915|시모네 비어뢰드]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이어리 킬리안__artist_177|이어리 킬리안]] <-> [[이르지 킬리안__artist_633|이르지 킬리안]] — similarity 0.71
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강미리__artist_186|강미리]] <-> [[강주미__artist_421|강주미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강민호__artist_294|강민호]] <-> [[강현민__artist_903|강현민]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강수진__artist_545|강수진]] <-> [[강진안__artist_928|강진안]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강화정__artist_595|강화정]] <-> [[강윤정__artist_785|강윤정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[강주미__artist_421|강주미]] <-> [[강주경__artist_788|강주경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[공영선__artist_196|공영선]] <-> [[공민선__artist_804|공민선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[권효진__artist_653|권효진]] <-> [[권효원__artist_680|권효원]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경란__artist_49|김경란]] <-> [[김경숙__artist_661|김경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경란__artist_49|김경란]] <-> [[김경신__artist_94|김경신]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경은__artist_46|김경은]] <-> [[김경란__artist_49|김경란]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경란__artist_49|김경란]] <-> [[김경진__artist_543|김경진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경란__artist_49|김경란]] <-> [[김경희__artist_470|김경희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경란__artist_49|김경란]] <-> [[김미란__artist_431|김미란]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경란__artist_49|김경란]] <-> [[김부경__artist_113|김부경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경란__artist_49|김경란]] <-> [[김영란__artist_659|김영란]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경란__artist_49|김경란]] <-> [[김온경__artist_553|김온경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경란__artist_49|김경란]] <-> [[김혜경__artist_643|김혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경신__artist_94|김경신]] <-> [[김경숙__artist_661|김경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경은__artist_46|김경은]] <-> [[김경숙__artist_661|김경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경진__artist_543|김경진]] <-> [[김경숙__artist_661|김경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경희__artist_470|김경희]] <-> [[김경숙__artist_661|김경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경숙__artist_661|김경숙]] <-> [[김문숙__artist_758|김문숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미숙__artist_648|김미숙]] <-> [[김경숙__artist_661|김경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김부경__artist_113|김부경]] <-> [[김경숙__artist_661|김경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경숙__artist_661|김경숙]] <-> [[김숙자__artist_674|김숙자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김경숙__artist_661|김경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김온경__artist_553|김온경]] <-> [[김경숙__artist_661|김경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진숙__artist_273|김진숙]] <-> [[김경숙__artist_661|김경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜경__artist_643|김혜경]] <-> [[김경숙__artist_661|김경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜숙__artist_317|김혜숙]] <-> [[김경숙__artist_661|김경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김화숙__artist_333|김화숙]] <-> [[김경숙__artist_661|김경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경은__artist_46|김경은]] <-> [[김경신__artist_94|김경신]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경신__artist_94|김경신]] <-> [[김경진__artist_543|김경진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경신__artist_94|김경신]] <-> [[김경희__artist_470|김경희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경신__artist_94|김경신]] <-> [[김부경__artist_113|김부경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경신__artist_94|김경신]] <-> [[김온경__artist_553|김온경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경신__artist_94|김경신]] <-> [[김혜경__artist_643|김혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경은__artist_46|김경은]] <-> [[김경진__artist_543|김경진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경은__artist_46|김경은]] <-> [[김경희__artist_470|김경희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경은__artist_46|김경은]] <-> [[김부경__artist_113|김부경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경은__artist_46|김경은]] <-> [[김온경__artist_553|김온경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경은__artist_46|김경은]] <-> [[김은희__artist_138|김은희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경은__artist_46|김경은]] <-> [[김정은__artist_278|김정은]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경은__artist_46|김경은]] <-> [[김혜경__artist_643|김혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경희__artist_470|김경희]] <-> [[김경진__artist_543|김경진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남진__artist_12|김남진]] <-> [[김경진__artist_543|김경진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김부경__artist_113|김부경]] <-> [[김경진__artist_543|김경진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김설진__artist_24|김설진]] <-> [[김경진__artist_543|김경진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경진__artist_543|김경진]] <-> [[김수진__artist_763|김수진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경진__artist_543|김경진]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김경진__artist_543|김경진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경진__artist_543|김경진]] <-> [[김온경__artist_553|김온경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경진__artist_543|김경진]] <-> [[김유진__artist_877|김유진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경진__artist_543|김경진]] <-> [[김진걸__artist_727|김진걸]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경진__artist_543|김경진]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진숙__artist_273|김진숙]] <-> [[김경진__artist_543|김경진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진원__artist_374|김진원]] <-> [[김경진__artist_543|김경진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현진__artist_537|김현진]] <-> [[김경진__artist_543|김경진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경진__artist_543|김경진]] <-> [[김혜경__artist_643|김혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경희__artist_470|김경희]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경희__artist_470|김경희]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경희__artist_470|김경희]] <-> [[김복희__artist_796|김복희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김부경__artist_113|김부경]] <-> [[김경희__artist_470|김경희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경희__artist_470|김경희]] <-> [[김선희__artist_487|김선희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김경희__artist_470|김경희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경희__artist_470|김경희]] <-> [[김온경__artist_553|김온경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경희__artist_470|김경희]] <-> [[김율희__artist_695|김율희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김은희__artist_138|김은희]] <-> [[김경희__artist_470|김경희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경희__artist_470|김경희]] <-> [[김인희__artist_754|김인희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김준희__artist_263|김준희]] <-> [[김경희__artist_470|김경희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경희__artist_470|김경희]] <-> [[김춘희__artist_698|김춘희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경희__artist_470|김경희]] <-> [[김혜경__artist_643|김혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김경희__artist_470|김경희]] <-> [[김환희__artist_571|김환희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김희선__artist_344|김희선]] <-> [[김경희__artist_470|김경희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김기범__artist_434|김기범]] <-> [[김기인__artist_848|김기인]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김기범__artist_434|김기범]] <-> [[김슬기__artist_542|김슬기]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김슬기__artist_542|김슬기]] <-> [[김기인__artist_848|김기인]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김인희__artist_754|김인희]] <-> [[김기인__artist_848|김기인]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김길용__artist_163|김길용]] <-> [[김길태__artist_649|김길태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성용__artist_29|김성용]] <-> [[김길용__artist_163|김길용]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김길용__artist_163|김길용]] <-> [[김용걸__artist_234|김용걸]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김길용__artist_163|김길용]] <-> [[김용복__artist_805|김용복]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김길용__artist_163|김길용]] <-> [[김용우__artist_842|김용우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김용철__artist_80|김용철]] <-> [[김길용__artist_163|김길용]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김길태__artist_649|김길태]] <-> [[김영태__artist_849|김영태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김태석__artist_520|김태석]] <-> [[김길태__artist_649|김길태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김태훈__artist_192|김태훈]] <-> [[김길태__artist_649|김길태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현태__artist_3|김현태]] <-> [[김길태__artist_649|김길태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김나이__artist_416|김나이]] <-> [[김유나__artist_464|김유나]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남식__artist_375|김남식]] <-> [[김남선__artist_771|김남선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남진__artist_12|김남진]] <-> [[김남선__artist_771|김남선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미선__artist_435|김미선]] <-> [[김남선__artist_771|김남선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미__artist_207|김선미]] <-> [[김남선__artist_771|김남선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남선__artist_771|김남선]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남선__artist_771|김남선]] <-> [[김선옥__artist_812|김선옥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선희__artist_487|김선희]] <-> [[김남선__artist_771|김남선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김판선__artist_320|김판선]] <-> [[김남선__artist_771|김남선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현선__artist_760|김현선]] <-> [[김남선__artist_771|김남선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김형남__artist_549|김형남]] <-> [[김남선__artist_771|김남선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김희선__artist_344|김희선]] <-> [[김남선__artist_771|김남선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남진__artist_12|김남진]] <-> [[김남식__artist_375|김남식]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남식__artist_375|김남식]] <-> [[김형남__artist_549|김형남]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남진__artist_12|김남진]] <-> [[김설진__artist_24|김설진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남진__artist_12|김남진]] <-> [[김수진__artist_763|김수진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남진__artist_12|김남진]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남진__artist_12|김남진]] <-> [[김영진__artist_23|김영진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남진__artist_12|김남진]] <-> [[김유진__artist_877|김유진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남진__artist_12|김남진]] <-> [[김진걸__artist_727|김진걸]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남진__artist_12|김남진]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남진__artist_12|김남진]] <-> [[김진숙__artist_273|김진숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남진__artist_12|김남진]] <-> [[김진원__artist_374|김진원]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남진__artist_12|김남진]] <-> [[김현진__artist_537|김현진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김남진__artist_12|김남진]] <-> [[김형남__artist_549|김형남]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김세연__artist_132|김세연]] <-> [[김도연__artist_489|김도연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김도연__artist_489|김도연]] <-> [[김연정__artist_583|김연정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김도연__artist_489|김도연]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김도연__artist_489|김도연]] <-> [[김연화__artist_808|김연화]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김도연__artist_489|김도연]] <-> [[김혜연__artist_572|김혜연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김호연__artist_144|김호연]] <-> [[김도연__artist_489|김도연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김동규__artist_531|김동규]] <-> [[김동석__artist_602|김동석]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김동규__artist_531|김동규]] <-> [[김동욱__artist_733|김동욱]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김동규__artist_531|김동규]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김병규__artist_312|김병규]] <-> [[김동규__artist_531|김동규]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤규__artist_175|김윤규]] <-> [[김동규__artist_531|김동규]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김동규__artist_531|김동규]] <-> [[김호동__artist_769|김호동]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김동석__artist_602|김동석]] <-> [[김동욱__artist_733|김동욱]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김동석__artist_602|김동석]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김우석__artist_237|김우석]] <-> [[김동석__artist_602|김동석]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김태석__artist_520|김태석]] <-> [[김동석__artist_602|김동석]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김동석__artist_602|김동석]] <-> [[김호동__artist_769|김호동]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김동욱__artist_733|김동욱]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김동욱__artist_733|김동욱]] <-> [[김호동__artist_769|김호동]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민희__artist_819|김민희]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김복희__artist_796|김복희]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선희__artist_487|김선희]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김율희__artist_695|김율희]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김은희__artist_138|김은희]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김인희__artist_754|김인희]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김준희__artist_263|김준희]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김춘희__artist_698|김춘희]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김호동__artist_769|김호동]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김환희__artist_571|김환희]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김희선__artist_344|김희선]] <-> [[김동희__artist_835|김동희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김매자__artist_236|김매자]] <-> [[김민자__artist_742|김민자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김매자__artist_236|김매자]] <-> [[김숙자__artist_674|김숙자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김매자__artist_236|김매자]] <-> [[김자영__artist_277|김자영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미숙__artist_648|김미숙]] <-> [[김문숙__artist_758|김문숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김숙자__artist_674|김숙자]] <-> [[김문숙__artist_758|김문숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김문숙__artist_758|김문숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진숙__artist_273|김진숙]] <-> [[김문숙__artist_758|김문숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜숙__artist_317|김혜숙]] <-> [[김문숙__artist_758|김문숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김화숙__artist_333|김화숙]] <-> [[김문숙__artist_758|김문숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미란__artist_431|김미란]] <-> [[김미선__artist_435|김미선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미란__artist_431|김미란]] <-> [[김미숙__artist_648|김미숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미__artist_207|김선미]] <-> [[김미란__artist_431|김미란]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미란__artist_431|김미란]] <-> [[김영란__artist_659|김영란]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미란__artist_431|김미란]] <-> [[김영미__artist_774|김영미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미란__artist_431|김미란]] <-> [[김운미__artist_510|김운미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김유미__artist_398|김유미]] <-> [[김미란__artist_431|김미란]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미란__artist_431|김미란]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미선__artist_435|김미선]] <-> [[김미숙__artist_648|김미숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미__artist_207|김선미]] <-> [[김미선__artist_435|김미선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미선__artist_435|김미선]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미선__artist_435|김미선]] <-> [[김선옥__artist_812|김선옥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미선__artist_435|김미선]] <-> [[김선희__artist_487|김선희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미선__artist_435|김미선]] <-> [[김영미__artist_774|김영미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미선__artist_435|김미선]] <-> [[김운미__artist_510|김운미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김유미__artist_398|김유미]] <-> [[김미선__artist_435|김미선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미선__artist_435|김미선]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김판선__artist_320|김판선]] <-> [[김미선__artist_435|김미선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미선__artist_435|김미선]] <-> [[김현선__artist_760|김현선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김희선__artist_344|김희선]] <-> [[김미선__artist_435|김미선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미__artist_207|김선미]] <-> [[김미숙__artist_648|김미숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미숙__artist_648|김미숙]] <-> [[김숙자__artist_674|김숙자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미숙__artist_648|김미숙]] <-> [[김영미__artist_774|김영미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김미숙__artist_648|김미숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김운미__artist_510|김운미]] <-> [[김미숙__artist_648|김미숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김유미__artist_398|김유미]] <-> [[김미숙__artist_648|김미숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김미숙__artist_648|김미숙]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진숙__artist_273|김진숙]] <-> [[김미숙__artist_648|김미숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜숙__artist_317|김혜숙]] <-> [[김미숙__artist_648|김미숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김화숙__artist_333|김화숙]] <-> [[김미숙__artist_648|김미숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민우__artist_458|김민우]] <-> [[김민자__artist_742|김민자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민지__artist_105|김민지]] <-> [[김민우__artist_458|김민우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민우__artist_458|김민우]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성민__artist_227|김성민]] <-> [[김민우__artist_458|김민우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민우__artist_458|김민우]] <-> [[김용우__artist_842|김용우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김우석__artist_237|김우석]] <-> [[김민우__artist_458|김민우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정민__artist_272|김정민]] <-> [[김민우__artist_458|김민우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민우__artist_458|김민우]] <-> [[김지우__artist_604|김지우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민지__artist_105|김민지]] <-> [[김민자__artist_742|김민자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민자__artist_742|김민자]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성민__artist_227|김성민]] <-> [[김민자__artist_742|김민자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김숙자__artist_674|김숙자]] <-> [[김민자__artist_742|김민자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김자영__artist_277|김자영]] <-> [[김민자__artist_742|김민자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정민__artist_272|김정민]] <-> [[김민자__artist_742|김민자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민지__artist_105|김민지]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민지__artist_105|김민지]] <-> [[김성민__artist_227|김성민]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민지__artist_105|김민지]] <-> [[김정민__artist_272|김정민]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민지__artist_105|김민지]] <-> [[김지영__artist_669|김지영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김민지__artist_105|김민지]] <-> [[김지우__artist_604|김지우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김복희__artist_796|김복희]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선희__artist_487|김선희]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성민__artist_227|김성민]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김율희__artist_695|김율희]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김은희__artist_138|김은희]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김인희__artist_754|김인희]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정민__artist_272|김정민]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김준희__artist_263|김준희]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김춘희__artist_698|김춘희]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김환희__artist_571|김환희]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김희선__artist_344|김희선]] <-> [[김민희__artist_819|김민희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김재리__artist_352|김재리]] <-> [[김바리__artist_574|김바리]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김봉순__artist_411|김봉순]] <-> [[김백봉__artist_427|김백봉]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤규__artist_175|김윤규]] <-> [[김병규__artist_312|김병규]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김보라__artist_8|김보라]] <-> [[김보람__artist_55|김보람]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김복희__artist_796|김복희]] <-> [[김복련__artist_887|김복련]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김옥련__artist_450|김옥련]] <-> [[김복련__artist_887|김복련]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김용복__artist_805|김용복]] <-> [[김복련__artist_887|김복련]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선희__artist_487|김선희]] <-> [[김복희__artist_796|김복희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김복희__artist_796|김복희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김복희__artist_796|김복희]] <-> [[김용복__artist_805|김용복]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김율희__artist_695|김율희]] <-> [[김복희__artist_796|김복희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김은희__artist_138|김은희]] <-> [[김복희__artist_796|김복희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김인희__artist_754|김인희]] <-> [[김복희__artist_796|김복희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김준희__artist_263|김준희]] <-> [[김복희__artist_796|김복희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김춘희__artist_698|김춘희]] <-> [[김복희__artist_796|김복희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김환희__artist_571|김환희]] <-> [[김복희__artist_796|김복희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김희선__artist_344|김희선]] <-> [[김복희__artist_796|김복희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김순정__artist_365|김순정]] <-> [[김봉순__artist_411|김봉순]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김순주__artist_328|김순주]] <-> [[김봉순__artist_411|김봉순]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김부경__artist_113|김부경]] <-> [[김온경__artist_553|김온경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김부경__artist_113|김부경]] <-> [[김혜경__artist_643|김혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김재덕__artist_37|김재덕]] <-> [[김상덕__artist_210|김상덕]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김상덕__artist_210|김상덕]] <-> [[김종덕__artist_380|김종덕]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미__artist_207|김선미]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미__artist_207|김선미]] <-> [[김선옥__artist_812|김선옥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미__artist_207|김선미]] <-> [[김선희__artist_487|김선희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미__artist_207|김선미]] <-> [[김영미__artist_774|김영미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미__artist_207|김선미]] <-> [[김운미__artist_510|김운미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미__artist_207|김선미]] <-> [[김유미__artist_398|김유미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미__artist_207|김선미]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미__artist_207|김선미]] <-> [[김판선__artist_320|김판선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미__artist_207|김선미]] <-> [[김현선__artist_760|김현선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선미__artist_207|김선미]] <-> [[김희선__artist_344|김희선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선옥__artist_812|김선옥]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선희__artist_487|김선희]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영란__artist_659|김영란]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영미__artist_774|김영미]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영웅__artist_640|김영웅]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영찬__artist_503|김영찬]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영태__artist_849|김영태]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김자영__artist_277|김자영]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김지영__artist_669|김지영]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김판선__artist_320|김판선]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현선__artist_760|김현선]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김희선__artist_344|김희선]] <-> [[김선영__artist_926|김선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선희__artist_487|김선희]] <-> [[김선옥__artist_812|김선옥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김옥련__artist_450|김옥련]] <-> [[김선옥__artist_812|김선옥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김판선__artist_320|김판선]] <-> [[김선옥__artist_812|김선옥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현선__artist_760|김현선]] <-> [[김선옥__artist_812|김선옥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김희선__artist_344|김희선]] <-> [[김선옥__artist_812|김선옥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김선희__artist_487|김선희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선희__artist_487|김선희]] <-> [[김율희__artist_695|김율희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김은희__artist_138|김은희]] <-> [[김선희__artist_487|김선희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선희__artist_487|김선희]] <-> [[김인희__artist_754|김인희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김준희__artist_263|김준희]] <-> [[김선희__artist_487|김선희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선희__artist_487|김선희]] <-> [[김춘희__artist_698|김춘희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김판선__artist_320|김판선]] <-> [[김선희__artist_487|김선희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선희__artist_487|김선희]] <-> [[김현선__artist_760|김현선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김선희__artist_487|김선희]] <-> [[김환희__artist_571|김환희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김희선__artist_344|김희선]] <-> [[김선희__artist_487|김선희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김설진__artist_24|김설진]] <-> [[김수진__artist_763|김수진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김설진__artist_24|김설진]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김설진__artist_24|김설진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김설진__artist_24|김설진]] <-> [[김유진__artist_877|김유진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김설진__artist_24|김설진]] <-> [[김진걸__artist_727|김진걸]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김설진__artist_24|김설진]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김설진__artist_24|김설진]] <-> [[김진숙__artist_273|김진숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김설진__artist_24|김설진]] <-> [[김진원__artist_374|김진원]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김설진__artist_24|김설진]] <-> [[김현진__artist_537|김현진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성용__artist_29|김성용]] <-> [[김성민__artist_227|김성민]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성민__artist_227|김성민]] <-> [[김성한__artist_298|김성한]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성훈__artist_89|김성훈]] <-> [[김성민__artist_227|김성민]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성민__artist_227|김성민]] <-> [[김정민__artist_272|김정민]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성용__artist_29|김성용]] <-> [[김성한__artist_298|김성한]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성용__artist_29|김성용]] <-> [[김성훈__artist_89|김성훈]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성용__artist_29|김성용]] <-> [[김용걸__artist_234|김용걸]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성용__artist_29|김성용]] <-> [[김용복__artist_805|김용복]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성용__artist_29|김성용]] <-> [[김용우__artist_842|김용우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성용__artist_29|김성용]] <-> [[김용철__artist_80|김용철]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성훈__artist_89|김성훈]] <-> [[김성한__artist_298|김성한]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김충한__artist_201|김충한]] <-> [[김성한__artist_298|김성한]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성훈__artist_89|김성훈]] <-> [[김정훈__artist_213|김정훈]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김성훈__artist_89|김성훈]] <-> [[김태훈__artist_192|김태훈]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김세연__artist_132|김세연]] <-> [[김연정__artist_583|김연정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김세연__artist_132|김세연]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김세연__artist_132|김세연]] <-> [[김연화__artist_808|김연화]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김세연__artist_132|김세연]] <-> [[김혜연__artist_572|김혜연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김세연__artist_132|김세연]] <-> [[김호연__artist_144|김호연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김수정__artist_629|김수정]] <-> [[김수진__artist_763|김수진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김수현__artist_335|김수현]] <-> [[김수정__artist_629|김수정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김순정__artist_365|김순정]] <-> [[김수정__artist_629|김수정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김연정__artist_583|김연정]] <-> [[김수정__artist_629|김수정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤수__artist_251|김윤수]] <-> [[김수정__artist_629|김수정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤정__artist_153|김윤정]] <-> [[김수정__artist_629|김수정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정민__artist_272|김정민]] <-> [[김수정__artist_629|김수정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정아__artist_628|김정아]] <-> [[김수정__artist_629|김수정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정은__artist_278|김정은]] <-> [[김수정__artist_629|김수정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정훈__artist_213|김정훈]] <-> [[김수정__artist_629|김수정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김평수__artist_460|김평수]] <-> [[김수정__artist_629|김수정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김수현__artist_335|김수현]] <-> [[김수진__artist_763|김수진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김수진__artist_763|김수진]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김수진__artist_763|김수진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김수진__artist_763|김수진]] <-> [[김유진__artist_877|김유진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤수__artist_251|김윤수]] <-> [[김수진__artist_763|김수진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진걸__artist_727|김진걸]] <-> [[김수진__artist_763|김수진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김수진__artist_763|김수진]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진숙__artist_273|김진숙]] <-> [[김수진__artist_763|김수진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진원__artist_374|김진원]] <-> [[김수진__artist_763|김수진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김평수__artist_460|김평수]] <-> [[김수진__artist_763|김수진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현진__artist_537|김현진]] <-> [[김수진__artist_763|김수진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤수__artist_251|김윤수]] <-> [[김수현__artist_335|김수현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김수현__artist_335|김수현]] <-> [[김주현__artist_871|김주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김수현__artist_335|김수현]] <-> [[김평수__artist_460|김평수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김수현__artist_335|김수현]] <-> [[김현선__artist_760|김현선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김수현__artist_335|김수현]] <-> [[김현진__artist_537|김현진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현태__artist_3|김현태]] <-> [[김수현__artist_335|김수현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김숙자__artist_674|김숙자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김자영__artist_277|김자영]] <-> [[김숙자__artist_674|김숙자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진숙__artist_273|김진숙]] <-> [[김숙자__artist_674|김숙자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜숙__artist_317|김혜숙]] <-> [[김숙자__artist_674|김숙자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김화숙__artist_333|김화숙]] <-> [[김숙자__artist_674|김숙자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김순주__artist_328|김순주]] <-> [[김순정__artist_365|김순정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김순정__artist_365|김순정]] <-> [[김연정__artist_583|김연정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤정__artist_153|김윤정]] <-> [[김순정__artist_365|김순정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정민__artist_272|김정민]] <-> [[김순정__artist_365|김순정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김순정__artist_365|김순정]] <-> [[김정아__artist_628|김정아]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정은__artist_278|김정은]] <-> [[김순정__artist_365|김순정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정훈__artist_213|김정훈]] <-> [[김순정__artist_365|김순정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김주빈__artist_21|김주빈]] <-> [[김순주__artist_328|김순주]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김순주__artist_328|김순주]] <-> [[김주원__artist_605|김주원]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김순주__artist_328|김순주]] <-> [[김주현__artist_871|김주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김슬기__artist_542|김슬기]] <-> [[김초슬__artist_791|김초슬]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김연화__artist_808|김연화]] <-> [[김시화__artist_845|김시화]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김화숙__artist_333|김화숙]] <-> [[김시화__artist_845|김시화]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김연정__artist_583|김연정]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김연정__artist_583|김연정]] <-> [[김연화__artist_808|김연화]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤정__artist_153|김윤정]] <-> [[김연정__artist_583|김연정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정민__artist_272|김정민]] <-> [[김연정__artist_583|김연정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김연정__artist_583|김연정]] <-> [[김정아__artist_628|김정아]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정은__artist_278|김정은]] <-> [[김연정__artist_583|김연정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정훈__artist_213|김정훈]] <-> [[김연정__artist_583|김연정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜연__artist_572|김혜연]] <-> [[김연정__artist_583|김연정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김호연__artist_144|김호연]] <-> [[김연정__artist_583|김연정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김연화__artist_808|김연화]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김연진__artist_818|김연진]] <-> [[김유진__artist_877|김유진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진걸__artist_727|김진걸]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진미__artist_806|김진미]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진숙__artist_273|김진숙]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진원__artist_374|김진원]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현진__artist_537|김현진]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜연__artist_572|김혜연]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김호연__artist_144|김호연]] <-> [[김연진__artist_818|김연진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜연__artist_572|김혜연]] <-> [[김연화__artist_808|김연화]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김호연__artist_144|김호연]] <-> [[김연화__artist_808|김연화]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김화숙__artist_333|김화숙]] <-> [[김연화__artist_808|김연화]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영란__artist_659|김영란]] <-> [[김영미__artist_774|김영미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김영란__artist_659|김영란]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영웅__artist_640|김영웅]] <-> [[김영란__artist_659|김영란]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김영란__artist_659|김영란]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영찬__artist_503|김영찬]] <-> [[김영란__artist_659|김영란]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영란__artist_659|김영란]] <-> [[김영태__artist_849|김영태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김영란__artist_659|김영란]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김자영__artist_277|김자영]] <-> [[김영란__artist_659|김영란]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영란__artist_659|김영란]] <-> [[김지영__artist_669|김지영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김영미__artist_774|김영미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영웅__artist_640|김영웅]] <-> [[김영미__artist_774|김영미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김영미__artist_774|김영미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영찬__artist_503|김영찬]] <-> [[김영미__artist_774|김영미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영미__artist_774|김영미]] <-> [[김영태__artist_849|김영태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김영미__artist_774|김영미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김운미__artist_510|김운미]] <-> [[김영미__artist_774|김영미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김유미__artist_398|김유미]] <-> [[김영미__artist_774|김영미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김자영__artist_277|김자영]] <-> [[김영미__artist_774|김영미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김지영__artist_669|김지영]] <-> [[김영미__artist_774|김영미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영미__artist_774|김영미]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김영웅__artist_640|김영웅]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김영진__artist_23|김영진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김영찬__artist_503|김영찬]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김영태__artist_849|김영태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김영희__artist_255|김영희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김자영__artist_277|김자영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김지영__artist_669|김지영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김진숙__artist_273|김진숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김혜숙__artist_317|김혜숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영숙__artist_2|김영숙]] <-> [[김화숙__artist_333|김화숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김영웅__artist_640|김영웅]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영찬__artist_503|김영찬]] <-> [[김영웅__artist_640|김영웅]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영웅__artist_640|김영웅]] <-> [[김영태__artist_849|김영태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김영웅__artist_640|김영웅]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김자영__artist_277|김자영]] <-> [[김영웅__artist_640|김영웅]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영웅__artist_640|김영웅]] <-> [[김지영__artist_669|김지영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김영찬__artist_503|김영찬]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김영태__artist_849|김영태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김영희__artist_255|김영희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김유진__artist_877|김유진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김자영__artist_277|김자영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김지영__artist_669|김지영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김진걸__artist_727|김진걸]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김진숙__artist_273|김진숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김진원__artist_374|김진원]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영진__artist_23|김영진]] <-> [[김현진__artist_537|김현진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영찬__artist_503|김영찬]] <-> [[김영태__artist_849|김영태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김영찬__artist_503|김영찬]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김자영__artist_277|김자영]] <-> [[김영찬__artist_503|김영찬]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영찬__artist_503|김영찬]] <-> [[김지영__artist_669|김지영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김영태__artist_849|김영태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김자영__artist_277|김자영]] <-> [[김영태__artist_849|김영태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김지영__artist_669|김지영]] <-> [[김영태__artist_849|김영태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김태석__artist_520|김태석]] <-> [[김영태__artist_849|김영태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김태훈__artist_192|김태훈]] <-> [[김영태__artist_849|김영태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현태__artist_3|김현태]] <-> [[김영태__artist_849|김영태]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김율희__artist_695|김율희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김은희__artist_138|김은희]] <-> [[김영희__artist_255|김영희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김인희__artist_754|김인희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김자영__artist_277|김자영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김준희__artist_263|김준희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김지영__artist_669|김지영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김춘희__artist_698|김춘희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김환희__artist_571|김환희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김희선__artist_344|김희선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜림__artist_108|김혜림]] <-> [[김예림__artist_569|김예림]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김온경__artist_553|김온경]] <-> [[김혜경__artist_643|김혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김용걸__artist_234|김용걸]] <-> [[김용복__artist_805|김용복]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김용걸__artist_234|김용걸]] <-> [[김용우__artist_842|김용우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김용철__artist_80|김용철]] <-> [[김용걸__artist_234|김용걸]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김용걸__artist_234|김용걸]] <-> [[김진걸__artist_727|김진걸]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김용복__artist_805|김용복]] <-> [[김용우__artist_842|김용우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김용철__artist_80|김용철]] <-> [[김용복__artist_805|김용복]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김용철__artist_80|김용철]] <-> [[김용우__artist_842|김용우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김우석__artist_237|김우석]] <-> [[김용우__artist_842|김용우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김지우__artist_604|김지우]] <-> [[김용우__artist_842|김용우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김우석__artist_237|김우석]] <-> [[김지우__artist_604|김지우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김우석__artist_237|김우석]] <-> [[김태석__artist_520|김태석]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김유미__artist_398|김유미]] <-> [[김운미__artist_510|김운미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김운미__artist_510|김운미]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김유미__artist_398|김유미]] <-> [[김유나__artist_464|김유나]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김유나__artist_464|김유나]] <-> [[김유진__artist_877|김유진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김유미__artist_398|김유미]] <-> [[김유진__artist_877|김유진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김유미__artist_398|김유미]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진걸__artist_727|김진걸]] <-> [[김유진__artist_877|김유진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진미__artist_806|김진미]] <-> [[김유진__artist_877|김유진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진숙__artist_273|김진숙]] <-> [[김유진__artist_877|김유진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진원__artist_374|김진원]] <-> [[김유진__artist_877|김유진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현진__artist_537|김현진]] <-> [[김유진__artist_877|김유진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤규__artist_175|김윤규]] <-> [[김윤수__artist_251|김윤수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤정__artist_153|김윤정]] <-> [[김윤규__artist_175|김윤규]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜윤__artist_127|김혜윤]] <-> [[김윤규__artist_175|김윤규]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤정__artist_153|김윤정]] <-> [[김윤수__artist_251|김윤수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤수__artist_251|김윤수]] <-> [[김평수__artist_460|김평수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜윤__artist_127|김혜윤]] <-> [[김윤수__artist_251|김윤수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤정__artist_153|김윤정]] <-> [[김정민__artist_272|김정민]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤정__artist_153|김윤정]] <-> [[김정아__artist_628|김정아]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤정__artist_153|김윤정]] <-> [[김정은__artist_278|김정은]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김윤정__artist_153|김윤정]] <-> [[김정훈__artist_213|김정훈]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜윤__artist_127|김혜윤]] <-> [[김윤정__artist_153|김윤정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김은희__artist_138|김은희]] <-> [[김율희__artist_695|김율희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김율희__artist_695|김율희]] <-> [[김인희__artist_754|김인희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김준희__artist_263|김준희]] <-> [[김율희__artist_695|김율희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김율희__artist_695|김율희]] <-> [[김춘희__artist_698|김춘희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김환희__artist_571|김환희]] <-> [[김율희__artist_695|김율희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김희선__artist_344|김희선]] <-> [[김율희__artist_695|김율희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김은희__artist_138|김은희]] <-> [[김인희__artist_754|김인희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김은희__artist_138|김은희]] <-> [[김정은__artist_278|김정은]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김은희__artist_138|김은희]] <-> [[김준희__artist_263|김준희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김은희__artist_138|김은희]] <-> [[김춘희__artist_698|김춘희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김은희__artist_138|김은희]] <-> [[김환희__artist_571|김환희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김은희__artist_138|김은희]] <-> [[김희선__artist_344|김희선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김준희__artist_263|김준희]] <-> [[김인희__artist_754|김인희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김춘희__artist_698|김춘희]] <-> [[김인희__artist_754|김인희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김환희__artist_571|김환희]] <-> [[김인희__artist_754|김인희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김희선__artist_344|김희선]] <-> [[김인희__artist_754|김인희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김자영__artist_277|김자영]] <-> [[김지영__artist_669|김지영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김재덕__artist_37|김재덕]] <-> [[김재리__artist_352|김재리]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김재덕__artist_37|김재덕]] <-> [[김재승__artist_506|김재승]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김재덕__artist_37|김재덕]] <-> [[김종덕__artist_380|김종덕]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김재리__artist_352|김재리]] <-> [[김재승__artist_506|김재승]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정민__artist_272|김정민]] <-> [[김정아__artist_628|김정아]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정민__artist_272|김정민]] <-> [[김정은__artist_278|김정은]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정훈__artist_213|김정훈]] <-> [[김정민__artist_272|김정민]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정은__artist_278|김정은]] <-> [[김정아__artist_628|김정아]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정훈__artist_213|김정훈]] <-> [[김정아__artist_628|김정아]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김정훈__artist_213|김정훈]] <-> [[김정은__artist_278|김정은]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김태훈__artist_192|김태훈]] <-> [[김정훈__artist_213|김정훈]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김주빈__artist_21|김주빈]] <-> [[김주원__artist_605|김주원]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김주빈__artist_21|김주빈]] <-> [[김주현__artist_871|김주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김주원__artist_605|김주원]] <-> [[김주현__artist_871|김주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진원__artist_374|김진원]] <-> [[김주원__artist_605|김주원]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현선__artist_760|김현선]] <-> [[김주현__artist_871|김주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현진__artist_537|김현진]] <-> [[김주현__artist_871|김주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현태__artist_3|김현태]] <-> [[김주현__artist_871|김주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김준희__artist_263|김준희]] <-> [[김춘희__artist_698|김춘희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김준희__artist_263|김준희]] <-> [[김환희__artist_571|김환희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김준희__artist_263|김준희]] <-> [[김희선__artist_344|김희선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김지우__artist_604|김지우]] <-> [[김지영__artist_669|김지영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진걸__artist_727|김진걸]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진숙__artist_273|김진숙]] <-> [[김진걸__artist_727|김진걸]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진원__artist_374|김진원]] <-> [[김진걸__artist_727|김진걸]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현진__artist_537|김현진]] <-> [[김진걸__artist_727|김진걸]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진숙__artist_273|김진숙]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진원__artist_374|김진원]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현진__artist_537|김현진]] <-> [[김진미__artist_806|김진미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진숙__artist_273|김진숙]] <-> [[김진원__artist_374|김진원]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진숙__artist_273|김진숙]] <-> [[김현진__artist_537|김현진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진숙__artist_273|김진숙]] <-> [[김혜숙__artist_317|김혜숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진숙__artist_273|김진숙]] <-> [[김화숙__artist_333|김화숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김진원__artist_374|김진원]] <-> [[김현진__artist_537|김현진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김환희__artist_571|김환희]] <-> [[김춘희__artist_698|김춘희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김희선__artist_344|김희선]] <-> [[김춘희__artist_698|김춘희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김태훈__artist_192|김태훈]] <-> [[김태석__artist_520|김태석]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현태__artist_3|김현태]] <-> [[김태석__artist_520|김태석]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현태__artist_3|김현태]] <-> [[김태훈__artist_192|김태훈]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김판선__artist_320|김판선]] <-> [[김현선__artist_760|김현선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김판선__artist_320|김판선]] <-> [[김희선__artist_344|김희선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김평호__artist_115|김평호]] <-> [[김평수__artist_460|김평수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김평호__artist_115|김평호]] <-> [[김호동__artist_769|김호동]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김평호__artist_115|김평호]] <-> [[김호연__artist_144|김호연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현진__artist_537|김현진]] <-> [[김현선__artist_760|김현선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현태__artist_3|김현태]] <-> [[김현선__artist_760|김현선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김희선__artist_344|김희선]] <-> [[김현선__artist_760|김현선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김현태__artist_3|김현태]] <-> [[김현진__artist_537|김현진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜림__artist_108|김혜림]] <-> [[김혜경__artist_643|김혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜숙__artist_317|김혜숙]] <-> [[김혜경__artist_643|김혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜연__artist_572|김혜연]] <-> [[김혜경__artist_643|김혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜윤__artist_127|김혜윤]] <-> [[김혜경__artist_643|김혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜림__artist_108|김혜림]] <-> [[김혜숙__artist_317|김혜숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜림__artist_108|김혜림]] <-> [[김혜연__artist_572|김혜연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜림__artist_108|김혜림]] <-> [[김혜윤__artist_127|김혜윤]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜숙__artist_317|김혜숙]] <-> [[김혜연__artist_572|김혜연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜윤__artist_127|김혜윤]] <-> [[김혜숙__artist_317|김혜숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜숙__artist_317|김혜숙]] <-> [[김화숙__artist_333|김화숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김혜윤__artist_127|김혜윤]] <-> [[김혜연__artist_572|김혜연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김호연__artist_144|김호연]] <-> [[김혜연__artist_572|김혜연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김호연__artist_144|김호연]] <-> [[김호동__artist_769|김호동]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김희선__artist_344|김희선]] <-> [[김환희__artist_571|김환희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[남현우__artist_199|남현우]] <-> [[남동현__artist_230|남동현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[남현우__artist_199|남현우]] <-> [[남인우__artist_378|남인우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[노현식__artist_218|노현식]] <-> [[노정식__artist_746|노정식]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박경랑__artist_242|박경랑]] <-> [[박경숙__artist_369|박경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박경랑__artist_242|박경랑]] <-> [[박경일__artist_598|박경일]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박경랑__artist_242|박경랑]] <-> [[박경희__artist_708|박경희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박경랑__artist_242|박경랑]] <-> [[박진경__artist_770|박진경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박경숙__artist_369|박경숙]] <-> [[박경일__artist_598|박경일]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박경숙__artist_369|박경숙]] <-> [[박경희__artist_708|박경희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박명숙__artist_348|박명숙]] <-> [[박경숙__artist_369|박경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박숙자__artist_176|박숙자]] <-> [[박경숙__artist_369|박경숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박경숙__artist_369|박경숙]] <-> [[박진경__artist_770|박진경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박경일__artist_598|박경일]] <-> [[박경희__artist_708|박경희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박경일__artist_598|박경일]] <-> [[박진경__artist_770|박진경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박소희__artist_388|박소희]] <-> [[박경희__artist_708|박경희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박경희__artist_708|박경희]] <-> [[박재희__artist_725|박재희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박경희__artist_708|박경희]] <-> [[박진경__artist_770|박진경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박순호__artist_288|박순호]] <-> [[박광호__artist_415|박광호]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박호빈__artist_93|박호빈]] <-> [[박광호__artist_415|박광호]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박기량__artist_515|박기량]] <-> [[박슬기__artist_731|박슬기]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박홍기__artist_343|박홍기]] <-> [[박기량__artist_515|박기량]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박숙자__artist_176|박숙자]] <-> [[박명숙__artist_348|박명숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박현옥__artist_104|박현옥]] <-> [[박성옥__artist_658|박성옥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박은화__artist_135|박은화]] <-> [[박세은__artist_627|박세은]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박소영__artist_100|박소영]] <-> [[박소연__artist_425|박소연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박소연__artist_425|박소연]] <-> [[박소정__artist_504|박소정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박소희__artist_388|박소희]] <-> [[박소연__artist_425|박소연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박소연__artist_425|박소연]] <-> [[박연정__artist_538|박연정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박소영__artist_100|박소영]] <-> [[박소정__artist_504|박소정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박소영__artist_100|박소영]] <-> [[박소희__artist_388|박소희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박수영__artist_81|박수영]] <-> [[박소영__artist_100|박소영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박소희__artist_388|박소희]] <-> [[박소정__artist_504|박소정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박소정__artist_504|박소정]] <-> [[박연정__artist_538|박연정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박소희__artist_388|박소희]] <-> [[박재희__artist_725|박재희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박수영__artist_81|박수영]] <-> [[박수윤__artist_394|박수윤]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박수영__artist_81|박수영]] <-> [[박종수__artist_601|박종수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박수윤__artist_394|박수윤]] <-> [[박종수__artist_601|박종수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박숙자__artist_176|박숙자]] <-> [[박인자__artist_830|박인자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박호빈__artist_93|박호빈]] <-> [[박순호__artist_288|박순호]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박홍기__artist_343|박홍기]] <-> [[박슬기__artist_731|박슬기]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박인혜__artist_383|박인혜]] <-> [[박인자__artist_830|박인자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박인혜__artist_383|박인혜]] <-> [[박지혜__artist_691|박지혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박인혜__artist_383|박인혜]] <-> [[박혜지__artist_526|박혜지]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박재현__artist_126|박재현]] <-> [[박재홍__artist_803|박재홍]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박재현__artist_126|박재현]] <-> [[박재희__artist_725|박재희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박재현__artist_126|박재현]] <-> [[박현미__artist_736|박현미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박현옥__artist_104|박현옥]] <-> [[박재현__artist_126|박재현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박재희__artist_725|박재희]] <-> [[박재홍__artist_803|박재홍]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박홍기__artist_343|박홍기]] <-> [[박재홍__artist_803|박재홍]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박혜지__artist_526|박혜지]] <-> [[박지혜__artist_691|박지혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박진미__artist_69|박진미]] <-> [[박진경__artist_770|박진경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박진미__artist_69|박진미]] <-> [[박현미__artist_736|박현미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[박현옥__artist_104|박현옥]] <-> [[박현미__artist_736|박현미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서정숙__artist_730|서정숙]] <-> [[서정빈__artist_748|서정빈]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서희정__artist_683|서희정]] <-> [[서정빈__artist_748|서정빈]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[서희정__artist_683|서희정]] <-> [[서정숙__artist_730|서정숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[손인영__artist_137|손인영]] <-> [[손영일__artist_387|손영일]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[신상현__artist_409|신상현]] <-> [[신현지__artist_494|신현지]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[신혜진__artist_229|신혜진]] <-> [[신유진__artist_467|신유진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[신은주__artist_289|신은주]] <-> [[신은주무용단__artist_737|신은주무용단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[신창호__artist_191|신창호]] <-> [[신호영__artist_523|신호영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안영준__artist_74|안영준]] <-> [[안소영__artist_743|안소영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안제현__artist_721|안제현]] <-> [[안제승__artist_779|안제승]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[안지형__artist_150|안지형]] <-> [[안지혜__artist_309|안지혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유리 응__artist_859|유리 응]] <-> [[유리 나엘__artist_917|유리 나엘]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유선식__artist_308|유선식]] <-> [[유호식__artist_488|유호식]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유장일__artist_154|유장일]] <-> [[유장일발레단__artist_841|유장일발레단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유재미__artist_167|유재미]] <-> [[유재성__artist_384|유재성]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[유정숙__artist_466|유정숙]] <-> [[유화정__artist_623|유화정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[윤경근__artist_371|윤경근]] <-> [[윤덕경__artist_536|윤덕경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[윤미라__artist_131|윤미라]] <-> [[윤나라__artist_361|윤나라]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[윤미라__artist_131|윤미라]] <-> [[윤미라무용단__artist_765|윤미라무용단]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[윤미라__artist_131|윤미라]] <-> [[윤수미__artist_152|윤수미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[윤정아__artist_228|윤정아]] <-> [[윤혜정__artist_390|윤혜정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[윤혜정__artist_390|윤혜정]] <-> [[윤혜진__artist_938|윤혜진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이남영__artist_50|이남영]] <-> [[이가영__artist_349|이가영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이소영__artist_45|이소영]] <-> [[이가영__artist_349|이가영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이가영__artist_349|이가영]] <-> [[이영선__artist_561|이영선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이가영__artist_349|이가영]] <-> [[이영일__artist_512|이영일]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이가영__artist_349|이가영]] <-> [[이영철__artist_580|이영철]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이가영__artist_349|이가영]] <-> [[이재영__artist_445|이재영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이경구__artist_68|이경구]] <-> [[이경옥__artist_185|이경옥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이경구__artist_68|이경구]] <-> [[이경은__artist_125|이경은]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이은경__artist_54|이은경]] <-> [[이경구__artist_68|이경구]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이경구__artist_68|이경구]] <-> [[이혜경__artist_413|이혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이경은__artist_125|이경은]] <-> [[이경옥__artist_185|이경옥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이은경__artist_54|이은경]] <-> [[이경옥__artist_185|이경옥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이경옥__artist_185|이경옥]] <-> [[이혜경__artist_413|이혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이경은__artist_125|이경은]] <-> [[이고은__artist_833|이고은]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이은경__artist_54|이은경]] <-> [[이경은__artist_125|이경은]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이경은__artist_125|이경은]] <-> [[이혜경__artist_413|이혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이은경__artist_54|이은경]] <-> [[이고은__artist_833|이고은]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이나현__artist_145|이나현]] <-> [[이길현__artist_451|이길현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이길현__artist_451|이길현]] <-> [[이주현__artist_809|이주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이지현__artist_87|이지현]] <-> [[이길현__artist_451|이길현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이나현__artist_145|이나현]] <-> [[이나연__artist_484|이나연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이상연__artist_444|이상연]] <-> [[이나연__artist_484|이나연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이나연__artist_484|이나연]] <-> [[이정연__artist_930|이정연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이나현__artist_145|이나현]] <-> [[이주현__artist_809|이주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이지현__artist_87|이지현]] <-> [[이나현__artist_145|이나현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이소영__artist_45|이소영]] <-> [[이남영__artist_50|이남영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이남영__artist_50|이남영]] <-> [[이영선__artist_561|이영선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이남영__artist_50|이남영]] <-> [[이영일__artist_512|이영일]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이남영__artist_50|이남영]] <-> [[이영철__artist_580|이영철]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이남영__artist_50|이남영]] <-> [[이재영__artist_445|이재영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이동하__artist_362|이동하]] <-> [[이동탁__artist_527|이동탁]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이루다__artist_423|이루다]] <-> [[이루마__artist_675|이루마]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이미희__artist_650|이미희]] <-> [[이지희__artist_652|이지희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이희자__artist_422|이희자]] <-> [[이미희__artist_650|이미희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이상연__artist_444|이상연]] <-> [[이상만__artist_552|이상만]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이상만__artist_552|이상만]] <-> [[이상열__artist_560|이상열]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이상훈__artist_264|이상훈]] <-> [[이상만__artist_552|이상만]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이태상__artist_290|이태상]] <-> [[이상만__artist_552|이상만]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이상연__artist_444|이상연]] <-> [[이상열__artist_560|이상열]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이상훈__artist_264|이상훈]] <-> [[이상연__artist_444|이상연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이상연__artist_444|이상연]] <-> [[이정연__artist_930|이정연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이태상__artist_290|이태상]] <-> [[이상연__artist_444|이상연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이상훈__artist_264|이상훈]] <-> [[이상열__artist_560|이상열]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이태상__artist_290|이태상]] <-> [[이상열__artist_560|이상열]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이상훈__artist_264|이상훈]] <-> [[이태상__artist_290|이태상]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이세승__artist_483|이세승]] <-> [[이승주__artist_801|이승주]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이소영__artist_45|이소영]] <-> [[이영선__artist_561|이영선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이소영__artist_45|이소영]] <-> [[이영일__artist_512|이영일]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이소영__artist_45|이소영]] <-> [[이영철__artist_580|이영철]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이소영__artist_45|이소영]] <-> [[이재영__artist_445|이재영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이애주__artist_440|이애주]] <-> [[이승주__artist_801|이승주]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이언주__artist_40|이언주]] <-> [[이승주__artist_801|이승주]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이주성__artist_200|이주성]] <-> [[이승주__artist_801|이승주]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이승주__artist_801|이승주]] <-> [[이주현__artist_809|이주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이언주__artist_40|이언주]] <-> [[이애주__artist_440|이애주]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이주성__artist_200|이주성]] <-> [[이애주__artist_440|이애주]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이애주__artist_440|이애주]] <-> [[이주현__artist_809|이주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이언주__artist_40|이언주]] <-> [[이주성__artist_200|이주성]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이언주__artist_40|이언주]] <-> [[이주현__artist_809|이주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이영일__artist_512|이영일]] <-> [[이영선__artist_561|이영선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이영선__artist_561|이영선]] <-> [[이영철__artist_580|이영철]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이재영__artist_445|이재영]] <-> [[이영선__artist_561|이영선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이영일__artist_512|이영일]] <-> [[이영철__artist_580|이영철]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이재영__artist_445|이재영]] <-> [[이영일__artist_512|이영일]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이재영__artist_445|이재영]] <-> [[이영철__artist_580|이영철]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이영철__artist_580|이영철]] <-> [[이철진__artist_913|이철진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이용진__artist_215|이용진]] <-> [[이용정__artist_528|이용정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이윤정__artist_1|이윤정]] <-> [[이용정__artist_528|이용정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이용정__artist_528|이용정]] <-> [[이정연__artist_930|이정연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이정윤__artist_22|이정윤]] <-> [[이용정__artist_528|이용정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이용진__artist_215|이용진]] <-> [[이철진__artist_913|이철진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이윤정__artist_1|이윤정]] <-> [[이재윤__artist_777|이재윤]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이윤정__artist_1|이윤정]] <-> [[이정연__artist_930|이정연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이윤정__artist_1|이윤정]] <-> [[이정윤__artist_22|이정윤]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이은경__artist_54|이은경]] <-> [[이혜경__artist_413|이혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이인수__artist_243|이인수]] <-> [[이인보__artist_716|이인보]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이재영__artist_445|이재영]] <-> [[이재윤__artist_777|이재윤]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이재화__artist_157|이재화]] <-> [[이재영__artist_445|이재영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이재화__artist_157|이재화]] <-> [[이재윤__artist_777|이재윤]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이정윤__artist_22|이정윤]] <-> [[이재윤__artist_777|이재윤]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이정윤__artist_22|이정윤]] <-> [[이정연__artist_930|이정연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이주성__artist_200|이주성]] <-> [[이주현__artist_809|이주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이지현__artist_87|이지현]] <-> [[이주현__artist_809|이주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이해준__artist_330|이해준]] <-> [[이준욱__artist_790|이준욱]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이지현__artist_87|이지현]] <-> [[이지혜__artist_279|이지혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이지현__artist_87|이지현]] <-> [[이지희__artist_652|이지희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이지혜__artist_279|이지혜]] <-> [[이지희__artist_652|이지희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이지혜__artist_279|이지혜]] <-> [[이혜경__artist_413|이혜경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이지혜__artist_279|이지혜]] <-> [[이혜린__artist_522|이혜린]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이희자__artist_422|이희자]] <-> [[이지희__artist_652|이지희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이해니__artist_70|이해니]] <-> [[이해준__artist_330|이해준]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이혜경__artist_413|이혜경]] <-> [[이혜린__artist_522|이혜린]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[임학선__artist_250|임학선]] <-> [[임선영__artist_663|임선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[임현선__artist_508|임현선]] <-> [[임선영__artist_663|임선영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[임성옥__artist_420|임성옥]] <-> [[임성남__artist_597|임성남]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[임수정__artist_478|임수정]] <-> [[임은정__artist_932|임은정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[임수정__artist_478|임수정]] <-> [[임정하__artist_735|임정하]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[임정하__artist_735|임정하]] <-> [[임은정__artist_932|임은정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[임학선__artist_250|임학선]] <-> [[임현선__artist_508|임현선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장민혜__artist_452|장민혜]] <-> [[장민주__artist_747|장민주]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장혜림__artist_61|장혜림]] <-> [[장민혜__artist_452|장민혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장민혜__artist_452|장민혜]] <-> [[장혜수__artist_912|장혜수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장혜진__artist_13|장혜진]] <-> [[장민혜__artist_452|장민혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장현희__artist_155|장현희]] <-> [[장선희__artist_269|장선희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장현수__artist_119|장현수]] <-> [[장수미__artist_270|장수미]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장수미__artist_270|장수미]] <-> [[장혜수__artist_912|장혜수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장현수__artist_119|장현수]] <-> [[장현희__artist_155|장현희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장현수__artist_119|장현수]] <-> [[장혜수__artist_912|장혜수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장혜림__artist_61|장혜림]] <-> [[장혜수__artist_912|장혜수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장혜진__artist_13|장혜진]] <-> [[장혜림__artist_61|장혜림]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[장혜진__artist_13|장혜진]] <-> [[장혜수__artist_912|장혜수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[전미숙__artist_130|전미숙]] <-> [[전미라__artist_660|전미라]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[전효인__artist_262|전효인]] <-> [[전인정__artist_555|전인정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[전효정__artist_473|전효정]] <-> [[전인정__artist_555|전인정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[전혁진__artist_364|전혁진]] <-> [[전진희__artist_461|전진희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[전효인__artist_262|전효인]] <-> [[전효정__artist_473|전효정]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정소연__artist_266|정소연]] <-> [[정규연__artist_776|정규연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정연수__artist_332|정연수]] <-> [[정규연__artist_776|정규연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정기정__artist_403|정기정]] <-> [[정정운__artist_784|정정운]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정명숙__artist_645|정명숙]] <-> [[정명훈__artist_651|정명훈]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정명숙__artist_645|정명숙]] <-> [[정성숙__artist_697|정성숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정의숙__artist_282|정의숙]] <-> [[정명숙__artist_645|정명숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정훈목__artist_44|정훈목]] <-> [[정명훈__artist_651|정명훈]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정세영__artist_33|정세영]] <-> [[정미영__artist_590|정미영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정영두__artist_148|정영두]] <-> [[정미영__artist_590|정미영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정영만__artist_256|정영만]] <-> [[정미영__artist_590|정미영]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정성태__artist_189|정성태]] <-> [[정성숙__artist_697|정성숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정의숙__artist_282|정의숙]] <-> [[정성숙__artist_697|정성숙]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정세영__artist_33|정세영]] <-> [[정영두__artist_148|정영두]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정세영__artist_33|정세영]] <-> [[정영만__artist_256|정영만]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정소연__artist_266|정소연]] <-> [[정연수__artist_332|정연수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정연수__artist_332|정연수]] <-> [[정수동__artist_481|정수동]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정승희__artist_525|정승희]] <-> [[정승혜__artist_886|정승혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정신혜__artist_124|정신혜]] <-> [[정승혜__artist_886|정승혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정은혜__artist_139|정은혜]] <-> [[정승혜__artist_886|정승혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정지혜__artist_642|정지혜]] <-> [[정승혜__artist_886|정승혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정혜진__artist_181|정혜진]] <-> [[정승혜__artist_886|정승혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정옥희__artist_366|정옥희]] <-> [[정승희__artist_525|정승희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정신혜__artist_124|정신혜]] <-> [[정은혜__artist_139|정은혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정신혜__artist_124|정신혜]] <-> [[정지혜__artist_642|정지혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정신혜__artist_124|정신혜]] <-> [[정혜진__artist_181|정혜진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정영두__artist_148|정영두]] <-> [[정영만__artist_256|정영만]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정영만__artist_256|정영만]] <-> [[정재만__artist_696|정재만]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정진욱__artist_318|정진욱]] <-> [[정용진__artist_782|정용진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정현진__artist_299|정현진]] <-> [[정용진__artist_782|정용진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정혜진__artist_181|정혜진]] <-> [[정용진__artist_782|정용진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정은혜__artist_139|정은혜]] <-> [[정지혜__artist_642|정지혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정은혜__artist_139|정은혜]] <-> [[정혜진__artist_181|정혜진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정재우__artist_133|정재우]] <-> [[정재만__artist_696|정재만]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정재혁__artist_174|정재혁]] <-> [[정재만__artist_696|정재만]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정재우__artist_133|정재우]] <-> [[정재혁__artist_174|정재혁]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정지윤__artist_327|정지윤]] <-> [[정지완__artist_775|정지완]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정지혜__artist_642|정지혜]] <-> [[정지완__artist_775|정지완]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정지윤__artist_327|정지윤]] <-> [[정지혜__artist_642|정지혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정혜진__artist_181|정혜진]] <-> [[정지혜__artist_642|정지혜]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정현진__artist_299|정현진]] <-> [[정진욱__artist_318|정진욱]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정혜진__artist_181|정혜진]] <-> [[정진욱__artist_318|정진욱]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정형일__artist_71|정형일]] <-> [[정찬일__artist_603|정찬일]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[정혜진__artist_181|정혜진]] <-> [[정현진__artist_299|정현진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[조재혁__artist_41|조재혁]] <-> [[조동혁__artist_600|조동혁]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[조흥동__artist_428|조흥동]] <-> [[조동혁__artist_600|조동혁]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[조수현__artist_151|조수현]] <-> [[조주현__artist_530|조주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[조수현__artist_151|조수현]] <-> [[조현배__artist_206|조현배]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[조수현__artist_151|조수현]] <-> [[조현상__artist_226|조현상]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[조진호__artist_389|조진호]] <-> [[조용진__artist_550|조용진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[조인호__artist_116|조인호]] <-> [[조진호__artist_389|조진호]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[조현배__artist_206|조현배]] <-> [[조주현__artist_530|조주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[조현상__artist_226|조현상]] <-> [[조주현__artist_530|조주현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[조현배__artist_206|조현배]] <-> [[조현상__artist_226|조현상]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최경자__artist_259|최경자]] <-> [[최경실__artist_558|최경실]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최경실__artist_558|최경실]] <-> [[최경훈__artist_786|최경훈]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최경자__artist_259|최경자]] <-> [[최경훈__artist_786|최경훈]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최경자__artist_259|최경자]] <-> [[최자인__artist_671|최자인]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최경자__artist_259|최경자]] <-> [[최청자__artist_673|최청자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최영현__artist_109|최영현]] <-> [[최명현__artist_197|최명현]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최문애__artist_405|최문애]] <-> [[최문석__artist_586|최문석]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최우석__artist_129|최우석]] <-> [[최문석__artist_586|최문석]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최원선__artist_655|최원선]] <-> [[최민선__artist_927|최민선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최수진__artist_90|최수진]] <-> [[최예진__artist_752|최예진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최수진__artist_90|최수진]] <-> [[최은진__artist_280|최은진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최수진__artist_90|최수진]] <-> [[최진수__artist_385|최진수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최수진__artist_90|최수진]] <-> [[최진욱__artist_140|최진욱]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최진한__artist_10|최진한]] <-> [[최수진__artist_90|최수진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최수진__artist_90|최수진]] <-> [[최효진__artist_156|최효진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최승희__artist_726|최승희]] <-> [[최은희__artist_753|최은희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최재희__artist_581|최재희]] <-> [[최승희__artist_726|최승희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최시원__artist_106|최시원]] <-> [[최시울__artist_606|최시울]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최시원__artist_106|최시원]] <-> [[최원선__artist_655|최원선]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최은진__artist_280|최은진]] <-> [[최예진__artist_752|최예진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최진수__artist_385|최진수]] <-> [[최예진__artist_752|최예진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최진욱__artist_140|최진욱]] <-> [[최예진__artist_752|최예진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최진한__artist_10|최진한]] <-> [[최예진__artist_752|최예진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최효진__artist_156|최효진]] <-> [[최예진__artist_752|최예진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최우석__artist_129|최우석]] <-> [[최준우__artist_892|최준우]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최은지__artist_102|최은지]] <-> [[최은아__artist_729|최은아]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최은진__artist_280|최은진]] <-> [[최은아__artist_729|최은아]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최은아__artist_729|최은아]] <-> [[최은희__artist_753|최은희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최지은__artist_414|최지은]] <-> [[최은아__artist_729|최은아]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최은지__artist_102|최은지]] <-> [[최은진__artist_280|최은진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최은지__artist_102|최은지]] <-> [[최은희__artist_753|최은희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최은지__artist_102|최은지]] <-> [[최지연__artist_281|최지연]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최은지__artist_102|최은지]] <-> [[최지은__artist_414|최지은]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최은지__artist_102|최은지]] <-> [[최태지__artist_689|최태지]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최은진__artist_280|최은진]] <-> [[최은희__artist_753|최은희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최은진__artist_280|최은진]] <-> [[최지은__artist_414|최지은]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최은진__artist_280|최은진]] <-> [[최진수__artist_385|최진수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최진욱__artist_140|최진욱]] <-> [[최은진__artist_280|최은진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최진한__artist_10|최진한]] <-> [[최은진__artist_280|최은진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최효진__artist_156|최효진]] <-> [[최은진__artist_280|최은진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최재희__artist_581|최재희]] <-> [[최은희__artist_753|최은희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최지은__artist_414|최지은]] <-> [[최은희__artist_753|최은희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최자인__artist_671|최자인]] <-> [[최종인__artist_813|최종인]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최자인__artist_671|최자인]] <-> [[최청자__artist_673|최청자]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최재헌__artist_412|최재헌]] <-> [[최재희__artist_581|최재희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최종환__artist_568|최종환]] <-> [[최종인__artist_813|최종인]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최호종__artist_103|최호종]] <-> [[최종인__artist_813|최종인]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최호종__artist_103|최호종]] <-> [[최종환__artist_568|최종환]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최지연__artist_281|최지연]] <-> [[최지은__artist_414|최지은]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최지연__artist_281|최지연]] <-> [[최태지__artist_689|최태지]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최지은__artist_414|최지은]] <-> [[최태지__artist_689|최태지]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최진욱__artist_140|최진욱]] <-> [[최진수__artist_385|최진수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최진한__artist_10|최진한]] <-> [[최진수__artist_385|최진수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최효진__artist_156|최효진]] <-> [[최진수__artist_385|최진수]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최진한__artist_10|최진한]] <-> [[최진욱__artist_140|최진욱]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최진욱__artist_140|최진욱]] <-> [[최효진__artist_156|최효진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[최진한__artist_10|최진한]] <-> [[최효진__artist_156|최효진]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[파트리스 바르__artist_261|파트리스 바르]] <-> [[파브리스 랑베르__artist_562|파브리스 랑베르]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[한순옥__artist_57|한순옥]] <-> [[한명옥__artist_224|한명옥]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[허경미__artist_402|허경미]] <-> [[허윤경__artist_418|허윤경]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[허성임__artist_72|허성임]] <-> [[허성준__artist_456|허성준]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[황희상__artist_475|황희상]] <-> [[황환희__artist_524|황환희]] — similarity 0.67
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[크리스티안 슈푹__artist_204|크리스티안 슈푹]] <-> [[크리스티안 잉기마르손__artist_257|크리스티안 잉기마르손]] — similarity 0.63
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[크리스티안 슈푹__artist_204|크리스티안 슈푹]] <-> [[크리스티앙 리조__artist_518|크리스티앙 리조]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[크리스 하링__artist_514|크리스 하링]] <-> [[크리스틴 타인__artist_936|크리스틴 타인]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[크리스 해링__artist_180|크리스 해링]] <-> [[크리스틴 타인__artist_936|크리스틴 타인]] — similarity 0.62
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[Johan Inger__artist_356|Johan Inger]] <-> [[Johan Greben__artist_564|Johan Greben]] — similarity 0.61
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[김영희__artist_255|김영희]] <-> [[김영희무트댄스__artist_291|김영희무트댄스]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[밝넝쿨__artist_58|밝넝쿨]] <-> [[밝넝쿨&인정주__artist_567|밝넝쿨&인정주]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[이루다__artist_423|이루다]] <-> [[이루다 블랙토__artist_824|이루다 블랙토]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
+- [ ] [[인정주__artist_59|인정주]] <-> [[인정주+밝넝쿨__artist_171|인정주+밝넝쿨]] — similarity 0.60
+  - reason: `{"heuristic": "difflib_sequence_matcher", "threshold": 0.6}`
+  - 승인: [ ] approve  거부: [ ] reject
