@@ -1,3 +1,75 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Site subtitle shown under the sidebar page title ("POPOK Knowledge").
+// No subtitle slot exists in the page-title component itself, so this is
+// added as a small muted line via ::after rather than forking that plugin.
+.page-title {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+
+  &::after {
+    content: "포퐄이 관리하는 한국 무용계 데이터베이스";
+    font-family: var(--bodyFont);
+    font-size: 0.7rem;
+    font-weight: $normalWeight;
+    color: var(--gray);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Homepage ("wiki/archive" redesign) -- mobile-first, minimal, no animation,
+// reuses existing Quartz theme tokens (colors/fonts/table styles) instead of
+// introducing new ones.
+// ---------------------------------------------------------------------------
+
+.status-badge {
+  display: inline-block;
+  margin: 0.5rem 0 1.25rem;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.75rem;
+  font-family: var(--bodyFont);
+  color: var(--secondary);
+  background: var(--highlight);
+  border-radius: 999px;
+}
+
+.home-search-callout {
+  display: block;
+  margin: 0 0 2rem;
+  padding: 1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  cursor: pointer;
+  background: var(--light);
+
+  &:hover,
+  &:focus-visible {
+    border-color: var(--gray);
+  }
+
+  .home-search-label {
+    margin: 0 0 0.5rem;
+    font-weight: $semiBoldWeight;
+  }
+
+  .home-search-fake-input {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.6rem 0.8rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 4px;
+    color: var(--gray);
+    background: var(--light);
+    font-family: var(--bodyFont);
+    font-size: 0.95rem;
+
+    svg {
+      flex-shrink: 0;
+      color: var(--gray);
+    }
+  }
+}
