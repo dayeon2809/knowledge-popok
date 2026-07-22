@@ -72,7 +72,20 @@ export function pageResources(
   })
 
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  // contentIndex.json contains the full text of every page in the vault and can be
+  // several MB. Search/Explorer/Graph all read it via the shared `fetchData` global,
+  // but none of them need it before first paint, so we defer the request until one of
+  // them actually accesses `fetchData` instead of firing it eagerly on every page load.
+  const contentIndexScript = `let __contentIndexPromise;
+Object.defineProperty(window, "fetchData", {
+  configurable: true,
+  get() {
+    if (!__contentIndexPromise) {
+      __contentIndexPromise = fetch("${contentIndexPath}").then((data) => data.json())
+    }
+    return __contentIndexPromise
+  },
+})`
 
   const resources: StaticResources = {
     css: [

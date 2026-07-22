@@ -1,0 +1,22 @@
+# Content-hashed build assets (filename changes whenever content changes),
+# safe to cache for a year without revalidation. Netlify's default response
+# for these was `Cache-Control: public, max-age=0, must-revalidate`, which
+# forces a network round-trip for every unchanged CSS/JS file on every page
+# navigation even though the hash guarantees the bytes never change.
+/index-*.css
+  Cache-Control: public, max-age=31536000, immutable
+/component-*.css
+  Cache-Control: public, max-age=31536000, immutable
+/prescript-*.js
+  Cache-Control: public, max-age=31536000, immutable
+/postscript-*.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/scripts/*.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/resource-after-*.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/resource-style-*.css
+  Cache-Control: public, max-age=31536000, immutable
+
+# static/contentIndex.json is unhashed and changes on every deploy, so it
+# must keep revalidating -- this is intentionally left uncached.
