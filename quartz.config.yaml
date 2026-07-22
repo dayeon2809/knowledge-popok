@@ -123,6 +123,17 @@ plugins:
       display: all
   - source: github:quartz-community/alias-redirects
     enabled: true
+    options:
+      # Netlify's deploy storage is case-insensitive, so the case-preserved
+      # redirect stub this plugin writes for any folder/file segment that
+      # differs only by case from its lowercased canonical slug (e.g. every
+      # page under "01 Artists" -> "01-artists") collides with and silently
+      # overwrites the real content page at deploy time. Confirmed live:
+      # /01-artists/<slug> was serving a 355-byte self-referential redirect
+      # loop instead of the article. Disabling this is safe -- it only
+      # affects legacy uppercase-URL redirects, which this site never had
+      # indexed/linked anywhere.
+      enableCaseRedirects: false
   - source: github:quartz-community/content-index
     enabled: true
     options:
