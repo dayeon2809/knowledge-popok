@@ -110,10 +110,10 @@
       "installedAt": "2026-07-20T02:57:29.129Z"
     },
     "explorer": {
-      "source": "github:quartz-community/explorer",
-      "resolved": "https://github.com/quartz-community/explorer.git",
-      "commit": "a2dfd1373abe58ace461ebea0b4e94cb287f894e",
-      "installedAt": "2026-07-20T02:57:30.484Z"
+      "source": "./local-plugins/explorer",
+      "resolved": "/Users/dayeon-lee/Downloads/popok-project/031726 article scrap/dance-crawler/quartz/local-plugins/explorer",
+      "commit": "local",
+      "installedAt": "2026-07-22T02:55:01.873Z"
     },
     "favicon": {
       "source": "github:quartz-community/favicon",

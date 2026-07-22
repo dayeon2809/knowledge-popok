@@ -1,0 +1,13 @@
+[build]
+  # `explorer` is installed from a local path (./local-plugins/explorer, see
+  # quartz.config.yaml) instead of a GitHub source. quartz.lock.json records
+  # an absolute filesystem path for local plugins, which is specific to the
+  # machine that generated it and cannot be committed as a portable value.
+  # The plain `quartz plugin install` re-links plugins using the (stale, on
+  # a fresh machine) path baked into the lockfile, so it must be immediately
+  # followed by a `--from-config` re-resolve scoped to just `explorer`, which
+  # recomputes that path fresh against *this* build's checkout directory.
+  # All other (GitHub-sourced) plugins are untouched and keep using their
+  # lockfile-pinned commits.
+  command = "npx quartz plugin install && npx quartz plugin install explorer --from-config && npx quartz build"
+  publish = "public"

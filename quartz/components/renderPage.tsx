@@ -72,10 +72,13 @@ export function pageResources(
   })
 
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  // contentIndex.json contains the full text of every page in the vault and can be
-  // several MB. Search/Explorer/Graph all read it via the shared `fetchData` global,
-  // but none of them need it before first paint, so we defer the request until one of
-  // them actually accesses `fetchData` instead of firing it eagerly on every page load.
+  const explorerIndexPath = joinSegments(baseDir, "static/explorerIndex.json")
+  // contentIndex.json carries the full text of every page in the vault (can be
+  // several MB) and is only needed by the search plugin's full-text index.
+  // explorerIndex.json is a small slug/title-only file used by the Explorer
+  // sidebar to build its folder tree. Neither is needed before first paint, so
+  // both are exposed as lazy globals that only fetch once a component actually
+  // awaits them, instead of firing unconditionally on every page load.
   const contentIndexScript = `let __contentIndexPromise;
 Object.defineProperty(window, "fetchData", {
   configurable: true,
@@ -84,6 +87,16 @@ Object.defineProperty(window, "fetchData", {
       __contentIndexPromise = fetch("${contentIndexPath}").then((data) => data.json())
     }
     return __contentIndexPromise
+  },
+})
+let __explorerIndexPromise;
+Object.defineProperty(window, "treeData", {
+  configurable: true,
+  get() {
+    if (!__explorerIndexPromise) {
+      __explorerIndexPromise = fetch("${explorerIndexPath}").then((data) => data.json())
+    }
+    return __explorerIndexPromise
   },
 })`
 

@@ -142,7 +142,11 @@ plugins:
     enabled: true
   - source: github:quartz-community/tag-page
     enabled: true
-  - source: github:quartz-community/explorer
+  # Local fork of quartz-community/explorer: reads static/explorerIndex.json
+  # (slug/title only) instead of the full-text static/contentIndex.json, so
+  # the sidebar tree no longer forces every page load to download the whole
+  # vault's body text. See local-plugins/explorer/README-LOCAL.md.
+  - source: ./local-plugins/explorer
     enabled: true
     layout:
       position: left
