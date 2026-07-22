@@ -295,7 +295,6 @@ updated_at: "2026-07-17 15:29:27"
 
 ## Source Evidence (상위 20)
 
-- [[국립현대무용단 '정글-감각과 반응' 공연__editorial_1284|기사 #1284]] (confidence 0.50)
 - [[국립현대무용단 〈인잇〉__editorial_65|기사 #65]] (confidence 0.50)
 - [[김보라 〈내가 물에서 본 것〉__editorial_52|기사 #52]] (confidence 0.50)
 - [[국립현대무용단 〈Init - unseen〉__editorial_36|기사 #36]] (confidence 0.50)

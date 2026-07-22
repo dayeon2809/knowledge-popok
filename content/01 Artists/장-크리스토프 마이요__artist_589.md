@@ -46,7 +46,7 @@ updated_at: "2026-07-17 15:29:57"
 
 ## Source Evidence (상위 20, confidence 기준)
 
-- [[모나코-몬테카를로 발레단 '로미오와 줄리엣' 내한공연__editorial_1281|기사 #1281]] (confidence 0.50)
+(없음)
 
 ## 추론된 관계 — 검토 필요
 

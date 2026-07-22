@@ -4,8 +4,8 @@
 
 - Artist 수: 938
 - Company 수: 867
-- Work 수: 1848
-- Performance 수: 1833
+- Work 수: 1916
+- Performance 수: 1901
 - Venue 수: 876
 - Editorial content 수: 2829
 
@@ -23,14 +23,14 @@
 ## Inferred / Verified 관계 수
 
 - artist_company_memberships: inferred 1791 / verified 0 (총 1791)
-- performances: inferred 1833 / verified 0 (총 1833)
+- performances: inferred 1833 / verified 68 (총 1901)
 - review_performances: inferred 1968 / verified 0 (총 1968)
 
 ## confidence < 0.7
 
 - work_credits: 0 / 1862
 - artist_company_memberships: 1791 / 1791
-- performances: 1833 / 1833
+- performances: 1833 / 1901
 - review_works: 0 / 2173
 - review_performances: 1968 / 1968
 - review_artists: 0 / 2265
@@ -122,6 +122,6 @@
 
 ## Export 통계
 
-- 총 노트 수 (dashboard 제외): 9196
-- 총 링크 수: 51985
+- 총 노트 수 (dashboard 제외): 9332
+- 총 링크 수: 52296
 - Broken link 수: 0

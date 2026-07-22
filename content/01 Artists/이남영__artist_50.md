@@ -48,7 +48,6 @@ updated_at: "2026-07-17 15:29:57"
 
 ## Source Evidence (상위 20, confidence 기준)
 
-- [[[철학 키워드로 다시 읽는 춤공연-5] LNYdance 정기공연 '파놉티콘(PANOPTICON)'__editorial_1288|기사 #1288]] (confidence 0.50)
 - [[이남영 〈몸의 고고학〉__editorial_59|기사 #59]] (confidence 0.50)
 
 ## 추론된 관계 — 검토 필요

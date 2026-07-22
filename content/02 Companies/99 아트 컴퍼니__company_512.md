@@ -42,4 +42,4 @@ updated_at: "2026-07-17 15:29:27"
 
 ## 병합 후보
 
-- [[99아트컴퍼니__company_22|99아트컴퍼니]] (유사도 0.88, status=verified) — `02 Companies/99 아트 컴퍼니__company_512.md` 검토 대기
+- [[99아트컴퍼니__company_22|99아트컴퍼니]] (유사도 0.88, status=pending) — `02 Companies/99 아트 컴퍼니__company_512.md` 검토 대기

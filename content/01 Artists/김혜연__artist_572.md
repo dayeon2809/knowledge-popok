@@ -42,7 +42,7 @@ updated_at: "2026-07-17 15:29:57"
 
 ## Source Evidence (상위 20, confidence 기준)
 
-- [[제5회 노박스댄스필름페스티벌(NBFF) 10월 14일__editorial_1283|기사 #1283]] (confidence 0.50)
+(없음)
 
 ## 추론된 관계 — 검토 필요
 

@@ -25,7 +25,6 @@ updated_at: "2026-07-17 15:29:27"
 
 ## Source Evidence (상위 20)
 
-- [[국립현대무용단 '정글-감각과 반응' 공연__editorial_1284|기사 #1284]] (confidence 0.50)
 - [[페트리디쉬컴퍼니 〈Struggle〉__editorial_46|기사 #46]] (confidence 0.50)
 - [[김영진 〈배니쉬루프〉__editorial_27|기사 #27]] (confidence 0.50)
 

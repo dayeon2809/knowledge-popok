@@ -44,7 +44,7 @@ updated_at: "2026-07-17 15:29:57"
 
 ## Source Evidence (상위 20, confidence 기준)
 
-- [[네 커플의 키트리-바질, UBC '돈키호테'__editorial_1286|기사 #1286]] (confidence 0.50)
+(없음)
 
 ## 추론된 관계 — 검토 필요
 
