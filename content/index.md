@@ -13,6 +13,8 @@ title: POPOK Knowledge
 
 <span class="status-badge">● 실시간 업데이트 중</span>
 
+<a class="home-calendar-link" href="/calendar/">📅 공연 캘린더 보기</a>
+
 <div class="home-search-callout" id="home-search-trigger" role="button" tabindex="0" aria-label="검색 열기">
   <p class="home-search-label">찾고 싶은 무용인이 있으신가요?</p>
   <div class="home-search-fake-input">

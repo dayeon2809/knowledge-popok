@@ -1,0 +1,10 @@
+# /calendar/ is the public-facing URL for the Performance Calendar page.
+# The page itself is physically served from /static/calendar/ (see the
+# quartz/quartz/static/calendar/ note in this file's git history for why:
+# Quartz's Assets emitter strips the .html extension from any content/*.html
+# file, which breaks Netlify's content-type detection -- only quartz/static/
+# preserves it). This is a 200 rewrite (not a redirect), so the browser URL
+# stays /calendar/ while the response body comes from the real file. The
+# calendar's own HTML uses absolute asset paths for exactly this reason.
+/calendar   /static/calendar/index.html   200
+/calendar/  /static/calendar/index.html   200

@@ -36,6 +36,24 @@
   border-radius: 999px;
 }
 
+.home-calendar-link {
+  display: inline-block;
+  margin: 0 0 1.5rem;
+  padding: 0.45rem 0.9rem;
+  font-size: 0.85rem;
+  font-family: var(--bodyFont);
+  color: var(--secondary);
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  text-decoration: none;
+
+  &:hover,
+  &:focus-visible {
+    border-color: var(--gray);
+    background: var(--highlight);
+  }
+}
+
 .home-search-callout {
   display: block;
   margin: 0 0 2rem;
