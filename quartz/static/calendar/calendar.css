@@ -349,6 +349,14 @@ h2 {
   background: var(--accent-soft);
 }
 
+.fc-daygrid-event.is-unlinked .cal-event {
+  cursor: default;
+}
+
+.fc-daygrid-event.is-unlinked .cal-event:hover {
+  background: var(--border-soft);
+}
+
 .cal-event-dot {
   width: 6px;
   height: 6px;

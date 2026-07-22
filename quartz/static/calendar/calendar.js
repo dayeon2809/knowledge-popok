@@ -2,11 +2,9 @@
   "use strict";
 
   var DATA_URL = "/static/data/performances.json";
-  var CATEGORIES = ["무용", "클래식", "국악", "연극", "뮤지컬"];
-
   var state = {
     performances: [], // raw rows fetched once from performances.json
-    activeCategory: "ALL",
+    activeCategory: "DANCE",
     calendar: null,
   };
 
@@ -48,6 +46,11 @@
 
   function filteredPerformances() {
     if (state.activeCategory === "ALL") return state.performances;
+    if (state.activeCategory === "DANCE") {
+      return state.performances.filter(function (p) {
+        return p.category.indexOf("무용") !== -1 || p.category.indexOf("발레") !== -1;
+      });
+    }
     return state.performances.filter(function (p) {
       return p.category === state.activeCategory;
     });
@@ -63,20 +66,17 @@
 
   function toFullCalendarEvents(performances) {
     return performances.map(function (p) {
-      var start = p.start_date;
-      var end = p.end_date && p.end_date !== p.start_date ? addDays(p.end_date, 1) : undefined;
+      var end = p.end && p.end !== p.start ? addDays(p.end, 1) : undefined;
       return {
         id: String(p.id),
         title: p.title,
-        start: start,
+        start: p.start,
         end: end,
         allDay: true,
         extendedProps: {
           venue: p.venue,
           category: p.category,
-          city: p.city,
-          festival: p.festival,
-          detailUrl: p.url,
+          detailUrl: p.ticket_url,
         },
       };
     });
@@ -103,9 +103,8 @@
   }
 
   function cssEscapeCategory(category) {
-    // Category values are a fixed known set (무용/클래식/국악/연극/뮤지컬) plus "기타" --
-    // matches the --cat-* custom properties defined in calendar.css.
-    return CATEGORIES.indexOf(category) !== -1 ? category : "기타";
+    // Only the established categories have dedicated color variables.
+    return ["무용", "클래식", "국악", "연극", "뮤지컬"].indexOf(category) !== -1 ? category : "기타";
   }
 
   function handleEventClick(info) {
@@ -145,6 +144,9 @@
       },
       eventClick: handleEventClick,
       eventContent: renderEventContent,
+      eventClassNames: function (arg) {
+        return arg.event.extendedProps.detailUrl ? ["is-linked"] : ["is-unlinked"];
+      },
       events: [],
     });
     state.calendar.render();
@@ -174,6 +176,23 @@
       });
       state.activeCategory = btn.dataset.category;
       refreshEvents();
+    });
+  }
+
+  function renderFilters(categories) {
+    var nav = document.getElementById("filters");
+    categories.forEach(function (category) {
+      if (category === "무용") return;
+      var btn = document.createElement("button");
+      btn.className = "chip";
+      btn.dataset.category = category;
+
+      var dot = document.createElement("span");
+      dot.className = "chip-dot";
+      dot.dataset.cat = cssEscapeCategory(category);
+      btn.appendChild(dot);
+      btn.appendChild(document.createTextNode(category));
+      nav.appendChild(btn);
     });
   }
 
@@ -210,7 +229,7 @@
     drawerEls.dateLabel.textContent = formatDrawerDate(dateStr);
 
     var dayPerformances = filteredPerformances().filter(function (p) {
-      return isDateWithinRange(dateStr, p.start_date, p.end_date);
+      return isDateWithinRange(dateStr, p.start, p.end);
     });
 
     drawerEls.body.innerHTML = "";
@@ -231,9 +250,9 @@
   }
 
   function buildDrawerCard(p) {
-    var el = document.createElement(p.url ? "a" : "div");
-    el.className = "drawer-card " + (p.url ? "is-linked" : "is-unlinked");
-    if (p.url) el.href = p.url;
+    var el = document.createElement(p.ticket_url ? "a" : "div");
+    el.className = "drawer-card " + (p.ticket_url ? "is-linked" : "is-unlinked");
+    if (p.ticket_url) el.href = p.ticket_url;
 
     var tag = document.createElement("div");
     tag.className = "drawer-card-tag";
@@ -289,6 +308,7 @@
     fetchPerformances()
       .then(function (data) {
         state.performances = data.performances || [];
+        renderFilters(data.categories || []);
         showStatus(null);
         refreshEvents();
       })
